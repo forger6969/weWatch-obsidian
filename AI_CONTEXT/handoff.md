@@ -1,11 +1,11 @@
 ---
 type: handoff
-updated: 2026-04-30 11:37
+updated: 2026-04-30 12:13
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-04-30 11:37
+**Завершена:** 2026-04-30 12:13
 
 ## Последний коммит
 442b015 fix(mobile): pass inviteCode param when navigating to WatchPartyJoin from notification
