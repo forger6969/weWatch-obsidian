@@ -1,15 +1,27 @@
 ---
 type: handoff
-updated: 
+updated: 2026-04-30 11:37
 ---
 
-# 🔄 Handoff — Что было в прошлой сессии
+# 🔄 Handoff — Прошлая сессия
 
-## Последние изменения
-<!-- auto-updated by session-stop -->
+**Завершена:** 2026-04-30 11:37
 
-## Открытые вопросы
-<!-- auto-updated -->
+## Последний коммит
+442b015 fix(mobile): pass inviteCode param when navigating to WatchPartyJoin from notification
+
+## Незакоммиченных файлов
+13 файлов
+
+## Затронутые сервисы
+- mobile
+
+## Последние 5 коммитов
+- 442b015 fix(mobile): pass inviteCode param when navigating to WatchPartyJoin from notification
+- b3c1e1a fix(mobile): add shouldShowAlert for Android foreground push notifications
+- 9d56459 fix(shared): use Railway auto-provided URLs as fallback for user/notification service URLs
+- 64d501f chore(auth): remove temporary find user endpoint
+- d41451e temp: add internal find user endpoint
 
 ## Следующий шаг
-<!-- auto-updated -->
+<!-- заполни вручную перед выходом -->
