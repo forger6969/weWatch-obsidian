@@ -1,11 +1,11 @@
 ---
 type: handoff
-updated: 2026-05-01 05:54
+updated: 2026-05-01 06:04
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-01 05:54
+**Завершена:** 2026-05-01 06:04
 
 ## Последний коммит
 85e4a37 fix(player): never fall back to YouTube iframe embed when proxy URL exists
