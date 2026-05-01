@@ -19,13 +19,13 @@ last_worked:
 
 ## Recent Commits
 
-*Updated: 2026-05-01 00:25*
+*Updated: 2026-05-01 05:54*
 
+- 85e4a37 fix(player): never fall back to YouTube iframe embed when proxy URL exists
+- 3615c50 fix(youtube): store original URL in room, pass YouTube URL to proxy
+- 33aa37a fix(content): pass poToken+visitorData to ytdl agent + add 15s timeout
+- 11dedfc fix(user): save username on profile update + fix avatar response key
 - 442b015 fix(mobile): pass inviteCode param when navigating to WatchPartyJoin from notification
-- b3c1e1a fix(mobile): add shouldShowAlert for Android foreground push notifications
-- 9d56459 fix(shared): use Railway auto-provided URLs as fallback for user/notification service URLs
-- 64d501f chore(auth): remove temporary find user endpoint
-- d41451e temp: add internal find user endpoint
 
 
 ## Архитектурные решения
