@@ -1,14 +1,14 @@
 ---
 type: handoff
-updated: 2026-05-02 10:52
+updated: 2026-05-02 11:07
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-02 10:52
+**Завершена:** 2026-05-02 11:07
 
 ## Последний коммит
-3aa1a1e fix(youtube): embed fallback when proxy extraction fails
+cb19eae fix(youtube): fast embed fallback — skip yt-dlp, reduce ytdl-core timeout
 
 ## Незакоммиченных файлов
 2
@@ -17,11 +17,11 @@ updated: 2026-05-02 10:52
 
 
 ## Последние 5 коммитов
+- cb19eae fix(youtube): fast embed fallback — skip yt-dlp, reduce ytdl-core timeout
 - 3aa1a1e fix(youtube): embed fallback when proxy extraction fails
 - b1ab345 feat(skills): конкретное использование скиллов — дерево решений + inline агенты
 - 3dc884b fix(obsidian): checkpoint после каждого файла, не только на 50%
 - eb90873 refactor(obsidian): минимальный API для checkpoint — 1 строка вместо 20
-- 562f6ba feat(obsidian): in-progress.md — незавершённые задачи между сессиями
 
 ## Pending задачи — Saidazim
 - T-S067 | P0 | [ADMIN] | Admin UI — Production redesign: Sidebar + Layout + Header | pending[Saidazim]
