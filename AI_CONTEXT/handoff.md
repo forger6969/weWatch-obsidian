@@ -1,14 +1,14 @@
 ---
 type: handoff
-updated: 2026-05-02 10:02
+updated: 2026-05-02 10:30
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-02 10:02
+**Завершена:** 2026-05-02 10:30
 
 ## Последний коммит
-3dc884b fix(obsidian): checkpoint после каждого файла, не только на 50%
+b1ab345 feat(skills): конкретное использование скиллов — дерево решений + inline агенты
 
 ## Незакоммиченных файлов
 2
@@ -17,11 +17,11 @@ updated: 2026-05-02 10:02
 
 
 ## Последние 5 коммитов
+- b1ab345 feat(skills): конкретное использование скиллов — дерево решений + inline агенты
 - 3dc884b fix(obsidian): checkpoint после каждого файла, не только на 50%
 - eb90873 refactor(obsidian): минимальный API для checkpoint — 1 строка вместо 20
 - 562f6ba feat(obsidian): in-progress.md — незавершённые задачи между сессиями
 - cd66c5f fix(mobile): show empty player state (not spinner) on video_source_expired
-- 0f1d91d fix(mobile): prevent WebView from loading expired googlevideo URL
 
 ## Pending задачи — Saidazim
 - T-S067 | P0 | [ADMIN] | Admin UI — Production redesign: Sidebar + Layout + Header | pending[Saidazim]
