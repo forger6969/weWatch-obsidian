@@ -1,27 +1,24 @@
 ---
 type: handoff
-updated: 2026-05-01 06:42
+updated: 2026-05-02 09:22
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-01 06:42
+**Завершена:** 2026-05-02 09:22
 
 ## Последний коммит
-85e4a37 fix(player): never fall back to YouTube iframe embed when proxy URL exists
+562f6ba feat(obsidian): in-progress.md — незавершённые задачи между сессиями
 
 ## Незакоммиченных файлов
-26 файлов
-
-## Затронутые сервисы
-- mobile
+2 файлов
 
 ## Последние 5 коммитов
-- 85e4a37 fix(player): never fall back to YouTube iframe embed when proxy URL exists
-- 3615c50 fix(youtube): store original URL in room, pass YouTube URL to proxy
-- 33aa37a fix(content): pass poToken+visitorData to ytdl agent + add 15s timeout
-- 11dedfc fix(user): save username on profile update + fix avatar response key
-- 442b015 fix(mobile): pass inviteCode param when navigating to WatchPartyJoin from notification
+- 562f6ba feat(obsidian): in-progress.md — незавершённые задачи между сессиями
+- cd66c5f fix(mobile): show empty player state (not spinner) on video_source_expired
+- 0f1d91d fix(mobile): prevent WebView from loading expired googlevideo URL
+- 1ec1b6c fix(video): googlevideo.com IP-locked URL causes "Video yuklanmadi"
+- cdd81ee feat(mobile): UI polish — animations, Friends screens redesign
 
 ## Следующий шаг
-<!-- заполни вручную перед выходом -->
+<!-- Обновляется через: obsidian-note.sh progress -->
