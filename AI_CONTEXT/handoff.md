@@ -1,11 +1,11 @@
 ---
 type: handoff
-updated: 2026-05-02 11:07
+updated: 2026-05-02 11:09
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-02 11:07
+**Завершена:** 2026-05-02 11:09
 
 ## Последний коммит
 cb19eae fix(youtube): fast embed fallback — skip yt-dlp, reduce ytdl-core timeout
