@@ -1,11 +1,11 @@
 ---
 type: handoff
-updated: 2026-05-02 11:26
+updated: 2026-05-02 11:30
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-02 11:26
+**Завершена:** 2026-05-02 11:30
 
 ## Последний коммит
 400a4ea fix(youtube): fail fast on no video ID, fix yt-dlp format selection
