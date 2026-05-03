@@ -1,11 +1,11 @@
 ---
 type: handoff
-updated: 2026-05-03 00:10
+updated: 2026-05-03 00:35
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-03 00:10
+**Завершена:** 2026-05-03 00:35
 
 ## Последний коммит
 c6258e0 task: add T-E116 — WatchParty video_source_expired UX improvement for owner
