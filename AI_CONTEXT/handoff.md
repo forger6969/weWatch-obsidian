@@ -1,20 +1,20 @@
 ---
 type: handoff
-updated: 2026-05-03 10:50
+updated: 2026-05-03 10:51
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-03 10:50
+**Завершена:** 2026-05-03 10:51
 
 ## Последний коммит
 ecb5719 fix(tg): resolve private group by id via iter_dialogs (no username)
 
 ## Незакоммиченных файлов
-2
+3
 
 ## Изменённые файлы
-
+  - .claude/scripts/obsidian-session-start.sh
 
 ## Последние 5 коммитов
 - ecb5719 fix(tg): resolve private group by id via iter_dialogs (no username)
