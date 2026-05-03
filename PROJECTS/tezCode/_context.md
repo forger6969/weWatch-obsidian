@@ -6,71 +6,75 @@ updated: 2026-05-03
 
 # 🏢 tezCode — Компания
 
-**Тип:** IT-компания/студия полного цикла — стартапы + проекты на заказ + AI-инструменты  
+**Тип:** IT-стартап студия — все проекты собственные стартапы, заказных нет  
 **Локация:** Ташкент, Узбекистан (UTC+5)  
-**Размер команды:** ~14 разработчиков + менеджмент
+**Размер команды:** ~14 разработчиков  
+**Инфра:** Railway (хостинг), Telegram (коммуникация), Claude + AI агенты (рабочий инструмент)
 
 ---
 
-## 👥 Команда (полная)
+## 👥 Команда
 
-| Человек | GitHub / ник | Проект | Роль |
-|---------|-------------|--------|------|
-| Bekzod | — | AI-office | Основатель / лидер |
-| **Saidazim** | Foreger | **Rave** | Backend dev (топ-2 по коммитам) |
-| Emirhan | Emir | Rave | Mobile TL |
-| Kuplinov | Kuplinov7788 | Rave | — |
-| Behruz | — | Zzone | — |
-| Polat | ogerz3 | savdo-builder | — |
-| Abubakir | abubakirilhomov | HamshiraGo | — |
+| Человек | Telegram/GitHub | Проект | Роль |
+|---------|----------------|--------|------|
+| Bekzod | @webdevelopertk | AI-office | Основатель — центральный узел |
+| **Saidazim** | Foreger | **Rave** | Backend dev, топ-2 по активности |
+| Emirhan | @Emirhan7788 | Rave | Mobile TL |
+| Abubakir | @abubakirilhomov | HamshiraGo | — |
+| Diyor | @diyor_011 | HamshiraGo | — |
 | Jafar | WizardJafar | HamshiraGo | — |
-| Diyor | diyor011 | HamshiraGo | — |
-| Ziyoda | — | Work-Controll | — |
-| Ibrat | — | RAOS | — |
+| Behruz | @behruz_460 | Zzone | — |
+| Polat | ogerz3 | savdo-builder | — |
+| Azim | @Azim090 | savdo-builder | Savdo TL |
 | Sardor | — | VENTRA / sellerTrend | TL |
-| Yormatov | — | RAOS | COO |
-| Azim | — | savdo-builder | Savdo TL |
-| Rayy / Firdavs | RAYYQF | tezCode Marketing | Marketing |
+| Yormatov | @mr_abdulaziz_yormatov | RAOS | COO |
+| Ziyoda | — | Work-Controll | — |
+| Ibrat | — | RAOS / POS-cosmetics | — |
+| Rayy / Firdavs | @RAYYQF | tezCode Marketing | — |
 
 ---
 
-## 📦 Активные проекты
+## 📦 Стартапы (все собственные)
 
-| Проект | Разработчик(и) | Тип |
-|--------|---------------|-----|
-| **Rave (weWatch/CineSync)** | Saidazim + Emirhan | Стартап — соц. онлайн-кинотеатр |
-| AI-office | Bekzod | Стартап — AI |
-| Zzone | Behruz | — |
-| HamshiraGo | Abubakir + Jafar + Diyor | Медицина |
-| savdo-builder | Polat | Торговля |
-| VENTRA / sellerTrend | Sardor | Торговля/аналитика |
-| Work-Controll | Ziyoda | Управление |
-| RAOS | Ibrat + Yormatov | — |
-| POS-cosmetics | Ibrat | Косметика |
-| ai-trade-agent | ABUQORIgggg | AI трейдинг |
-
----
-
-## 📊 Активность (48ч снимок: 2026-04-26 → 2026-04-28)
-
-- Всего: 74 коммита, 7 репо
-- Топ: Bekzod (27) + Saidazim (20) = 63% всей работы команды
-- 5 TL без коммитов: Yormatov, Azim, Emir, Sardor, Rayy
-- Проблемные коммиты: "DSADSA", "FDS/FSD" — нет стандарта
+| Проект | Команда | Статус | Описание |
+|--------|---------|--------|----------|
+| **HamshiraGo** | Abubakir + Jafar + Diyor | 🟢 Флагман (661 commit, production-ready) | Медицинская платформа для медсестёр и клиник |
+| **AI-office (OpenClaw)** | Bekzod | 🟡 Alpha/Beta | AI-ассистент для бизнеса (CEO помощник) |
+| **Rave (weWatch)** | Saidazim + Emirhan | 🟡 MVP | Социальный онлайн-кинотеатр |
+| **Zzone** | Behruz | 🔵 В разработке | — |
+| **savdo-builder** | Polat + Azim | 🔵 В разработке | Торговая платформа |
+| **VENTRA / sellerTrend** | Sardor | 🔵 В разработке | Аналитика продаж |
+| **POS-cosmetics** | Ibrat | 🟡 Работает | Косметика (118 заказов, ~99 млн сум) |
+| **Work-Controll** | Ziyoda | 🔵 В разработке | Управление рабочим временем |
+| **RAOS** | Ibrat + Yormatov | 🔵 В разработке | — |
 
 ---
 
 ## 🤖 Как tezCode работает с AI
 
-- Используют Claude Code и другие AI-инструменты
-- Saidazim — наиболее продвинутый пользователь Claude в команде
-- Компания позиционирует себя как AI-first команда
+- Bekzod использует Claude для всего: тесты, анализ, агенты, стратегия
+- `notfication_tezcode_bot` — собственный Telegram бот команды
+- Параллельные фоновые агенты (Playwright MCP, visual testing)
+- **Saidazim** — наиболее продвинутый пользователь Claude Code в команде
+- Команда переходит на AI-first подход (Bekzod двигает это направление)
 
 ---
 
-## 💡 Характер компании
+## 💡 Характер и стратегия
 
-tezCode — команда которая **может всё**: выпускать стартапы, делать проекты на заказ, работать с AI. Одновременно ведут 8-10 разных проектов. Bekzod — центральный узел. Saidazim — топ-2 по активности, независимый технический лидер на Rave.
+- Все проекты — собственные стартапы (не заказная разработка)
+- Bekzod строит AI-office как платформу для самой команды
+- HamshiraGo — флагман по зрелости, партнёрство с клиниками, гранты (World Bank MUNIS $50M)
+- Юридические вопросы: налоговые льготы для IT Park резидентов, стартап гранты государства
+- Инвесторы/Venture Fund — рассматривается как последний вариант
+
+---
+
+## 📊 Активность (48ч: 2026-04-26 → 2026-04-28)
+
+- Топ: Bekzod (27) + Saidazim (20) = 63% всей работы
+- Проблема: 5 TL без коммитов (Yormatov, Azim, Emirhan, Sardor, Rayy)
+- Нет стандарта коммитов у некоторых (DSADSA, FDS/FSD)
 
 ---
 
