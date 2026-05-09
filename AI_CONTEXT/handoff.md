@@ -1,14 +1,14 @@
 ---
 type: handoff
-updated: 2026-05-08 22:37
+updated: 2026-05-08 22:46
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-08 22:37
+**Завершена:** 2026-05-08 22:46
 
 ## Последний коммит
-b2b0ebb task: add T-S074, T-S075, T-E117 — dynamic domain blocking system [Saidazim]
+2a67589 task: T-S074 done → Done.md [Saidazim]
 
 ## Незакоммиченных файлов
 3
@@ -17,11 +17,11 @@ b2b0ebb task: add T-S074, T-S075, T-E117 — dynamic domain blocking system [Sai
   - .claude/scripts/obsidian-session-start.sh
 
 ## Последние 5 коммитов
+- 2a67589 task: T-S074 done → Done.md [Saidazim]
+- 29776d6 feat(content): T-S074 — Domain Management API (block/unblock + public list)
+- ffd1def task: claim T-S074 [Saidazim]
 - b2b0ebb task: add T-S074, T-S075, T-E117 — dynamic domain blocking system [Saidazim]
 - 26ced4d task: T-S072 done → Done.md [Saidazim]
-- 98f1667 feat(content): T-S072 — URL Telemetry anonymous domain analytics
-- 5d6a961 fix(tg): resolve private group by id via iter_dialogs (no username)
-- f584a43 task: claim T-E111 [Emirhan]
 
 ## Pending задачи — Saidazim
 - T-S068 | P0 | [ADMIN] | Admin UI — User Detail page (/users/:id) + Contact user | pending[Saidazim]
