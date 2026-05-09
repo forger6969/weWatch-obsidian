@@ -1,14 +1,14 @@
 ---
 type: handoff
-updated: 2026-05-09 14:56
+updated: 2026-05-09 15:01
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-09 14:56
+**Завершена:** 2026-05-09 15:01
 
 ## Последний коммит
-82c864f fix(admin-ui): null-safe formatDetails in AuditLogsPage — details can be undefined in DB
+40c826e feat(content): T-S085 — domain visit tracking endpoint POST /domains/visit
 
 ## Незакоммиченных файлов
 2
@@ -17,11 +17,11 @@ updated: 2026-05-09 14:56
 
 
 ## Последние 5 коммитов
+- 40c826e feat(content): T-S085 — domain visit tracking endpoint POST /domains/visit
 - 82c864f fix(admin-ui): null-safe formatDetails in AuditLogsPage — details can be undefined in DB
 - 224fa09 task: claim T-E118 [Emirhan]
 - 3c72e83 chore: move T-E112/113/114/115/116 to Done.md (F-212..F-216) [Emirhan]
 - f456ef5 test(admin-ui): E2E Playwright suite — 25 tests, all 17 sections
-- 1b06113 feat(mobile): T-E114 — chat reply to message (long press + preview + bubble reference)
 
 ## Pending задачи — Saidazim
 - T-S082 | P2 | [DEVOPS] | Security: Deploy workflows — CI/CD pipeline qo'shish | pending[Saidazim]
@@ -31,5 +31,6 @@ updated: 2026-05-09 14:56
 - T-S070 | P1 | [ADMIN] | Admin UI — Dashboard redesign: activity feed + error trend chart | pending[Saidazim]
 
 ## Pending задачи — Emirhan
+- T-E120 | P1 | [MOBILE] | Domain tracking — WebView da tashrif buyurilgan domenni backendga yuborish | pending[Emirhan]
 - T-E118 | P1 | [MOBILE] | In-app Support Chat — user can contact support + see replies | pending[Emirhan]
 - T-E119 | P2 | [MOBILE] | Push notification — support reply received | pending[Emirhan]
