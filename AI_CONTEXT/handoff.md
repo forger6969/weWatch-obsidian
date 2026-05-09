@@ -1,11 +1,11 @@
 ---
 type: handoff
-updated: 2026-05-09 14:52
+updated: 2026-05-09 14:54
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-09 14:52
+**Завершена:** 2026-05-09 14:54
 
 ## Последний коммит
 82c864f fix(admin-ui): null-safe formatDetails in AuditLogsPage — details can be undefined in DB
