@@ -1,27 +1,27 @@
 ---
 type: handoff
-updated: 2026-05-09 01:24
+updated: 2026-05-09 14:24
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-09 01:24
+**Завершена:** 2026-05-09 14:24
 
 ## Последний коммит
-58c3a43 fix(mobile): WebView desktop UA + block IFRAME_SCAN on auth pages
+4e1ef06 task: T-S084-T-S086 done → Done.md, resolve merge conflict [Saidazim]
 
 ## Незакоммиченных файлов
-3
+2
 
 ## Изменённые файлы
-  - .claude/scripts/obsidian-session-start.sh
+
 
 ## Последние 5 коммитов
-- 58c3a43 fix(mobile): WebView desktop UA + block IFRAME_SCAN on auth pages
-- 0e5d17d feat(ci): T-S082 — Railway deploy workflows (prod + staging) refactor(shared): T-S083 — split serviceClient.ts 617L → 3 files (276+255+34)
-- bbe55be fix(security): MEDIUM/LOW audit issues #8,#9,#11,#12,#13,#15,#17,#18,#19
-- dd5cebf fix(security): T-S076-T-S081 — address CRITICAL/HIGH audit issues from Абдулазиз
-- d1e3a46 task: T-S075 done → Done.md [Saidazim]
+- 4e1ef06 task: T-S084-T-S086 done → Done.md, resolve merge conflict [Saidazim]
+- ee6aa20 feat(support): T-S084-T-S086 — Support Chat system (backend + admin UI)
+- f0b0682 task: add T-S084–T-S086, T-E118–T-E119 — Support Chat system (backend + admin UI + mobile)
+- d636617 task: claim T-E115 [Emirhan]
+- c954a4e fix(mobile): T-E111 done — move to Done.md, update Tasks.md [Emirhan]
 
 ## Pending задачи — Saidazim
 - T-S082 | P2 | [DEVOPS] | Security: Deploy workflows — CI/CD pipeline qo'shish | pending[Saidazim]
@@ -31,4 +31,6 @@ updated: 2026-05-09 01:24
 - T-S070 | P1 | [ADMIN] | Admin UI — Dashboard redesign: activity feed + error trend chart | pending[Saidazim]
 
 ## Pending задачи — Emirhan
+- T-E118 | P1 | [MOBILE] | In-app Support Chat — user can contact support + see replies | pending[Emirhan]
+- T-E119 | P2 | [MOBILE] | Push notification — support reply received | pending[Emirhan]
 - T-E116 | P1 | [MOBILE] | WatchParty — video_source_expired: улучшить UX для owner | pending[Emirhan]
