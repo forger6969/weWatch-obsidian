@@ -1,35 +1,34 @@
 ---
 type: handoff
-updated: 2026-05-08 23:31
+updated: 2026-05-08 23:43
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-08 23:31
+**Завершена:** 2026-05-08 23:43
 
 ## Последний коммит
-d1e3a46 task: T-S075 done → Done.md [Saidazim]
+dd5cebf fix(security): T-S076-T-S081 — address CRITICAL/HIGH audit issues from Абдулазиз
 
 ## Незакоммиченных файлов
-5
+3
 
 ## Изменённые файлы
   - .claude/scripts/obsidian-session-start.sh
-  - services/content/src/routes/content.routes.ts
 
 ## Последние 5 коммитов
+- dd5cebf fix(security): T-S076-T-S081 — address CRITICAL/HIGH audit issues from Абдулазиз
 - d1e3a46 task: T-S075 done → Done.md [Saidazim]
 - 5327032 feat(admin): T-S075 — Domain Management page (dynamic blocking)
 - 61cebf5 task: claim T-S075 [Saidazim]
 - 951b0a1 task: add T-S076, T-S077 — security critical fixes from audit [Saidazim]
-- 2a67589 task: T-S074 done → Done.md [Saidazim]
 
 ## Pending задачи — Saidazim
-- T-S076 | P0 | [BACKEND] | Security: /internal/user-watch-stats — добавить аутентификацию | pending[Saidazim]
-- T-S077 | P0 | [BACKEND] | Security: production Railway URLs — playwright.config dan o'chirish | pending[Saidazim]
-- T-S068 | P0 | [ADMIN] | Admin UI — User Detail page (/users/:id) + Contact user | pending[Saidazim]
-- T-S069 | P0 | [ADMIN] | Admin UI — ErrorsPage: user info + contact button in EventDrawer | pending[Saidazim]
-- T-S070 | P1 | [ADMIN] | Admin UI — Dashboard redesign: activity feed + error trend chart | pending[Saidazim]
+- T-S077 | P0 | [BACKEND] | Security: prod URLs playwright.config dan o'chirish | pending[Saidazim]
+- T-S078 | P0 | [BACKEND] | Security: /init-admin va /clear-attempts — rate limit + auth | pending[Saidazim]
+- T-S079 | P0 | [BACKEND] | Security: JWT access token 6h → 15min | pending[Saidazim]
+- T-S080 | P0 | [BACKEND] | Security: requireNotBlocked fail-closed qilish | pending[Saidazim]
+- T-S081 | P1 | [DEVOPS] | Security: NEXTAUTH_SECRET docker-compose dan o'chirish | pending[Saidazim]
 
 ## Pending задачи — Emirhan
 - T-E116 | P1 | [MOBILE] | WatchParty — video_source_expired: улучшить UX для owner | pending[Emirhan]
