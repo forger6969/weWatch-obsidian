@@ -1,20 +1,21 @@
 ---
 type: handoff
-updated: 2026-05-08 19:43
+updated: 2026-05-08 19:45
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-08 19:43
+**Завершена:** 2026-05-08 19:45
 
 ## Последний коммит
 5d6a961 fix(tg): resolve private group by id via iter_dialogs (no username)
 
 ## Незакоммиченных файлов
-3
+4
 
 ## Изменённые файлы
   - .claude/scripts/obsidian-session-start.sh
+  - docs/Tasks.md
 
 ## Последние 5 коммитов
 - 5d6a961 fix(tg): resolve private group by id via iter_dialogs (no username)
