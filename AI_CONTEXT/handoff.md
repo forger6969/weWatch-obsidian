@@ -1,11 +1,11 @@
 ---
 type: handoff
-updated: 2026-05-09 01:23
+updated: 2026-05-09 01:24
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-09 01:23
+**Завершена:** 2026-05-09 01:24
 
 ## Последний коммит
 58c3a43 fix(mobile): WebView desktop UA + block IFRAME_SCAN on auth pages
