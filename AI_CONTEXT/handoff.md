@@ -1,14 +1,14 @@
 ---
 type: handoff
-updated: 2026-05-09 16:25
+updated: 2026-05-09 16:34
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-09 16:25
+**Завершена:** 2026-05-09 16:34
 
 ## Последний коммит
-a31d29c fix(watch-party): resolve video jumping on member join
+d3b5939 fix(content): video extractor reliability — TTL, Playwright cap, yt-dlp retry
 
 ## Незакоммиченных файлов
 2
@@ -17,11 +17,11 @@ a31d29c fix(watch-party): resolve video jumping on member join
 
 
 ## Последние 5 коммитов
+- d3b5939 fix(content): video extractor reliability — TTL, Playwright cap, yt-dlp retry
+- 45eede8 feat(content): T-S085 — domain visit tracking endpoint POST /domains/visit
 - a31d29c fix(watch-party): resolve video jumping on member join
 - 99e523c feat(mobile): add adminClient to API client (support chat prep)
 - 5d6e659 feat(mobile): T-E118/T-E119 — in-app support chat + push notification handler
-- 40c826e feat(content): T-S085 — domain visit tracking endpoint POST /domains/visit
-- 82c864f fix(admin-ui): null-safe formatDetails in AuditLogsPage — details can be undefined in DB
 
 ## Pending задачи — Saidazim
 - T-S087 | P1 | [BACKEND] | Support chat internal routes — JWT auth instead of internal secret | pending[Saidazim]
