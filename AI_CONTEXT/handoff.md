@@ -1,14 +1,14 @@
 ---
 type: handoff
-updated: 2026-05-08 23:46
+updated: 2026-05-08 23:56
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-08 23:46
+**Завершена:** 2026-05-08 23:56
 
 ## Последний коммит
-dd5cebf fix(security): T-S076-T-S081 — address CRITICAL/HIGH audit issues from Абдулазиз
+bbe55be fix(security): MEDIUM/LOW audit issues #8,#9,#11,#12,#13,#15,#17,#18,#19
 
 ## Незакоммиченных файлов
 3
@@ -17,18 +17,18 @@ dd5cebf fix(security): T-S076-T-S081 — address CRITICAL/HIGH audit issues from
   - .claude/scripts/obsidian-session-start.sh
 
 ## Последние 5 коммитов
+- bbe55be fix(security): MEDIUM/LOW audit issues #8,#9,#11,#12,#13,#15,#17,#18,#19
 - dd5cebf fix(security): T-S076-T-S081 — address CRITICAL/HIGH audit issues from Абдулазиз
 - d1e3a46 task: T-S075 done → Done.md [Saidazim]
 - 5327032 feat(admin): T-S075 — Domain Management page (dynamic blocking)
 - 61cebf5 task: claim T-S075 [Saidazim]
-- 951b0a1 task: add T-S076, T-S077 — security critical fixes from audit [Saidazim]
 
 ## Pending задачи — Saidazim
-- T-S077 | P0 | [BACKEND] | Security: prod URLs playwright.config dan o'chirish | pending[Saidazim]
-- T-S078 | P0 | [BACKEND] | Security: /init-admin va /clear-attempts — rate limit + auth | pending[Saidazim]
-- T-S079 | P0 | [BACKEND] | Security: JWT access token 6h → 15min | pending[Saidazim]
-- T-S080 | P0 | [BACKEND] | Security: requireNotBlocked fail-closed qilish | pending[Saidazim]
-- T-S081 | P1 | [DEVOPS] | Security: NEXTAUTH_SECRET docker-compose dan o'chirish | pending[Saidazim]
+- T-S082 | P2 | [DEVOPS] | Security: Deploy workflows — CI/CD pipeline qo'shish | pending[Saidazim]
+- T-S083 | P3 | [BACKEND] | Quality: 26 god files (>15KB) — split eng katta 3 tasi | pending[Saidazim]
+- T-S068 | P0 | [ADMIN] | Admin UI — User Detail page (/users/:id) + Contact user | pending[Saidazim]
+- T-S069 | P0 | [ADMIN] | Admin UI — ErrorsPage: user info + contact button in EventDrawer | pending[Saidazim]
+- T-S070 | P1 | [ADMIN] | Admin UI — Dashboard redesign: activity feed + error trend chart | pending[Saidazim]
 
 ## Pending задачи — Emirhan
 - T-E116 | P1 | [MOBILE] | WatchParty — video_source_expired: улучшить UX для owner | pending[Emirhan]
