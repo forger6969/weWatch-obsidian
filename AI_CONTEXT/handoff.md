@@ -1,14 +1,14 @@
 ---
 type: handoff
-updated: 2026-05-08 23:56
+updated: 2026-05-09 00:05
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-08 23:56
+**Завершена:** 2026-05-09 00:05
 
 ## Последний коммит
-bbe55be fix(security): MEDIUM/LOW audit issues #8,#9,#11,#12,#13,#15,#17,#18,#19
+0e5d17d feat(ci): T-S082 — Railway deploy workflows (prod + staging) refactor(shared): T-S083 — split serviceClient.ts 617L → 3 files (276+255+34)
 
 ## Незакоммиченных файлов
 3
@@ -17,11 +17,11 @@ bbe55be fix(security): MEDIUM/LOW audit issues #8,#9,#11,#12,#13,#15,#17,#18,#19
   - .claude/scripts/obsidian-session-start.sh
 
 ## Последние 5 коммитов
+- 0e5d17d feat(ci): T-S082 — Railway deploy workflows (prod + staging) refactor(shared): T-S083 — split serviceClient.ts 617L → 3 files (276+255+34)
 - bbe55be fix(security): MEDIUM/LOW audit issues #8,#9,#11,#12,#13,#15,#17,#18,#19
 - dd5cebf fix(security): T-S076-T-S081 — address CRITICAL/HIGH audit issues from Абдулазиз
 - d1e3a46 task: T-S075 done → Done.md [Saidazim]
 - 5327032 feat(admin): T-S075 — Domain Management page (dynamic blocking)
-- 61cebf5 task: claim T-S075 [Saidazim]
 
 ## Pending задачи — Saidazim
 - T-S082 | P2 | [DEVOPS] | Security: Deploy workflows — CI/CD pipeline qo'shish | pending[Saidazim]
