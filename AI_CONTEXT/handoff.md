@@ -1,14 +1,14 @@
 ---
 type: handoff
-updated: 2026-05-08 19:39
+updated: 2026-05-08 19:41
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-08 19:39
+**Завершена:** 2026-05-08 19:41
 
 ## Последний коммит
-ecb5719 fix(tg): resolve private group by id via iter_dialogs (no username)
+5d6a961 fix(tg): resolve private group by id via iter_dialogs (no username)
 
 ## Незакоммиченных файлов
 3
@@ -17,11 +17,11 @@ ecb5719 fix(tg): resolve private group by id via iter_dialogs (no username)
   - .claude/scripts/obsidian-session-start.sh
 
 ## Последние 5 коммитов
-- ecb5719 fix(tg): resolve private group by id via iter_dialogs (no username)
+- 5d6a961 fix(tg): resolve private group by id via iter_dialogs (no username)
+- f584a43 task: claim T-E111 [Emirhan]
+- 108f63a task: add T-E111, T-S072, T-S073 — content filter + URL telemetry + admin domain management [Emirhan]
 - 6b442d3 feat(tg): tezCode Telegram monitoring system (Telethon)
 - c6258e0 task: add T-E116 — WatchParty video_source_expired UX improvement for owner
-- 6d34bd9 fix(watch-party): reject googlevideo.com IP-locked CDN URLs in room create/update/playlist
-- 4d4121e law: strict daily note check at session start — checkpoint verification protocol
 
 ## Pending задачи — Saidazim
 - T-S068 | P0 | [ADMIN] | Admin UI — User Detail page (/users/:id) + Contact user | pending[Saidazim]
