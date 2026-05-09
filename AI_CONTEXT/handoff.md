@@ -1,11 +1,11 @@
 ---
 type: handoff
-updated: 2026-05-09 15:56
+updated: 2026-05-09 16:19
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-09 15:56
+**Завершена:** 2026-05-09 16:19
 
 ## Последний коммит
 a31d29c fix(watch-party): resolve video jumping on member join
