@@ -1,14 +1,14 @@
 ---
 type: handoff
-updated: 2026-05-09 14:29
+updated: 2026-05-09 14:35
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-09 14:29
+**Завершена:** 2026-05-09 14:35
 
 ## Последний коммит
-4e1ef06 task: T-S084-T-S086 done → Done.md, resolve merge conflict [Saidazim]
+f456ef5 test(admin-ui): E2E Playwright suite — 25 tests, all 17 sections
 
 ## Незакоммиченных файлов
 2
@@ -17,11 +17,11 @@ updated: 2026-05-09 14:29
 
 
 ## Последние 5 коммитов
-- 4e1ef06 task: T-S084-T-S086 done → Done.md, resolve merge conflict [Saidazim]
-- ee6aa20 feat(support): T-S084-T-S086 — Support Chat system (backend + admin UI)
-- f0b0682 task: add T-S084–T-S086, T-E118–T-E119 — Support Chat system (backend + admin UI + mobile)
-- d636617 task: claim T-E115 [Emirhan]
-- c954a4e fix(mobile): T-E111 done — move to Done.md, update Tasks.md [Emirhan]
+- f456ef5 test(admin-ui): E2E Playwright suite — 25 tests, all 17 sections
+- 1b06113 feat(mobile): T-E114 — chat reply to message (long press + preview + bubble reference)
+- fa4b22f fix(mobile): T-E113 — chat message username resolved from QueryClient cache
+- 16b7f9d feat(mobile): T-E112 — WatchParty active members strip with avatar + username + owner badge
+- f7a19d5 fix(mobile): T-E116 — video_source_expired owner gets inline update button
 
 ## Pending задачи — Saidazim
 - T-S082 | P2 | [DEVOPS] | Security: Deploy workflows — CI/CD pipeline qo'shish | pending[Saidazim]
