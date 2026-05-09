@@ -1,11 +1,11 @@
 ---
 type: handoff
-updated: 2026-05-08 22:15
+updated: 2026-05-08 22:17
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-08 22:15
+**Завершена:** 2026-05-08 22:17
 
 ## Последний коммит
 5d6a961 fix(tg): resolve private group by id via iter_dialogs (no username)
