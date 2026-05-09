@@ -1,14 +1,14 @@
 ---
 type: handoff
-updated: 2026-05-09 01:00
+updated: 2026-05-09 01:08
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-09 01:00
+**Завершена:** 2026-05-09 01:08
 
 ## Последний коммит
-0e5d17d feat(ci): T-S082 — Railway deploy workflows (prod + staging) refactor(shared): T-S083 — split serviceClient.ts 617L → 3 files (276+255+34)
+58c3a43 fix(mobile): WebView desktop UA + block IFRAME_SCAN on auth pages
 
 ## Незакоммиченных файлов
 3
@@ -17,11 +17,11 @@ updated: 2026-05-09 01:00
   - .claude/scripts/obsidian-session-start.sh
 
 ## Последние 5 коммитов
+- 58c3a43 fix(mobile): WebView desktop UA + block IFRAME_SCAN on auth pages
 - 0e5d17d feat(ci): T-S082 — Railway deploy workflows (prod + staging) refactor(shared): T-S083 — split serviceClient.ts 617L → 3 files (276+255+34)
 - bbe55be fix(security): MEDIUM/LOW audit issues #8,#9,#11,#12,#13,#15,#17,#18,#19
 - dd5cebf fix(security): T-S076-T-S081 — address CRITICAL/HIGH audit issues from Абдулазиз
 - d1e3a46 task: T-S075 done → Done.md [Saidazim]
-- 5327032 feat(admin): T-S075 — Domain Management page (dynamic blocking)
 
 ## Pending задачи — Saidazim
 - T-S082 | P2 | [DEVOPS] | Security: Deploy workflows — CI/CD pipeline qo'shish | pending[Saidazim]
