@@ -1,33 +1,35 @@
 ---
 type: handoff
-updated: 2026-05-08 22:46
+updated: 2026-05-08 23:01
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-08 22:46
+**Завершена:** 2026-05-08 23:01
 
 ## Последний коммит
-2a67589 task: T-S074 done → Done.md [Saidazim]
+d1e3a46 task: T-S075 done → Done.md [Saidazim]
 
 ## Незакоммиченных файлов
-3
+4
 
 ## Изменённые файлы
   - .claude/scripts/obsidian-session-start.sh
+  - services/content/src/routes/content.routes.ts
 
 ## Последние 5 коммитов
+- d1e3a46 task: T-S075 done → Done.md [Saidazim]
+- 5327032 feat(admin): T-S075 — Domain Management page (dynamic blocking)
+- 61cebf5 task: claim T-S075 [Saidazim]
+- 951b0a1 task: add T-S076, T-S077 — security critical fixes from audit [Saidazim]
 - 2a67589 task: T-S074 done → Done.md [Saidazim]
-- 29776d6 feat(content): T-S074 — Domain Management API (block/unblock + public list)
-- ffd1def task: claim T-S074 [Saidazim]
-- b2b0ebb task: add T-S074, T-S075, T-E117 — dynamic domain blocking system [Saidazim]
-- 26ced4d task: T-S072 done → Done.md [Saidazim]
 
 ## Pending задачи — Saidazim
+- T-S076 | P0 | [BACKEND] | Security: /internal/user-watch-stats — добавить аутентификацию | pending[Saidazim]
+- T-S077 | P0 | [BACKEND] | Security: production Railway URLs — playwright.config dan o'chirish | pending[Saidazim]
 - T-S068 | P0 | [ADMIN] | Admin UI — User Detail page (/users/:id) + Contact user | pending[Saidazim]
 - T-S069 | P0 | [ADMIN] | Admin UI — ErrorsPage: user info + contact button in EventDrawer | pending[Saidazim]
 - T-S070 | P1 | [ADMIN] | Admin UI — Dashboard redesign: activity feed + error trend chart | pending[Saidazim]
-- T-S071 | P2 | [ADMIN] | Admin UI — Global search Cmd+K | pending[Saidazim]
 
 ## Pending задачи — Emirhan
 - T-E116 | P1 | [MOBILE] | WatchParty — video_source_expired: улучшить UX для owner | pending[Emirhan]
