@@ -1,11 +1,11 @@
 ---
 type: handoff
-updated: 2026-05-09 22:29
+updated: 2026-05-09 22:31
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-09 22:29
+**Завершена:** 2026-05-09 22:31
 
 ## Последний коммит
 782d3ab feat(moderation): room reports + account appeals system
