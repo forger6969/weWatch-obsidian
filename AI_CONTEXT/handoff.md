@@ -1,14 +1,14 @@
 ---
 type: handoff
-updated: 2026-05-10 15:36
+updated: 2026-05-10 15:45
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-10 15:36
+**Завершена:** 2026-05-10 15:45
 
 ## Последний коммит
-a8fa8fd fix(admin-ui): remove duplicate /api/v1 prefix in moderation API paths
+7e19a3c fix(admin): scope support router verifyToken to /support path — was blocking /internal/moderation/appeals
 
 ## Незакоммиченных файлов
 3
@@ -17,11 +17,11 @@ a8fa8fd fix(admin-ui): remove duplicate /api/v1 prefix in moderation API paths
   - package-lock.json
 
 ## Последние 5 коммитов
+- 7e19a3c fix(admin): scope support router verifyToken to /support path — was blocking /internal/moderation/appeals
 - a8fa8fd fix(admin-ui): remove duplicate /api/v1 prefix in moderation API paths
 - 849d789 fix(mobile): remove duplicate /api/v1 prefix in appeal and report API paths
 - 5dfb3aa fix(appeal): unblock appeal endpoint from JWT requirement — fix infinite spinner
 - 00d144a fix(auth): show blocked modal for Google OAuth — store error in Redis, detect in poll
-- 800bda8 fix(shared): error middleware — handle plain Error with statusCode (ACCOUNT_BLOCKED)
 
 ## Pending задачи — Saidazim
 - T-S089 | P1 | [BACKEND] | Support chat — Socket.io real-time namespace /support | pending[Saidazim]
