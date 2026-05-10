@@ -1,11 +1,11 @@
 ---
 type: handoff
-updated: 2026-05-10 15:17
+updated: 2026-05-10 15:18
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-10 15:17
+**Завершена:** 2026-05-10 15:18
 
 ## Последний коммит
 5dfb3aa fix(appeal): unblock appeal endpoint from JWT requirement — fix infinite spinner
