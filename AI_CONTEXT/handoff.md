@@ -1,27 +1,27 @@
 ---
 type: handoff
-updated: 2026-05-09 19:28
+updated: 2026-05-09 19:36
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-09 19:28
+**Завершена:** 2026-05-09 19:36
 
 ## Последний коммит
-fbd5fce task: claim T-S089 + T-S090 + T-E122 — support chat Socket.io real-time [Saidazim]
+5f7384e feat(support): Socket.io real-time chat — backend /support namespace, mobile hook, admin UI client
 
 ## Незакоммиченных файлов
-2
+3
 
 ## Изменённые файлы
-
+  - package-lock.json
 
 ## Последние 5 коммитов
+- 5f7384e feat(support): Socket.io real-time chat — backend /support namespace, mobile hook, admin UI client
 - fbd5fce task: claim T-S089 + T-S090 + T-E122 — support chat Socket.io real-time [Saidazim]
 - 7043a75 fix(support): mobile poll admin replies every 8s + add support_reply notification type
 - 9e70ff2 fix(admin): support service — remove .lean() so toJSON virtuals add 'id' field for admin UI
 - cdc0564 fix(admin): support sendMessage — use user.userId not user.id for adminId
-- 45a65b1 fix(mobile): adminClient double /api/v1 — EXPO_PUBLIC_ADMIN_URL already includes /api/v1
 
 ## Pending задачи — Saidazim
 - T-S089 | P1 | [BACKEND] | Support chat — Socket.io real-time namespace /support | pending[Saidazim]
