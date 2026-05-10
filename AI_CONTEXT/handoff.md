@@ -1,11 +1,11 @@
 ---
 type: handoff
-updated: 2026-05-09 17:07
+updated: 2026-05-09 17:08
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-09 17:07
+**Завершена:** 2026-05-09 17:08
 
 ## Последний коммит
 d3b5939 fix(content): video extractor reliability — TTL, Playwright cap, yt-dlp retry
