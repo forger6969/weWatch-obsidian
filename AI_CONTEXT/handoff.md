@@ -1,14 +1,14 @@
 ---
 type: handoff
-updated: 2026-05-10 13:49
+updated: 2026-05-10 14:56
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-10 13:49
+**Завершена:** 2026-05-10 14:56
 
 ## Последний коммит
-800bda8 fix(shared): error middleware — handle plain Error with statusCode (ACCOUNT_BLOCKED)
+00d144a fix(auth): show blocked modal for Google OAuth — store error in Redis, detect in poll
 
 ## Незакоммиченных файлов
 3
@@ -17,11 +17,11 @@ updated: 2026-05-10 13:49
   - package-lock.json
 
 ## Последние 5 коммитов
+- 00d144a fix(auth): show blocked modal for Google OAuth — store error in Redis, detect in poll
 - 800bda8 fix(shared): error middleware — handle plain Error with statusCode (ACCOUNT_BLOCKED)
 - 4bb9c9d fix(auth): block banned users on login/refresh/google + fix requireNotBlocked response code
 - a93c893 fix(mobile): eliminate isAuthenticated=true+user=null race in hydrate
 - 4a1e0d1 fix(mobile): resolve infinite spinner after failed logout on restart
-- 782d3ab feat(moderation): room reports + account appeals system
 
 ## Pending задачи — Saidazim
 - T-S089 | P1 | [BACKEND] | Support chat — Socket.io real-time namespace /support | pending[Saidazim]
