@@ -1,14 +1,14 @@
 ---
 type: handoff
-updated: 2026-05-09 21:39
+updated: 2026-05-09 22:29
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-09 21:39
+**Завершена:** 2026-05-09 22:29
 
 ## Последний коммит
-b64f799 fix(mobile): dedup addNotification in store + dedup sendMutation onSuccess — prevent duplicate FlatList keys
+782d3ab feat(moderation): room reports + account appeals system
 
 ## Незакоммиченных файлов
 3
@@ -17,11 +17,11 @@ b64f799 fix(mobile): dedup addNotification in store + dedup sendMutation onSucce
   - package-lock.json
 
 ## Последние 5 коммитов
+- 782d3ab feat(moderation): room reports + account appeals system
 - b64f799 fix(mobile): dedup addNotification in store + dedup sendMutation onSuccess — prevent duplicate FlatList keys
 - 3c5f478 feat(support): new chat button after closed conversation — POST /internal/support/user/:userId/conversations
 - a884e1b feat(support): operator rating — bottom sheet on close, saved to conv, shown in admin UI
 - 12feba6 fix(admin): support page full-height — bypass max-w wrapper for /support route
-- ddf7009 feat(admin): support page premium UI — message grouping, date separators, auto-resize textarea, canned v2, user panel v2
 
 ## Pending задачи — Saidazim
 - T-S089 | P1 | [BACKEND] | Support chat — Socket.io real-time namespace /support | pending[Saidazim]
