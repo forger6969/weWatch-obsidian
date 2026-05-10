@@ -1,14 +1,14 @@
 ---
 type: handoff
-updated: 2026-05-10 13:37
+updated: 2026-05-10 13:43
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-10 13:37
+**Завершена:** 2026-05-10 13:43
 
 ## Последний коммит
-4bb9c9d fix(auth): block banned users on login/refresh/google + fix requireNotBlocked response code
+800bda8 fix(shared): error middleware — handle plain Error with statusCode (ACCOUNT_BLOCKED)
 
 ## Незакоммиченных файлов
 3
@@ -17,11 +17,11 @@ updated: 2026-05-10 13:37
   - package-lock.json
 
 ## Последние 5 коммитов
+- 800bda8 fix(shared): error middleware — handle plain Error with statusCode (ACCOUNT_BLOCKED)
 - 4bb9c9d fix(auth): block banned users on login/refresh/google + fix requireNotBlocked response code
 - a93c893 fix(mobile): eliminate isAuthenticated=true+user=null race in hydrate
 - 4a1e0d1 fix(mobile): resolve infinite spinner after failed logout on restart
 - 782d3ab feat(moderation): room reports + account appeals system
-- b64f799 fix(mobile): dedup addNotification in store + dedup sendMutation onSuccess — prevent duplicate FlatList keys
 
 ## Pending задачи — Saidazim
 - T-S089 | P1 | [BACKEND] | Support chat — Socket.io real-time namespace /support | pending[Saidazim]
