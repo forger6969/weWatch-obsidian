@@ -1,28 +1,27 @@
 ---
 type: handoff
-updated: 2026-05-10 15:19
+updated: 2026-05-10 15:21
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-10 15:19
+**Завершена:** 2026-05-10 15:21
 
 ## Последний коммит
-5dfb3aa fix(appeal): unblock appeal endpoint from JWT requirement — fix infinite spinner
+849d789 fix(mobile): remove duplicate /api/v1 prefix in appeal and report API paths
 
 ## Незакоммиченных файлов
-4
+3
 
 ## Изменённые файлы
-  - apps/mobile/src/api/appeal.api.ts
   - package-lock.json
 
 ## Последние 5 коммитов
+- 849d789 fix(mobile): remove duplicate /api/v1 prefix in appeal and report API paths
 - 5dfb3aa fix(appeal): unblock appeal endpoint from JWT requirement — fix infinite spinner
 - 00d144a fix(auth): show blocked modal for Google OAuth — store error in Redis, detect in poll
 - 800bda8 fix(shared): error middleware — handle plain Error with statusCode (ACCOUNT_BLOCKED)
 - 4bb9c9d fix(auth): block banned users on login/refresh/google + fix requireNotBlocked response code
-- a93c893 fix(mobile): eliminate isAuthenticated=true+user=null race in hydrate
 
 ## Pending задачи — Saidazim
 - T-S089 | P1 | [BACKEND] | Support chat — Socket.io real-time namespace /support | pending[Saidazim]
