@@ -1,11 +1,11 @@
 ---
 type: handoff
-updated: 2026-05-10 13:43
+updated: 2026-05-10 13:49
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-10 13:43
+**Завершена:** 2026-05-10 13:49
 
 ## Последний коммит
 800bda8 fix(shared): error middleware — handle plain Error with statusCode (ACCOUNT_BLOCKED)
