@@ -1,14 +1,14 @@
 ---
 type: handoff
-updated: 2026-05-09 21:01
+updated: 2026-05-09 21:06
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-09 21:01
+**Завершена:** 2026-05-09 21:06
 
 ## Последний коммит
-d4dac4c feat(admin): support page full UI/UX redesign — 3-column layout, user panel, canned responses, username display
+ddf7009 feat(admin): support page premium UI — message grouping, date separators, auto-resize textarea, canned v2, user panel v2
 
 ## Незакоммиченных файлов
 3
@@ -17,11 +17,11 @@ d4dac4c feat(admin): support page full UI/UX redesign — 3-column layout, user 
   - package-lock.json
 
 ## Последние 5 коммитов
+- ddf7009 feat(admin): support page premium UI — message grouping, date separators, auto-resize textarea, canned v2, user panel v2
 - d4dac4c feat(admin): support page full UI/UX redesign — 3-column layout, user panel, canned responses, username display
 - 5f7384e feat(support): Socket.io real-time chat — backend /support namespace, mobile hook, admin UI client
 - fbd5fce task: claim T-S089 + T-S090 + T-E122 — support chat Socket.io real-time [Saidazim]
 - 7043a75 fix(support): mobile poll admin replies every 8s + add support_reply notification type
-- 9e70ff2 fix(admin): support service — remove .lean() so toJSON virtuals add 'id' field for admin UI
 
 ## Pending задачи — Saidazim
 - T-S089 | P1 | [BACKEND] | Support chat — Socket.io real-time namespace /support | pending[Saidazim]
