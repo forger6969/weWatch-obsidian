@@ -1,14 +1,14 @@
 ---
 type: handoff
-updated: 2026-05-10 15:21
+updated: 2026-05-10 15:36
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-10 15:21
+**Завершена:** 2026-05-10 15:36
 
 ## Последний коммит
-849d789 fix(mobile): remove duplicate /api/v1 prefix in appeal and report API paths
+a8fa8fd fix(admin-ui): remove duplicate /api/v1 prefix in moderation API paths
 
 ## Незакоммиченных файлов
 3
@@ -17,11 +17,11 @@ updated: 2026-05-10 15:21
   - package-lock.json
 
 ## Последние 5 коммитов
+- a8fa8fd fix(admin-ui): remove duplicate /api/v1 prefix in moderation API paths
 - 849d789 fix(mobile): remove duplicate /api/v1 prefix in appeal and report API paths
 - 5dfb3aa fix(appeal): unblock appeal endpoint from JWT requirement — fix infinite spinner
 - 00d144a fix(auth): show blocked modal for Google OAuth — store error in Redis, detect in poll
 - 800bda8 fix(shared): error middleware — handle plain Error with statusCode (ACCOUNT_BLOCKED)
-- 4bb9c9d fix(auth): block banned users on login/refresh/google + fix requireNotBlocked response code
 
 ## Pending задачи — Saidazim
 - T-S089 | P1 | [BACKEND] | Support chat — Socket.io real-time namespace /support | pending[Saidazim]
