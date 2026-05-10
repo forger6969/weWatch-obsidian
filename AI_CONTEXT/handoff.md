@@ -11,9 +11,10 @@ updated: 2026-05-10 15:19
 5dfb3aa fix(appeal): unblock appeal endpoint from JWT requirement — fix infinite spinner
 
 ## Незакоммиченных файлов
-3
+4
 
 ## Изменённые файлы
+  - apps/mobile/src/api/appeal.api.ts
   - package-lock.json
 
 ## Последние 5 коммитов
