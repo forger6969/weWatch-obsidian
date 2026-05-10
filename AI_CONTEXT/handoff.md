@@ -1,14 +1,14 @@
 ---
 type: handoff
-updated: 2026-05-09 19:09
+updated: 2026-05-09 19:18
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-09 19:09
+**Завершена:** 2026-05-09 19:18
 
 ## Последний коммит
-cdc0564 fix(admin): support sendMessage — use user.userId not user.id for adminId
+9e70ff2 fix(admin): support service — remove .lean() so toJSON virtuals add 'id' field for admin UI
 
 ## Незакоммиченных файлов
 2
@@ -17,11 +17,11 @@ cdc0564 fix(admin): support sendMessage — use user.userId not user.id for admi
 
 
 ## Последние 5 коммитов
+- 9e70ff2 fix(admin): support service — remove .lean() so toJSON virtuals add 'id' field for admin UI
 - cdc0564 fix(admin): support sendMessage — use user.userId not user.id for adminId
 - 45a65b1 fix(mobile): adminClient double /api/v1 — EXPO_PUBLIC_ADMIN_URL already includes /api/v1
 - d6d0de9 fix(mobile,admin-ui): support chat — messages now appear after send
 - 8bc8abc docs: T-E121 → Done.md, Tasks.md cleanup
-- 986977f fix(mobile): T-E121 — support chat messages now load and appear after send
 
 ## Pending задачи — Saidazim
 - T-S082 | P2 | [DEVOPS] | Security: Deploy workflows — CI/CD pipeline qo'shish | pending[Saidazim]
