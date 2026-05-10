@@ -1,11 +1,11 @@
 ---
 type: handoff
-updated: 2026-05-10 14:56
+updated: 2026-05-10 14:58
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-10 14:56
+**Завершена:** 2026-05-10 14:58
 
 ## Последний коммит
 00d144a fix(auth): show blocked modal for Google OAuth — store error in Redis, detect in poll
