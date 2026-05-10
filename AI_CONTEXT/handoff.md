@@ -1,14 +1,14 @@
 ---
 type: handoff
-updated: 2026-05-09 18:53
+updated: 2026-05-09 19:00
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-09 18:53
+**Завершена:** 2026-05-09 19:00
 
 ## Последний коммит
-d6d0de9 fix(mobile,admin-ui): support chat — messages now appear after send
+45a65b1 fix(mobile): adminClient double /api/v1 — EXPO_PUBLIC_ADMIN_URL already includes /api/v1
 
 ## Незакоммиченных файлов
 2
@@ -17,11 +17,11 @@ d6d0de9 fix(mobile,admin-ui): support chat — messages now appear after send
 
 
 ## Последние 5 коммитов
+- 45a65b1 fix(mobile): adminClient double /api/v1 — EXPO_PUBLIC_ADMIN_URL already includes /api/v1
 - d6d0de9 fix(mobile,admin-ui): support chat — messages now appear after send
 - 8bc8abc docs: T-E121 → Done.md, Tasks.md cleanup
 - 986977f fix(mobile): T-E121 — support chat messages now load and appear after send
 - 180c6e9 docs: T-S088 → Done.md, Tasks.md cleanup
-- 612c6dd fix(admin): T-S088 — internal messages endpoint for mobile support chat
 
 ## Pending задачи — Saidazim
 - T-S082 | P2 | [DEVOPS] | Security: Deploy workflows — CI/CD pipeline qo'shish | pending[Saidazim]
