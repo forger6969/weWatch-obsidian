@@ -1,14 +1,14 @@
 ---
 type: handoff
-updated: 2026-05-09 22:40
+updated: 2026-05-10 13:05
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-09 22:40
+**Завершена:** 2026-05-10 13:05
 
 ## Последний коммит
-4a1e0d1 fix(mobile): resolve infinite spinner after failed logout on restart
+a93c893 fix(mobile): eliminate isAuthenticated=true+user=null race in hydrate
 
 ## Незакоммиченных файлов
 3
@@ -17,11 +17,11 @@ updated: 2026-05-09 22:40
   - package-lock.json
 
 ## Последние 5 коммитов
+- a93c893 fix(mobile): eliminate isAuthenticated=true+user=null race in hydrate
 - 4a1e0d1 fix(mobile): resolve infinite spinner after failed logout on restart
 - 782d3ab feat(moderation): room reports + account appeals system
 - b64f799 fix(mobile): dedup addNotification in store + dedup sendMutation onSuccess — prevent duplicate FlatList keys
 - 3c5f478 feat(support): new chat button after closed conversation — POST /internal/support/user/:userId/conversations
-- a884e1b feat(support): operator rating — bottom sheet on close, saved to conv, shown in admin UI
 
 ## Pending задачи — Saidazim
 - T-S089 | P1 | [BACKEND] | Support chat — Socket.io real-time namespace /support | pending[Saidazim]
