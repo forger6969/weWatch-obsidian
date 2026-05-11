@@ -1,14 +1,14 @@
 ---
 type: handoff
-updated: 2026-05-11 17:00
+updated: 2026-05-11 17:03
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-11 17:00
+**Завершена:** 2026-05-11 17:03
 
 ## Последний коммит
-5850db4 fix(auth): skip profile setup for existing users after unblock/relogin
+3efe4c1 fix(auth): show block modal when account blocked during token refresh
 
 ## Незакоммиченных файлов
 5
@@ -21,11 +21,11 @@ updated: 2026-05-11 17:00
   - package-lock.json
 
 ## Последние 5 коммитов
+- 3efe4c1 fix(auth): show block modal when account blocked during token refresh
 - 5850db4 fix(auth): skip profile setup for existing users after unblock/relogin
 - aac03ef fix(appeal): wire userId through all three blocked-modal paths
 - ca047f5 debug(appeal): log exact error + open CORS for /internal/* routes on admin service
 - 4b513b9 fix(appeal): pass userId through blocked response chain so appeal submission works
-- 9cba75f docs: close Play Store compliance tasks T-S091..T-S093, T-E111, T-E117, T-E120, T-E123, T-E124
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
