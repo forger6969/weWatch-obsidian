@@ -1,11 +1,11 @@
 ---
 type: handoff
-updated: 2026-05-11 16:41
+updated: 2026-05-11 16:49
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-11 16:41
+**Завершена:** 2026-05-11 16:49
 
 ## Последний коммит
 aac03ef fix(appeal): wire userId through all three blocked-modal paths
