@@ -1,7 +1,7 @@
 ---
 type: decision
 project: weWatch
-title: "moviesapi cache TTL reduced to 1h — URLs are token-signed and rotate every 1-2h"
+title: moviesapi cache TTL reduced to 1h — URLs are token-signed and rotate every 1-2h
 date: 2026-05-09
 executor: Saidazim
 ---
