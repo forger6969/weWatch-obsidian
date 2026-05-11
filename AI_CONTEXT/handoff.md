@@ -1,17 +1,17 @@
 ---
 type: handoff
-updated: 2026-05-11 16:04
+updated: 2026-05-11 16:11
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-11 16:04
+**Завершена:** 2026-05-11 16:11
 
 ## Последний коммит
 9cba75f docs: close Play Store compliance tasks T-S091..T-S093, T-E111, T-E117, T-E120, T-E123, T-E124
 
 ## Незакоммиченных файлов
-14
+17
 
 ## Изменённые файлы
   - .claude/scripts/emirhan-setup.sh
