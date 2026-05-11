@@ -1,14 +1,14 @@
 ---
 type: handoff
-updated: 2026-05-11 17:07
+updated: 2026-05-11 17:27
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-11 17:07
+**Завершена:** 2026-05-11 17:27
 
 ## Последний коммит
-37273e5 feat(admin): send appeal decision email to user on review
+438df34 fix(admin): fix TS type error in moderation — guard email call to approved|rejected only
 
 ## Незакоммиченных файлов
 5
@@ -21,11 +21,11 @@ updated: 2026-05-11 17:07
   - package-lock.json
 
 ## Последние 5 коммитов
+- 438df34 fix(admin): fix TS type error in moderation — guard email call to approved|rejected only
 - 37273e5 feat(admin): send appeal decision email to user on review
 - 3efe4c1 fix(auth): show block modal when account blocked during token refresh
 - 5850db4 fix(auth): skip profile setup for existing users after unblock/relogin
 - aac03ef fix(appeal): wire userId through all three blocked-modal paths
-- ca047f5 debug(appeal): log exact error + open CORS for /internal/* routes on admin service
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
