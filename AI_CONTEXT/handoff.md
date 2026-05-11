@@ -1,14 +1,14 @@
 ---
 type: handoff
-updated: 2026-05-11 16:52
+updated: 2026-05-11 17:00
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-11 16:52
+**Завершена:** 2026-05-11 17:00
 
 ## Последний коммит
-aac03ef fix(appeal): wire userId through all three blocked-modal paths
+5850db4 fix(auth): skip profile setup for existing users after unblock/relogin
 
 ## Незакоммиченных файлов
 5
@@ -21,11 +21,11 @@ aac03ef fix(appeal): wire userId through all three blocked-modal paths
   - package-lock.json
 
 ## Последние 5 коммитов
+- 5850db4 fix(auth): skip profile setup for existing users after unblock/relogin
 - aac03ef fix(appeal): wire userId through all three blocked-modal paths
 - ca047f5 debug(appeal): log exact error + open CORS for /internal/* routes on admin service
 - 4b513b9 fix(appeal): pass userId through blocked response chain so appeal submission works
 - 9cba75f docs: close Play Store compliance tasks T-S091..T-S093, T-E111, T-E117, T-E120, T-E123, T-E124
-- a5856a4 feat(backend): T-S093 — cascade account deletion across all services
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
