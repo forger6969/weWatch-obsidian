@@ -1,14 +1,14 @@
 ---
 type: handoff
-updated: 2026-05-11 17:27
+updated: 2026-05-11 18:58
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-11 17:27
+**Завершена:** 2026-05-11 18:58
 
 ## Последний коммит
-438df34 fix(admin): fix TS type error in moderation — guard email call to approved|rejected only
+e3dbc51 task: add T-S095 (user report backend) + T-E118 (report user mobile) + T-E119 (report room from list)
 
 ## Незакоммиченных файлов
 5
@@ -21,11 +21,11 @@ updated: 2026-05-11 17:27
   - package-lock.json
 
 ## Последние 5 коммитов
+- e3dbc51 task: add T-S095 (user report backend) + T-E118 (report user mobile) + T-E119 (report room from list)
 - 438df34 fix(admin): fix TS type error in moderation — guard email call to approved|rejected only
 - 37273e5 feat(admin): send appeal decision email to user on review
 - 3efe4c1 fix(auth): show block modal when account blocked during token refresh
 - 5850db4 fix(auth): skip profile setup for existing users after unblock/relogin
-- aac03ef fix(appeal): wire userId through all three blocked-modal paths
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
