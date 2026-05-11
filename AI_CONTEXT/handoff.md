@@ -1,14 +1,14 @@
 ---
 type: handoff
-updated: 2026-05-11 16:17
+updated: 2026-05-11 16:25
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-11 16:17
+**Завершена:** 2026-05-11 16:25
 
 ## Последний коммит
-4b513b9 fix(appeal): pass userId through blocked response chain so appeal submission works
+ca047f5 debug(appeal): log exact error + open CORS for /internal/* routes on admin service
 
 ## Незакоммиченных файлов
 5
@@ -21,11 +21,11 @@ updated: 2026-05-11 16:17
   - package-lock.json
 
 ## Последние 5 коммитов
+- ca047f5 debug(appeal): log exact error + open CORS for /internal/* routes on admin service
 - 4b513b9 fix(appeal): pass userId through blocked response chain so appeal submission works
 - 9cba75f docs: close Play Store compliance tasks T-S091..T-S093, T-E111, T-E117, T-E120, T-E123, T-E124
 - a5856a4 feat(backend): T-S093 — cascade account deletion across all services
 - 0f91836 feat(mobile): T-E111 + T-E117 — dynamic blocked-domains hook with SecureStore cache
-- 3e0924f feat(mobile): T-E124 — ToS checkbox on register + Privacy Policy link in Settings
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
