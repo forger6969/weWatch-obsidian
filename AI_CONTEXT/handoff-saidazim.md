@@ -1,11 +1,11 @@
 ---
 type: handoff
-updated: 2026-05-13 16:19
+updated: 2026-05-13 16:22
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-13 16:19
+**Завершена:** 2026-05-13 16:22
 
 ## Последний коммит
 67f9e53 fix(admin): suppress unused param warnings in moderation controller/service
