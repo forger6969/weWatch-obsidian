@@ -1,34 +1,30 @@
 ---
 type: handoff
-updated: 2026-05-13 17:19
+updated: 2026-05-13 19:21
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-13 17:19
+**Завершена:** 2026-05-13 19:21
 
 ## Последний коммит
-94dd444 feat(errors): overhaul mobile error reporting system
+9ee8733 feat(moderation): content moderation system + user restrictions
 
 ## Незакоммиченных файлов
-10
+5
 
 ## Изменённые файлы
   - .claude/scripts/obsidian-projects.conf
   - .claude/scripts/obsidian-session-stop.sh
   - .claude/scripts/terminal-context-flush.sh
   - .claude/scripts/terminal-context-hook.sh
-  - services/user/src/controllers/user.controller.ts
-  - services/user/src/models/user.model.ts
-  - services/user/src/routes/user.routes.ts
-  - services/user/src/services/profile.service.ts
 
 ## Последние 5 коммитов
+- 9ee8733 feat(moderation): content moderation system + user restrictions
 - 94dd444 feat(errors): overhaul mobile error reporting system
 - 84cbe63 fix(auth): propagate block reason to auth DB via revoke-sessions endpoint
 - d62482b fix(auth): show block reason when logging into blocked account
 - f2c4253 fix(mobile): add admin_warning notification type — route + icon
-- 00eab9c feat(admin): block reason UX — preset chips + auto-map from report type
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
