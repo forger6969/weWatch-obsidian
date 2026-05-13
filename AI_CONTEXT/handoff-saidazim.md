@@ -1,11 +1,11 @@
 ---
 type: handoff
-updated: 2026-05-13 15:51
+updated: 2026-05-13 15:59
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-13 15:51
+**Завершена:** 2026-05-13 15:59
 
 ## Последний коммит
 323c001 feat(admin): room report modal — warn users + block owner + room details
