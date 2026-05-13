@@ -1,14 +1,14 @@
 ---
 type: handoff
-updated: 2026-05-13 22:25
+updated: 2026-05-13 22:28
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-13 22:25
+**Завершена:** 2026-05-13 22:28
 
 ## Последний коммит
-0c2b2bf fix(mobile): correct content API paths for blocked-domains and domain-visit
+3f57273 fix(admin-ui): remove unused Eye and Badge imports in WatchPartiesPage
 
 ## Незакоммиченных файлов
 69
@@ -20,11 +20,11 @@ updated: 2026-05-13 22:25
   - .claude/scripts/terminal-context-hook.sh
 
 ## Последние 5 коммитов
+- 3f57273 fix(admin-ui): remove unused Eye and Badge imports in WatchPartiesPage
 - 0c2b2bf fix(mobile): correct content API paths for blocked-domains and domain-visit
 - 9f81f72 fix(build): add missing @types/ms + @types/swagger-* to devDependencies
 - 7f75d66 feat(watchparties): admin monitoring UI + 500+ word filter + live socket
 - 9ee8733 feat(moderation): content moderation system + user restrictions
-- 94dd444 feat(errors): overhaul mobile error reporting system
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
