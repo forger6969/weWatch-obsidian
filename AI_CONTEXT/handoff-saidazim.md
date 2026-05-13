@@ -1,34 +1,30 @@
 ---
 type: handoff
-updated: 2026-05-13 15:18
+updated: 2026-05-13 15:19
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-13 15:18
+**Завершена:** 2026-05-13 15:19
 
 ## Последний коммит
-68858ff feat(obsidian): separate per-developer in-progress + handoff files, add CLAUDE_EMIRHAN.md setup guide
+323c001 feat(admin): room report modal — warn users + block owner + room details
 
 ## Незакоммиченных файлов
-17
+5
 
 ## Изменённые файлы
   - .claude/scripts/obsidian-projects.conf
   - .claude/scripts/obsidian-session-stop.sh
   - .claude/scripts/terminal-context-flush.sh
   - .claude/scripts/terminal-context-hook.sh
-  - apps/admin-ui/src/api/moderation.api.ts
-  - apps/admin-ui/src/pages/RoomReportsPage.tsx
-  - package-lock.json
-  - services/admin/src/controllers/moderation.controller.ts
 
 ## Последние 5 коммитов
-- 68858ff feat(obsidian): separate per-developer in-progress + handoff files, add CLAUDE_EMIRHAN.md setup guide
-- e3dbc51 task: add T-S095 (user report backend) + T-E118 (report user mobile) + T-E119 (report room from list)
-- 438df34 fix(admin): fix TS type error in moderation — guard email call to approved|rejected only
-- 37273e5 feat(admin): send appeal decision email to user on review
-- 3efe4c1 fix(auth): show block modal when account blocked during token refresh
+- 323c001 feat(admin): room report modal — warn users + block owner + room details
+- c75a490 ci: add gitleaks secret scanning
+- 244eef6 feat(mobile): T-E118 + T-E119 — ReportUserModal + RoomsScreen long-press
+- 5ab5034 docs: T-E111 + T-E117 → Done (F-200), conflict resolved, T-E118/T-E119 kept
+- 1ed852c docs: T-E111 + T-E117 → Done (F-200) — tasks removed from Tasks.md
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
