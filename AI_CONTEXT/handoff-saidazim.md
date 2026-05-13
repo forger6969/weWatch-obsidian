@@ -1,14 +1,14 @@
 ---
 type: handoff
-updated: 2026-05-13 15:59
+updated: 2026-05-13 16:19
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-13 15:59
+**Завершена:** 2026-05-13 16:19
 
 ## Последний коммит
-323c001 feat(admin): room report modal — warn users + block owner + room details
+67f9e53 fix(admin): suppress unused param warnings in moderation controller/service
 
 ## Незакоммиченных файлов
 5
@@ -20,11 +20,11 @@ updated: 2026-05-13 15:59
   - .claude/scripts/terminal-context-hook.sh
 
 ## Последние 5 коммитов
+- 67f9e53 fix(admin): suppress unused param warnings in moderation controller/service
+- df84c98 feat(admin): enrich room report modal — video info, owner/reporter usernames, current timestamp
 - 323c001 feat(admin): room report modal — warn users + block owner + room details
 - c75a490 ci: add gitleaks secret scanning
 - 244eef6 feat(mobile): T-E118 + T-E119 — ReportUserModal + RoomsScreen long-press
-- 5ab5034 docs: T-E111 + T-E117 → Done (F-200), conflict resolved, T-E118/T-E119 kept
-- 1ed852c docs: T-E111 + T-E117 → Done (F-200) — tasks removed from Tasks.md
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
