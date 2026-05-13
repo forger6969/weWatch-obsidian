@@ -1,23 +1,27 @@
 ---
 type: handoff
-updated: 2026-05-13 17:13
+updated: 2026-05-13 17:19
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-13 17:13
+**Завершена:** 2026-05-13 17:19
 
 ## Последний коммит
 94dd444 feat(errors): overhaul mobile error reporting system
 
 ## Незакоммиченных файлов
-5
+10
 
 ## Изменённые файлы
   - .claude/scripts/obsidian-projects.conf
   - .claude/scripts/obsidian-session-stop.sh
   - .claude/scripts/terminal-context-flush.sh
   - .claude/scripts/terminal-context-hook.sh
+  - services/user/src/controllers/user.controller.ts
+  - services/user/src/models/user.model.ts
+  - services/user/src/routes/user.routes.ts
+  - services/user/src/services/profile.service.ts
 
 ## Последние 5 коммитов
 - 94dd444 feat(errors): overhaul mobile error reporting system
