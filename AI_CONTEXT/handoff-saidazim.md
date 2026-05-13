@@ -1,14 +1,14 @@
 ---
 type: handoff
-updated: 2026-05-13 16:53
+updated: 2026-05-13 16:59
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-13 16:53
+**Завершена:** 2026-05-13 16:59
 
 ## Последний коммит
-d62482b fix(auth): show block reason when logging into blocked account
+84cbe63 fix(auth): propagate block reason to auth DB via revoke-sessions endpoint
 
 ## Незакоммиченных файлов
 5
@@ -20,11 +20,11 @@ d62482b fix(auth): show block reason when logging into blocked account
   - .claude/scripts/terminal-context-hook.sh
 
 ## Последние 5 коммитов
+- 84cbe63 fix(auth): propagate block reason to auth DB via revoke-sessions endpoint
 - d62482b fix(auth): show block reason when logging into blocked account
 - f2c4253 fix(mobile): add admin_warning notification type — route + icon
 - 00eab9c feat(admin): block reason UX — preset chips + auto-map from report type
 - 6ea84d7 fix(admin): production-level room report modal — real usernames, video info, warn push, wider
-- 67f9e53 fix(admin): suppress unused param warnings in moderation controller/service
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
