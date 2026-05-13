@@ -1,17 +1,17 @@
 ---
 type: handoff
-updated: 2026-05-13 22:12
+updated: 2026-05-13 22:25
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-13 22:12
+**Завершена:** 2026-05-13 22:25
 
 ## Последний коммит
-7f75d66 feat(watchparties): admin monitoring UI + 500+ word filter + live socket
+0c2b2bf fix(mobile): correct content API paths for blocked-domains and domain-visit
 
 ## Незакоммиченных файлов
-5
+69
 
 ## Изменённые файлы
   - .claude/scripts/obsidian-projects.conf
@@ -20,11 +20,11 @@ updated: 2026-05-13 22:12
   - .claude/scripts/terminal-context-hook.sh
 
 ## Последние 5 коммитов
+- 0c2b2bf fix(mobile): correct content API paths for blocked-domains and domain-visit
+- 9f81f72 fix(build): add missing @types/ms + @types/swagger-* to devDependencies
 - 7f75d66 feat(watchparties): admin monitoring UI + 500+ word filter + live socket
 - 9ee8733 feat(moderation): content moderation system + user restrictions
 - 94dd444 feat(errors): overhaul mobile error reporting system
-- 84cbe63 fix(auth): propagate block reason to auth DB via revoke-sessions endpoint
-- d62482b fix(auth): show block reason when logging into blocked account
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
