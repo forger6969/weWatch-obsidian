@@ -1,14 +1,14 @@
 ---
 type: handoff
-updated: 2026-05-13 23:21
+updated: 2026-05-13 23:28
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-13 23:21
+**Завершена:** 2026-05-13 23:28
 
 ## Последний коммит
-958094c feat(admin-ui): full premium redesign — all pages updated with design system
+66be6e1 feat(notifications): add Notifications page — broadcast + direct push
 
 ## Незакоммиченных файлов
 69
@@ -20,11 +20,11 @@ updated: 2026-05-13 23:21
   - .claude/scripts/terminal-context-hook.sh
 
 ## Последние 5 коммитов
+- 66be6e1 feat(notifications): add Notifications page — broadcast + direct push
 - 958094c feat(admin-ui): full premium redesign — all pages updated with design system
 - 2cb87e2 feat(admin-ui): complete premium UI/UX redesign — design system + all pages
 - 3f57273 fix(admin-ui): remove unused Eye and Badge imports in WatchPartiesPage
 - 0c2b2bf fix(mobile): correct content API paths for blocked-domains and domain-visit
-- 9f81f72 fix(build): add missing @types/ms + @types/swagger-* to devDependencies
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
