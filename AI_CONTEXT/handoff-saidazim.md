@@ -1,24 +1,27 @@
 ---
 type: handoff
-updated: 2026-05-13 14:26
+updated: 2026-05-13 15:18
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-13 14:26
+**Завершена:** 2026-05-13 15:18
 
 ## Последний коммит
 68858ff feat(obsidian): separate per-developer in-progress + handoff files, add CLAUDE_EMIRHAN.md setup guide
 
 ## Незакоммиченных файлов
-6
+17
 
 ## Изменённые файлы
   - .claude/scripts/obsidian-projects.conf
   - .claude/scripts/obsidian-session-stop.sh
   - .claude/scripts/terminal-context-flush.sh
   - .claude/scripts/terminal-context-hook.sh
+  - apps/admin-ui/src/api/moderation.api.ts
+  - apps/admin-ui/src/pages/RoomReportsPage.tsx
   - package-lock.json
+  - services/admin/src/controllers/moderation.controller.ts
 
 ## Последние 5 коммитов
 - 68858ff feat(obsidian): separate per-developer in-progress + handoff files, add CLAUDE_EMIRHAN.md setup guide
