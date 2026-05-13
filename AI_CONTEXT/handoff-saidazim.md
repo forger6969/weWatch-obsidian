@@ -1,14 +1,14 @@
 ---
 type: handoff
-updated: 2026-05-13 16:59
+updated: 2026-05-13 17:13
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-13 16:59
+**Завершена:** 2026-05-13 17:13
 
 ## Последний коммит
-84cbe63 fix(auth): propagate block reason to auth DB via revoke-sessions endpoint
+94dd444 feat(errors): overhaul mobile error reporting system
 
 ## Незакоммиченных файлов
 5
@@ -20,11 +20,11 @@ updated: 2026-05-13 16:59
   - .claude/scripts/terminal-context-hook.sh
 
 ## Последние 5 коммитов
+- 94dd444 feat(errors): overhaul mobile error reporting system
 - 84cbe63 fix(auth): propagate block reason to auth DB via revoke-sessions endpoint
 - d62482b fix(auth): show block reason when logging into blocked account
 - f2c4253 fix(mobile): add admin_warning notification type — route + icon
 - 00eab9c feat(admin): block reason UX — preset chips + auto-map from report type
-- 6ea84d7 fix(admin): production-level room report modal — real usernames, video info, warn push, wider
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
