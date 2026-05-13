@@ -1,14 +1,14 @@
 ---
 type: handoff
-updated: 2026-05-13 16:39
+updated: 2026-05-13 16:44
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-13 16:39
+**Завершена:** 2026-05-13 16:44
 
 ## Последний коммит
-6ea84d7 fix(admin): production-level room report modal — real usernames, video info, warn push, wider
+00eab9c feat(admin): block reason UX — preset chips + auto-map from report type
 
 ## Незакоммиченных файлов
 5
@@ -20,11 +20,11 @@ updated: 2026-05-13 16:39
   - .claude/scripts/terminal-context-hook.sh
 
 ## Последние 5 коммитов
+- 00eab9c feat(admin): block reason UX — preset chips + auto-map from report type
 - 6ea84d7 fix(admin): production-level room report modal — real usernames, video info, warn push, wider
 - 67f9e53 fix(admin): suppress unused param warnings in moderation controller/service
 - df84c98 feat(admin): enrich room report modal — video info, owner/reporter usernames, current timestamp
 - 323c001 feat(admin): room report modal — warn users + block owner + room details
-- c75a490 ci: add gitleaks secret scanning
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
