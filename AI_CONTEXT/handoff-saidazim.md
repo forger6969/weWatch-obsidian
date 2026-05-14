@@ -1,11 +1,11 @@
 ---
 type: handoff
-updated: 2026-05-14 00:22
+updated: 2026-05-14 13:01
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-14 00:22
+**Завершена:** 2026-05-14 13:01
 
 ## Последний коммит
 74011a7 fix(notification): broadcast now creates in-app notifications for all users
