@@ -1,14 +1,14 @@
 ---
 type: handoff
-updated: 2026-05-14 13:05
+updated: 2026-05-14 13:16
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-14 13:05
+**Завершена:** 2026-05-14 13:16
 
 ## Последний коммит
-0ebc571 fix(content): add internal domain visit endpoint for watch-party service
+64c6005 fix(domains): fix domain tracking and admin UI URL bugs
 
 ## Незакоммиченных файлов
 65
@@ -17,11 +17,11 @@ updated: 2026-05-14 13:05
 
 
 ## Последние 5 коммитов
+- 64c6005 fix(domains): fix domain tracking and admin UI URL bugs
 - 0ebc571 fix(content): add internal domain visit endpoint for watch-party service
 - 74011a7 fix(notification): broadcast now creates in-app notifications for all users
 - 66be6e1 feat(notifications): add Notifications page — broadcast + direct push
 - 958094c feat(admin-ui): full premium redesign — all pages updated with design system
-- 2cb87e2 feat(admin-ui): complete premium UI/UX redesign — design system + all pages
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
