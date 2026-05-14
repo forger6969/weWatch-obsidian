@@ -8,24 +8,20 @@ updated: 2026-05-14 13:05
 **Завершена:** 2026-05-14 13:05
 
 ## Последний коммит
-74011a7 fix(notification): broadcast now creates in-app notifications for all users
+0ebc571 fix(content): add internal domain visit endpoint for watch-party service
 
 ## Незакоммиченных файлов
-70
+65
 
 ## Изменённые файлы
-  - .claude/scripts/obsidian-projects.conf
-  - .claude/scripts/obsidian-session-stop.sh
-  - .claude/scripts/terminal-context-flush.sh
-  - .claude/scripts/terminal-context-hook.sh
-  - services/content/src/routes/domain.routes.ts
+
 
 ## Последние 5 коммитов
+- 0ebc571 fix(content): add internal domain visit endpoint for watch-party service
 - 74011a7 fix(notification): broadcast now creates in-app notifications for all users
 - 66be6e1 feat(notifications): add Notifications page — broadcast + direct push
 - 958094c feat(admin-ui): full premium redesign — all pages updated with design system
 - 2cb87e2 feat(admin-ui): complete premium UI/UX redesign — design system + all pages
-- 3f57273 fix(admin-ui): remove unused Eye and Badge imports in WatchPartiesPage
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
