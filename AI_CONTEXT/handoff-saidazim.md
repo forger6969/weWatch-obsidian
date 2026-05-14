@@ -1,11 +1,11 @@
 ---
 type: handoff
-updated: 2026-05-14 19:45
+updated: 2026-05-14 19:46
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-14 19:45
+**Завершена:** 2026-05-14 19:46
 
 ## Последний коммит
 81495e9 fix(shared): lazy-load @sentry/node to avoid MODULE_NOT_FOUND crash
