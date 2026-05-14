@@ -1,11 +1,11 @@
 ---
 type: handoff
-updated: 2026-05-14 14:41
+updated: 2026-05-14 14:42
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-14 14:41
+**Завершена:** 2026-05-14 14:42
 
 ## Последний коммит
 ada5a68 ci: bust admin-ui Docker cache — force Vite rebuild with domain URL fix
