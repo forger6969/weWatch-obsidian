@@ -1,27 +1,27 @@
 ---
 type: handoff
-updated: 2026-05-14 20:30
+updated: 2026-05-14 20:38
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-14 20:30
+**Завершена:** 2026-05-14 20:38
 
 ## Последний коммит
-d186d32 chore: close resolved audit issues
+8a50d04 feat: UserReport endpoint + Privacy Policy page
 
 ## Незакоммиченных файлов
-65
+66
 
 ## Изменённые файлы
-
+  - services/content/src/app.ts
 
 ## Последние 5 коммитов
+- 8a50d04 feat: UserReport endpoint + Privacy Policy page
+- d3246d7 fix(security): close #11 #13 #17 #35 — CORS wildcard, fail-open rate limiter, SSRF, hardcoded key
 - d186d32 chore: close resolved audit issues
 - 81495e9 fix(shared): lazy-load @sentry/node to avoid MODULE_NOT_FOUND crash
 - d2069ad fix(content): health check no longer requires Elasticsearch
-- e54113e fix: revert Docker image pin to node:20-alpine
-- 93e2935 fix: full production hardening — audit findings all fixed
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
