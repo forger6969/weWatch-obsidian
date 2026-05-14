@@ -1,14 +1,14 @@
 ---
 type: handoff
-updated: 2026-05-14 14:30
+updated: 2026-05-14 14:41
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-14 14:30
+**Завершена:** 2026-05-14 14:41
 
 ## Последний коммит
-e02db33 ci: trigger admin-ui redeploy
+ada5a68 ci: bust admin-ui Docker cache — force Vite rebuild with domain URL fix
 
 ## Незакоммиченных файлов
 65
@@ -17,11 +17,11 @@ e02db33 ci: trigger admin-ui redeploy
 
 
 ## Последние 5 коммитов
+- ada5a68 ci: bust admin-ui Docker cache — force Vite rebuild with domain URL fix
 - e02db33 ci: trigger admin-ui redeploy
 - 6ba4ef2 fix(domains): self-contained domain tracking via watch-party service
 - 64c6005 fix(domains): fix domain tracking and admin UI URL bugs
 - 0ebc571 fix(content): add internal domain visit endpoint for watch-party service
-- 74011a7 fix(notification): broadcast now creates in-app notifications for all users
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
