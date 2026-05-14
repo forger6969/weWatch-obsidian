@@ -1,23 +1,24 @@
 ---
 type: handoff
-updated: 2026-05-14 13:01
+updated: 2026-05-14 13:05
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-14 13:01
+**Завершена:** 2026-05-14 13:05
 
 ## Последний коммит
 74011a7 fix(notification): broadcast now creates in-app notifications for all users
 
 ## Незакоммиченных файлов
-69
+70
 
 ## Изменённые файлы
   - .claude/scripts/obsidian-projects.conf
   - .claude/scripts/obsidian-session-stop.sh
   - .claude/scripts/terminal-context-flush.sh
   - .claude/scripts/terminal-context-hook.sh
+  - services/content/src/routes/domain.routes.ts
 
 ## Последние 5 коммитов
 - 74011a7 fix(notification): broadcast now creates in-app notifications for all users
