@@ -1,14 +1,14 @@
 ---
 type: handoff
-updated: 2026-05-14 20:43
+updated: 2026-05-14 21:18
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-14 20:43
+**Завершена:** 2026-05-14 21:18
 
 ## Последний коммит
-8a50d04 feat: UserReport endpoint + Privacy Policy page
+d4b230e feat(web): convert to landing-only site — remove all app/auth/api code
 
 ## Незакоммиченных файлов
 66
@@ -17,11 +17,11 @@ updated: 2026-05-14 20:43
   - services/content/src/app.ts
 
 ## Последние 5 коммитов
+- d4b230e feat(web): convert to landing-only site — remove all app/auth/api code
 - 8a50d04 feat: UserReport endpoint + Privacy Policy page
 - d3246d7 fix(security): close #11 #13 #17 #35 — CORS wildcard, fail-open rate limiter, SSRF, hardcoded key
 - d186d32 chore: close resolved audit issues
 - 81495e9 fix(shared): lazy-load @sentry/node to avoid MODULE_NOT_FOUND crash
-- d2069ad fix(content): health check no longer requires Elasticsearch
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
