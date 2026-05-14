@@ -1,14 +1,14 @@
 ---
 type: handoff
-updated: 2026-05-14 14:42
+updated: 2026-05-14 14:46
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-14 14:42
+**Завершена:** 2026-05-14 14:46
 
 ## Последний коммит
-ada5a68 ci: bust admin-ui Docker cache — force Vite rebuild with domain URL fix
+4dcffed fix(mobile): don't logout on blocked-domain 403 — only logout on ACCOUNT_BLOCKED code
 
 ## Незакоммиченных файлов
 65
@@ -17,11 +17,11 @@ ada5a68 ci: bust admin-ui Docker cache — force Vite rebuild with domain URL fi
 
 
 ## Последние 5 коммитов
+- 4dcffed fix(mobile): don't logout on blocked-domain 403 — only logout on ACCOUNT_BLOCKED code
 - ada5a68 ci: bust admin-ui Docker cache — force Vite rebuild with domain URL fix
 - e02db33 ci: trigger admin-ui redeploy
 - 6ba4ef2 fix(domains): self-contained domain tracking via watch-party service
 - 64c6005 fix(domains): fix domain tracking and admin UI URL bugs
-- 0ebc571 fix(content): add internal domain visit endpoint for watch-party service
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
