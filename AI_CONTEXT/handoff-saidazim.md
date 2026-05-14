@@ -1,14 +1,14 @@
 ---
 type: handoff
-updated: 2026-05-14 13:46
+updated: 2026-05-14 14:23
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-14 13:46
+**Завершена:** 2026-05-14 14:23
 
 ## Последний коммит
-6ba4ef2 fix(domains): self-contained domain tracking via watch-party service
+e02db33 ci: trigger admin-ui redeploy
 
 ## Незакоммиченных файлов
 65
@@ -17,11 +17,11 @@ updated: 2026-05-14 13:46
 
 
 ## Последние 5 коммитов
+- e02db33 ci: trigger admin-ui redeploy
 - 6ba4ef2 fix(domains): self-contained domain tracking via watch-party service
 - 64c6005 fix(domains): fix domain tracking and admin UI URL bugs
 - 0ebc571 fix(content): add internal domain visit endpoint for watch-party service
 - 74011a7 fix(notification): broadcast now creates in-app notifications for all users
-- 66be6e1 feat(notifications): add Notifications page — broadcast + direct push
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
