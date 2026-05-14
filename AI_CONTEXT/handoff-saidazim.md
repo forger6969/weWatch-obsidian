@@ -1,14 +1,14 @@
 ---
 type: handoff
-updated: 2026-05-14 19:17
+updated: 2026-05-14 19:18
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-14 19:17
+**Завершена:** 2026-05-14 19:18
 
 ## Последний коммит
-93e2935 fix: full production hardening — audit findings all fixed
+e54113e fix: revert Docker image pin to node:20-alpine
 
 ## Незакоммиченных файлов
 65
@@ -17,11 +17,11 @@ updated: 2026-05-14 19:17
 
 
 ## Последние 5 коммитов
+- e54113e fix: revert Docker image pin to node:20-alpine
 - 93e2935 fix: full production hardening — audit findings all fixed
 - 7562a2a chore: mark T-S068 + T-S069 as done (already implemented)
 - aa77a2d docs: add README.md (#40)
 - 5c3d8e8 fix: log silent fire-and-forget catches (#42)
-- 795de20 feat: MongoDB backup to S3 + DR plan (#21)
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
