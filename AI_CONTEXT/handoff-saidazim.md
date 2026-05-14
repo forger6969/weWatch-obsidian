@@ -1,14 +1,14 @@
 ---
 type: handoff
-updated: 2026-05-14 15:22
+updated: 2026-05-14 18:45
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-14 15:22
+**Завершена:** 2026-05-14 18:45
 
 ## Последний коммит
-b496c95 feat(domains): static domains in admin panel + manual domain block
+b59e475 fix(nginx): correct location paths and proxy_pass to fix 5/7 services 404 (#47)
 
 ## Незакоммиченных файлов
 65
@@ -17,11 +17,11 @@ b496c95 feat(domains): static domains in admin panel + manual domain block
 
 
 ## Последние 5 коммитов
-- b496c95 feat(domains): static domains in admin panel + manual domain block
-- 4dcffed fix(mobile): don't logout on blocked-domain 403 — only logout on ACCOUNT_BLOCKED code
-- ada5a68 ci: bust admin-ui Docker cache — force Vite rebuild with domain URL fix
-- e02db33 ci: trigger admin-ui redeploy
-- 6ba4ef2 fix(domains): self-contained domain tracking via watch-party service
+- b59e475 fix(nginx): correct location paths and proxy_pass to fix 5/7 services 404 (#47)
+- 2f66554 security: add resource limits to all containers in docker-compose.prod (#41)
+- 2e78437 security: health checks now verify MongoDB + Redis connectivity (#32)
+- 08cab88 security: add Joi input validation to 4 services (#27)
+- a549ad3 security: WebSocket room validation + blocked user re-check (#30 #31)
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
