@@ -1,14 +1,14 @@
 ---
 type: handoff
-updated: 2026-05-14 19:36
+updated: 2026-05-14 19:45
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-14 19:36
+**Завершена:** 2026-05-14 19:45
 
 ## Последний коммит
-d2069ad fix(content): health check no longer requires Elasticsearch
+81495e9 fix(shared): lazy-load @sentry/node to avoid MODULE_NOT_FOUND crash
 
 ## Незакоммиченных файлов
 65
@@ -17,11 +17,11 @@ d2069ad fix(content): health check no longer requires Elasticsearch
 
 
 ## Последние 5 коммитов
+- 81495e9 fix(shared): lazy-load @sentry/node to avoid MODULE_NOT_FOUND crash
 - d2069ad fix(content): health check no longer requires Elasticsearch
 - e54113e fix: revert Docker image pin to node:20-alpine
 - 93e2935 fix: full production hardening — audit findings all fixed
 - 7562a2a chore: mark T-S068 + T-S069 as done (already implemented)
-- aa77a2d docs: add README.md (#40)
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
