@@ -1,14 +1,14 @@
 ---
 type: handoff
-updated: 2026-05-15 23:53
+updated: 2026-05-16 00:13
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-15 23:53
+**Завершена:** 2026-05-16 00:13
 
 ## Последний коммит
-eb355e5 fix(mobile+backend): forward all yt-dlp headers to proxy — fixes VK on Android
+b24b1b7 fix(mobile): try direct CDN first on Android for extracted URLs, proxy as fallback
 
 ## Незакоммиченных файлов
 66
@@ -17,11 +17,11 @@ eb355e5 fix(mobile+backend): forward all yt-dlp headers to proxy — fixes VK on
   - package-lock.json
 
 ## Последние 5 коммитов
+- b24b1b7 fix(mobile): try direct CDN first on Android for extracted URLs, proxy as fallback
 - eb355e5 fix(mobile+backend): forward all yt-dlp headers to proxy — fixes VK on Android
 - e1d99cb fix(mobile+backend): pass Referer to proxy — fixes VK on Android
 - 033912b fix(mobile): Android always use proxy — skip CDN direct attempt
 - 520a952 fix(mobile): unified platform-agnostic sync via onReady callback
-- 9696fe3 fix(mobile): apply initial sync after expo-av loads — fixes Android join desync
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
