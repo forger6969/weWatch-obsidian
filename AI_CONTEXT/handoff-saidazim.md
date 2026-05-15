@@ -1,14 +1,14 @@
 ---
 type: handoff
-updated: 2026-05-15 16:13
+updated: 2026-05-15 16:31
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-15 16:13
+**Завершена:** 2026-05-15 16:31
 
 ## Последний коммит
-39c892f feat(mobile): redesign watch party room UI to production level
+b7402a8 feat(mobile): production-level video player redesign — tap-to-show controls
 
 ## Незакоммиченных файлов
 66
@@ -17,11 +17,11 @@ updated: 2026-05-15 16:13
   - services/content/src/app.ts
 
 ## Последние 5 коммитов
+- b7402a8 feat(mobile): production-level video player redesign — tap-to-show controls
 - 39c892f feat(mobile): redesign watch party room UI to production level
 - fbd86ee feat(web): rewrite landing — URL extraction, sync, emotions; remove movie DB refs
 - 99d914f feat(web): redesign landing — animated phone demo, remove fake stats
 - db04635 fix(web): ignoreBuildErrors + eslint in Docker build
-- 9b2d32b fix(web): simplify Dockerfile — fresh npm install avoids platform lock mismatch
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
