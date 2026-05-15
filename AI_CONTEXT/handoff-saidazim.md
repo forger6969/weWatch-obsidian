@@ -1,14 +1,14 @@
 ---
 type: handoff
-updated: 2026-05-15 17:03
+updated: 2026-05-15 18:07
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-15 17:03
+**Завершена:** 2026-05-15 18:07
 
 ## Последний коммит
-cf0d6c7 fix(mobile): player controls auto-hide — tap to show/hide, always auto-hide
+316b3b4 fix(mobile): VK Android — detect m.vkvideo.ru + fallback to embed on direct URL failure
 
 ## Незакоммиченных файлов
 67
@@ -18,11 +18,11 @@ cf0d6c7 fix(mobile): player controls auto-hide — tap to show/hide, always auto
   - services/content/src/app.ts
 
 ## Последние 5 коммитов
+- 316b3b4 fix(mobile): VK Android — detect m.vkvideo.ru + fallback to embed on direct URL failure
 - cf0d6c7 fix(mobile): player controls auto-hide — tap to show/hide, always auto-hide
 - 4c320e6 feat(mobile): landscape rotation on fullscreen via expo-screen-orientation
 - efb1ae3 feat(mobile): fix player gradient + fullscreen overlay with chat/voice
 - 995405f fix(mobile): video player height — 16:9 aspect ratio instead of 45% screen height
-- b7402a8 feat(mobile): production-level video player redesign — tap-to-show controls
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
