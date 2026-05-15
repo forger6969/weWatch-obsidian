@@ -1,11 +1,11 @@
 ---
 type: handoff
-updated: 2026-05-15 19:19
+updated: 2026-05-15 19:22
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-15 19:19
+**Завершена:** 2026-05-15 19:22
 
 ## Последний коммит
 f686277 fix(mobile+backend): Android direct MP4 — server-side proxy bypass
