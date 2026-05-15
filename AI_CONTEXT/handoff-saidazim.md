@@ -1,14 +1,14 @@
 ---
 type: handoff
-updated: 2026-05-15 22:28
+updated: 2026-05-15 22:53
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-15 22:28
+**Завершена:** 2026-05-15 22:53
 
 ## Последний коммит
-520a952 fix(mobile): unified platform-agnostic sync via onReady callback
+033912b fix(mobile): Android always use proxy — skip CDN direct attempt
 
 ## Незакоммиченных файлов
 66
@@ -17,11 +17,11 @@ updated: 2026-05-15 22:28
   - package-lock.json
 
 ## Последние 5 коммитов
+- 033912b fix(mobile): Android always use proxy — skip CDN direct attempt
 - 520a952 fix(mobile): unified platform-agnostic sync via onReady callback
 - 9696fe3 fix(mobile): apply initial sync after expo-av loads — fixes Android join desync
 - f686277 fix(mobile+backend): Android direct MP4 — server-side proxy bypass
 - f177720 fix(mobile): Android MP4 — browser UA + backend http_headers for expo-av
-- 316b3b4 fix(mobile): VK Android — detect m.vkvideo.ru + fallback to embed on direct URL failure
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
