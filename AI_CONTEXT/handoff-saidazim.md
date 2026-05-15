@@ -1,14 +1,14 @@
 ---
 type: handoff
-updated: 2026-05-15 13:41
+updated: 2026-05-15 16:00
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-15 13:41
+**Завершена:** 2026-05-15 16:00
 
 ## Последний коммит
-99d914f feat(web): redesign landing — animated phone demo, remove fake stats
+fbd86ee feat(web): rewrite landing — URL extraction, sync, emotions; remove movie DB refs
 
 ## Незакоммиченных файлов
 66
@@ -17,11 +17,11 @@ updated: 2026-05-15 13:41
   - services/content/src/app.ts
 
 ## Последние 5 коммитов
+- fbd86ee feat(web): rewrite landing — URL extraction, sync, emotions; remove movie DB refs
 - 99d914f feat(web): redesign landing — animated phone demo, remove fake stats
 - db04635 fix(web): ignoreBuildErrors + eslint in Docker build
 - 9b2d32b fix(web): simplify Dockerfile — fresh npm install avoids platform lock mismatch
 - f36e84c fix(web): use node:20-slim — @tailwindcss/oxide has no musl/alpine binaries
-- 1094a5f fix(web): skip shared tsc build in Dockerfile — SWC strips type-only imports
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
