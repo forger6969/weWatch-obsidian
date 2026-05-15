@@ -1,14 +1,14 @@
 ---
 type: handoff
-updated: 2026-05-15 16:56
+updated: 2026-05-15 17:03
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-15 16:56
+**Завершена:** 2026-05-15 17:03
 
 ## Последний коммит
-4c320e6 feat(mobile): landscape rotation on fullscreen via expo-screen-orientation
+cf0d6c7 fix(mobile): player controls auto-hide — tap to show/hide, always auto-hide
 
 ## Незакоммиченных файлов
 67
@@ -18,11 +18,11 @@ updated: 2026-05-15 16:56
   - services/content/src/app.ts
 
 ## Последние 5 коммитов
+- cf0d6c7 fix(mobile): player controls auto-hide — tap to show/hide, always auto-hide
 - 4c320e6 feat(mobile): landscape rotation on fullscreen via expo-screen-orientation
 - efb1ae3 feat(mobile): fix player gradient + fullscreen overlay with chat/voice
 - 995405f fix(mobile): video player height — 16:9 aspect ratio instead of 45% screen height
 - b7402a8 feat(mobile): production-level video player redesign — tap-to-show controls
-- 39c892f feat(mobile): redesign watch party room UI to production level
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
