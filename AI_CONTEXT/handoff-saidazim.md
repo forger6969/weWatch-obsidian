@@ -1,14 +1,14 @@
 ---
 type: handoff
-updated: 2026-05-14 21:18
+updated: 2026-05-15 13:26
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-14 21:18
+**Завершена:** 2026-05-15 13:26
 
 ## Последний коммит
-d4b230e feat(web): convert to landing-only site — remove all app/auth/api code
+db04635 fix(web): ignoreBuildErrors + eslint in Docker build
 
 ## Незакоммиченных файлов
 66
@@ -17,11 +17,11 @@ d4b230e feat(web): convert to landing-only site — remove all app/auth/api code
   - services/content/src/app.ts
 
 ## Последние 5 коммитов
-- d4b230e feat(web): convert to landing-only site — remove all app/auth/api code
-- 8a50d04 feat: UserReport endpoint + Privacy Policy page
-- d3246d7 fix(security): close #11 #13 #17 #35 — CORS wildcard, fail-open rate limiter, SSRF, hardcoded key
-- d186d32 chore: close resolved audit issues
-- 81495e9 fix(shared): lazy-load @sentry/node to avoid MODULE_NOT_FOUND crash
+- db04635 fix(web): ignoreBuildErrors + eslint in Docker build
+- 9b2d32b fix(web): simplify Dockerfile — fresh npm install avoids platform lock mismatch
+- f36e84c fix(web): use node:20-slim — @tailwindcss/oxide has no musl/alpine binaries
+- 1094a5f fix(web): skip shared tsc build in Dockerfile — SWC strips type-only imports
+- 9fb0421 fix(web): remove unused _request param in middleware + fix Dockerfile for monorepo
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
