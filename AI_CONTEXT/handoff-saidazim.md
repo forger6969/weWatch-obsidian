@@ -1,28 +1,27 @@
 ---
 type: handoff
-updated: 2026-05-15 19:01
+updated: 2026-05-15 19:19
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-15 19:01
+**Завершена:** 2026-05-15 19:19
 
 ## Последний коммит
-f177720 fix(mobile): Android MP4 — browser UA + backend http_headers for expo-av
+f686277 fix(mobile+backend): Android direct MP4 — server-side proxy bypass
 
 ## Незакоммиченных файлов
-67
+66
 
 ## Изменённые файлы
   - package-lock.json
-  - services/content/src/app.ts
 
 ## Последние 5 коммитов
+- f686277 fix(mobile+backend): Android direct MP4 — server-side proxy bypass
 - f177720 fix(mobile): Android MP4 — browser UA + backend http_headers for expo-av
 - 316b3b4 fix(mobile): VK Android — detect m.vkvideo.ru + fallback to embed on direct URL failure
 - cf0d6c7 fix(mobile): player controls auto-hide — tap to show/hide, always auto-hide
 - 4c320e6 feat(mobile): landscape rotation on fullscreen via expo-screen-orientation
-- efb1ae3 feat(mobile): fix player gradient + fullscreen overlay with chat/voice
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
