@@ -1,17 +1,17 @@
 ---
 type: handoff
-updated: 2026-05-16 14:04
+updated: 2026-05-16 14:22
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-16 14:04
+**Завершена:** 2026-05-16 14:22
 
 ## Последний коммит
 c2eb52e fix(mobile): use proxy as primary URL for Android + webview platforms (VK, Rutube, etc.)
 
 ## Незакоммиченных файлов
-66
+67
 
 ## Изменённые файлы
   - package-lock.json
