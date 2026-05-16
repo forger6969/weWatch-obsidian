@@ -1,22 +1,23 @@
 ---
 type: handoff
-updated: 2026-05-16 18:05
+updated: 2026-05-16 18:24
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-16 18:05
+**Завершена:** 2026-05-16 18:24
 
 ## Последний коммит
 ab6550b fix(proxy): normalise Content-Type — force video/mp4 when CDN returns octet-stream
 
 ## Незакоммиченных файлов
-73
+74
 
 ## Изменённые файлы
   - apps/mobile/src/i18n/translations.ts
   - apps/mobile/src/navigation/CustomTabBar.tsx
   - apps/mobile/src/navigation/MainNavigator.tsx
+  - apps/mobile/src/screens/home/HomeScreen.tsx
   - apps/mobile/src/screens/modal/NotificationsScreen.tsx
   - apps/mobile/src/types/index.ts
   - package-lock.json
