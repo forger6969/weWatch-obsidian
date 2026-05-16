@@ -1,14 +1,14 @@
 ---
 type: handoff
-updated: 2026-05-16 14:22
+updated: 2026-05-16 14:34
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-16 14:22
+**Завершена:** 2026-05-16 14:34
 
 ## Последний коммит
-c2eb52e fix(mobile): use proxy as primary URL for Android + webview platforms (VK, Rutube, etc.)
+ab6550b fix(proxy): normalise Content-Type — force video/mp4 when CDN returns octet-stream
 
 ## Незакоммиченных файлов
 67
@@ -17,11 +17,11 @@ c2eb52e fix(mobile): use proxy as primary URL for Android + webview platforms (V
   - package-lock.json
 
 ## Последние 5 коммитов
+- ab6550b fix(proxy): normalise Content-Type — force video/mp4 when CDN returns octet-stream
+- 2cf1e97 fix(mobile+proxy): precise Android CDN routing + prevent gzip corruption
 - c2eb52e fix(mobile): use proxy as primary URL for Android + webview platforms (VK, Rutube, etc.)
 - ee5a95c fix(mobile): fall back to embed WebView when extracted CDN fails for VK/Twitch/etc
 - 5cb8681 fix(mobile): prevent VK/embed iframe from showing during extraction and after CDN error
-- 9d4b991 fix(mobile): unified direct-URL strategy for iOS and Android
-- 3f4b341 docs: close T-S071 in Tasks/Done
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
