@@ -1,14 +1,14 @@
 ---
 type: handoff
-updated: 2026-05-16 13:29
+updated: 2026-05-16 13:33
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-16 13:29
+**Завершена:** 2026-05-16 13:33
 
 ## Последний коммит
-3f4b341 docs: close T-S071 in Tasks/Done
+9d4b991 fix(mobile): unified direct-URL strategy for iOS and Android
 
 ## Незакоммиченных файлов
 66
@@ -17,11 +17,11 @@ updated: 2026-05-16 13:29
   - package-lock.json
 
 ## Последние 5 коммитов
+- 9d4b991 fix(mobile): unified direct-URL strategy for iOS and Android
 - 3f4b341 docs: close T-S071 in Tasks/Done
 - 96d2f92 feat(admin): add Movies to global Cmd+K search (T-S071)
 - 143fcd6 feat(admin): dashboard activity feed + error trend chart (T-S070)
 - b24b1b7 fix(mobile): try direct CDN first on Android for extracted URLs, proxy as fallback
-- eb355e5 fix(mobile+backend): forward all yt-dlp headers to proxy — fixes VK on Android
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
