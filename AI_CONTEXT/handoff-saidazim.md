@@ -1,17 +1,17 @@
 ---
 type: handoff
-updated: 2026-05-16 23:39
+updated: 2026-05-17 00:09
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-16 23:39
+**Завершена:** 2026-05-17 00:09
 
 ## Последний коммит
 ab6550b fix(proxy): normalise Content-Type — force video/mp4 when CDN returns octet-stream
 
 ## Незакоммиченных файлов
-70
+71
 
 ## Изменённые файлы
   - apps/mobile/src/screens/home/HomeScreen.tsx
