@@ -1,27 +1,20 @@
 ---
 type: handoff
-updated: 2026-05-16 22:42
+updated: 2026-05-16 22:44
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-16 22:42
+**Завершена:** 2026-05-16 22:44
 
 ## Последний коммит
 ab6550b fix(proxy): normalise Content-Type — force video/mp4 when CDN returns octet-stream
 
 ## Незакоммиченных файлов
-107
+70
 
 ## Изменённые файлы
-  - CLAUDE.md
-  - apps/mobile/src/components/auth/AuthGridBackground.tsx
-  - apps/mobile/src/components/auth/OnboardingFooter.tsx
-  - apps/mobile/src/components/auth/OnboardingSlide.styles.ts
-  - apps/mobile/src/components/auth/SocialAuthButtons.tsx
-  - apps/mobile/src/components/home/HomeCTA.tsx
-  - apps/mobile/src/components/profile/AchievementCard.tsx
-  - apps/mobile/src/components/profile/ProfileHeader.styles.ts
+  - apps/mobile/src/screens/home/HomeScreen.tsx
 
 ## Последние 5 коммитов
 - ab6550b fix(proxy): normalise Content-Type — force video/mp4 when CDN returns octet-stream
