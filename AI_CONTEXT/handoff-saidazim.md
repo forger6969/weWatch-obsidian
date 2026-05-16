@@ -1,14 +1,14 @@
 ---
 type: handoff
-updated: 2026-05-16 13:46
+updated: 2026-05-16 13:53
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-16 13:46
+**Завершена:** 2026-05-16 13:53
 
 ## Последний коммит
-5cb8681 fix(mobile): prevent VK/embed iframe from showing during extraction and after CDN error
+ee5a95c fix(mobile): fall back to embed WebView when extracted CDN fails for VK/Twitch/etc
 
 ## Незакоммиченных файлов
 66
@@ -17,11 +17,11 @@ updated: 2026-05-16 13:46
   - package-lock.json
 
 ## Последние 5 коммитов
+- ee5a95c fix(mobile): fall back to embed WebView when extracted CDN fails for VK/Twitch/etc
 - 5cb8681 fix(mobile): prevent VK/embed iframe from showing during extraction and after CDN error
 - 9d4b991 fix(mobile): unified direct-URL strategy for iOS and Android
 - 3f4b341 docs: close T-S071 in Tasks/Done
 - 96d2f92 feat(admin): add Movies to global Cmd+K search (T-S071)
-- 143fcd6 feat(admin): dashboard activity feed + error trend chart (T-S070)
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
