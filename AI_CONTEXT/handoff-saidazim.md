@@ -1,17 +1,17 @@
 ---
 type: handoff
-updated: 2026-05-16 18:47
+updated: 2026-05-16 18:51
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-16 18:47
+**Завершена:** 2026-05-16 18:51
 
 ## Последний коммит
 ab6550b fix(proxy): normalise Content-Type — force video/mp4 when CDN returns octet-stream
 
 ## Незакоммиченных файлов
-77
+78
 
 ## Изменённые файлы
   - CLAUDE.md
