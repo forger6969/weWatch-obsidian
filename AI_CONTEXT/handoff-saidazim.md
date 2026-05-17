@@ -1,26 +1,27 @@
 ---
 type: handoff
-updated: 2026-05-17 21:32
+updated: 2026-05-17 22:13
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-17 21:32
+**Завершена:** 2026-05-17 22:13
 
 ## Последний коммит
 06ccc34 fix(security+quality): address Abdulaziz audit issues #16 #22 #36 #39
 
 ## Незакоммиченных файлов
-8
+10
 
 ## Изменённые файлы
+  - apps/mobile/src/api/content.api.ts
   - apps/mobile/src/components/watchParty/MediaBottomBar.tsx
   - apps/mobile/src/constants/mediaSources.ts
   - apps/mobile/src/hooks/useDynamicBlockedDomains.ts
   - apps/mobile/src/screens/modal/MediaWebViewScreen.tsx
   - apps/mobile/src/utils/webViewScripts.ts
   - docker-compose.dev.yml
-  - services/watch-party/src/utils/contentFilter.ts
+  - services/content/src/services/watchHistory.service.ts
 
 ## Последние 5 коммитов
 - 06ccc34 fix(security+quality): address Abdulaziz audit issues #16 #22 #36 #39
