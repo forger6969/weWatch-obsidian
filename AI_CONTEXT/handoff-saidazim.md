@@ -1,11 +1,11 @@
 ---
 type: handoff
-updated: 2026-05-17 18:06
+updated: 2026-05-17 18:08
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-17 18:06
+**Завершена:** 2026-05-17 18:08
 
 ## Последний коммит
 ab6550b fix(proxy): normalise Content-Type — force video/mp4 when CDN returns octet-stream
