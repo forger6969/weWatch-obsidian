@@ -1,20 +1,22 @@
 ---
 type: handoff
-updated: 2026-05-17 20:14
+updated: 2026-05-17 20:57
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-17 20:14
+**Завершена:** 2026-05-17 20:57
 
 ## Последний коммит
 06ccc34 fix(security+quality): address Abdulaziz audit issues #16 #22 #36 #39
 
 ## Незакоммиченных файлов
-1
+4
 
 ## Изменённые файлы
-
+  - apps/mobile/src/components/watchParty/MediaBottomBar.tsx
+  - apps/mobile/src/constants/mediaSources.ts
+  - apps/mobile/src/utils/webViewScripts.ts
 
 ## Последние 5 коммитов
 - 06ccc34 fix(security+quality): address Abdulaziz audit issues #16 #22 #36 #39
