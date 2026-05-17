@@ -1,17 +1,17 @@
 ---
 type: handoff
-updated: 2026-05-17 17:53
+updated: 2026-05-17 17:58
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-17 17:53
+**Завершена:** 2026-05-17 17:58
 
 ## Последний коммит
 ab6550b fix(proxy): normalise Content-Type — force video/mp4 when CDN returns octet-stream
 
 ## Незакоммиченных файлов
-17
+18
 
 ## Изменённые файлы
   - apps/mobile/package.json
