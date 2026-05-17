@@ -1,19 +1,21 @@
 ---
 type: handoff
-updated: 2026-05-17 12:43
+updated: 2026-05-17 12:50
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-17 12:43
+**Завершена:** 2026-05-17 12:50
 
 ## Последний коммит
 ab6550b fix(proxy): normalise Content-Type — force video/mp4 when CDN returns octet-stream
 
 ## Незакоммиченных файлов
-77
+81
 
 ## Изменённые файлы
+  - apps/mobile/metro.config.js
+  - apps/mobile/package.json
   - apps/mobile/src/components/common/BlockedDomainView.tsx
   - apps/mobile/src/hooks/useSourcePicker.ts
   - apps/mobile/src/screens/auth/LanguageSelectScreen.tsx
