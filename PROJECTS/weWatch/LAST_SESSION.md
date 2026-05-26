@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-05-27 00:48
+updated: 2026-05-27 01:01
 developer: Saidazim
 ---
 
@@ -14,9 +14,9 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-05-27 00:48
+**Дата:** 2026-05-27 01:01
 **Последний коммит:** `832069e chore: auto-save zone context [session-stop]`
-**Незакоммиченных файлов:** 368
+**Незакоммиченных файлов:** 369
 
 ---
 
@@ -34,6 +34,7 @@ developer: Saidazim
 
 ## Изменённые файлы
 
+  - apps/mobile/src/screens/modal/WatchPartyScreen.tsx
   - apps/web/public/manifest.json
   - apps/web/public/robots.txt
   - marketing/instagram/render-all.js
@@ -72,4 +73,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-05-27 00:48 автоматически через update-last-session.sh*
+*Обновлено: 2026-05-27 01:01 автоматически через update-last-session.sh*

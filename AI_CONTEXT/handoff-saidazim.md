@@ -1,19 +1,20 @@
 ---
 type: handoff
-updated: 2026-05-27 00:48
+updated: 2026-05-27 01:01
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-27 00:48
+**Завершена:** 2026-05-27 01:01
 
 ## Последний коммит
 832069e chore: auto-save zone context [session-stop]
 
 ## Незакоммиченных файлов
-368
+369
 
 ## Изменённые файлы
+  - apps/mobile/src/screens/modal/WatchPartyScreen.tsx
   - apps/web/public/manifest.json
   - apps/web/public/robots.txt
   - marketing/instagram/render-all.js
