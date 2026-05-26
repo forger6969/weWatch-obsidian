@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-05-27 01:14
+updated: 2026-05-27 01:16
 developer: Saidazim
 ---
 
@@ -14,7 +14,7 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-05-27 01:14
+**Дата:** 2026-05-27 01:16
 **Последний коммит:** `96ff5f2 fix(mobile): show current videoTitle in RoomInfoBar instead of stale room.name`
 **Незакоммиченных файлов:** 368
 
@@ -72,4 +72,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-05-27 01:14 автоматически через update-last-session.sh*
+*Обновлено: 2026-05-27 01:16 автоматически через update-last-session.sh*
