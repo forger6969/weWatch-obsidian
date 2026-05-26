@@ -1,17 +1,17 @@
 ---
 type: handoff
-updated: 2026-05-26 23:35
+updated: 2026-05-26 23:41
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-26 23:35
+**Завершена:** 2026-05-26 23:41
 
 ## Последний коммит
 c64bc75 chore: auto-save zone context [session-stop]
 
 ## Незакоммиченных файлов
-372
+367
 
 ## Изменённые файлы
   - apps/web/public/manifest.json
