@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-05-26 23:49
+updated: 2026-05-26 23:52
 developer: Saidazim
 ---
 
@@ -14,9 +14,9 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-05-26 23:49
+**Дата:** 2026-05-26 23:52
 **Последний коммит:** `c64bc75 chore: auto-save zone context [session-stop]`
-**Незакоммиченных файлов:** 367
+**Незакоммиченных файлов:** 368
 
 ---
 
@@ -34,6 +34,7 @@ developer: Saidazim
 
 ## Изменённые файлы
 
+  - CLAUDE.md
   - apps/web/public/manifest.json
   - apps/web/public/robots.txt
   - marketing/instagram/render-all.js
@@ -71,4 +72,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-05-26 23:49 автоматически через update-last-session.sh*
+*Обновлено: 2026-05-26 23:52 автоматически через update-last-session.sh*
