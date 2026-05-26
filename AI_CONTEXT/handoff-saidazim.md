@@ -1,14 +1,14 @@
 ---
 type: handoff
-updated: 2026-05-27 01:16
+updated: 2026-05-27 01:30
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-27 01:16
+**Завершена:** 2026-05-27 01:30
 
 ## Последний коммит
-96ff5f2 fix(mobile): show current videoTitle in RoomInfoBar instead of stale room.name
+eb14f2a fix(mobile): softer privacy policy tone + readable font
 
 ## Незакоммиченных файлов
 368
@@ -21,11 +21,11 @@ updated: 2026-05-27 01:16
   - services/admin/src/routes/analytics.routes.ts
 
 ## Последние 5 коммитов
+- eb14f2a fix(mobile): softer privacy policy tone + readable font
 - 96ff5f2 fix(mobile): show current videoTitle in RoomInfoBar instead of stale room.name
 - 6e13512 chore: auto-save zone context [session-stop]
 - a72df64 chore: auto-save zone context [session-stop]
 - a11bed7 feat(web): redesign logo SVG to match actual WeWatch W mark
-- c672076 feat(web): add W mark logo to navbar + favicon, fix EN hero title
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
