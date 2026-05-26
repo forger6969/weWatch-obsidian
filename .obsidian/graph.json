@@ -11,27 +11,34 @@
       "query": "path:DAILY  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 16045323
       }
     },
     {
-      "query": "",
+      "query": "path:TASKS  ",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 327424
+      }
+    },
+    {
+      "query": "path:PROJECTS/weWatch  ",
+      "color": {
+        "a": 1,
+        "rgb": 10027263
       }
     }
   ],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": 0.1,
-  "nodeSizeMultiplier": 1.63061197916667,
-  "lineSizeMultiplier": 1.49067274305556,
+  "textFadeMultiplier": -1.4,
+  "nodeSizeMultiplier": 2.05106770833333,
+  "lineSizeMultiplier": 1.47387152777778,
   "collapse-forces": true,
   "centerStrength": 0.568880208333333,
   "repelStrength": 9.92534722222222,
   "linkStrength": 0.523046875,
   "linkDistance": 228,
-  "scale": 0.6301994507969282,
+  "scale": 0.37145328761617785,
   "close": true
 }

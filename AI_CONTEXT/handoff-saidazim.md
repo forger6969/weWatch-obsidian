@@ -1,34 +1,29 @@
 ---
 type: handoff
-updated: 2026-05-18 02:22
+updated: 2026-05-26 17:33
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-18 02:22
+**Завершена:** 2026-05-26 17:33
 
 ## Последний коммит
-06ccc34 fix(security+quality): address Abdulaziz audit issues #16 #22 #36 #39
+a3184b1 fix(web): replace wewatch.app fallback URL with wewatch.uz across all pages
 
 ## Незакоммиченных файлов
-19
+350
 
 ## Изменённые файлы
-  - apps/mobile/src/api/content.api.ts
-  - apps/mobile/src/api/watchParty.api.ts
-  - apps/mobile/src/components/watchParty/MediaBottomBar.tsx
-  - apps/mobile/src/constants/mediaSources.ts
-  - apps/mobile/src/hooks/useDynamicBlockedDomains.ts
-  - apps/mobile/src/screens/modal/MediaWebViewScreen.tsx
-  - apps/mobile/src/screens/profile/WatchHistoryScreen.tsx
-  - apps/mobile/src/utils/webViewScripts.ts
+  - CLAUDE.md
+  - apps/web/public/manifest.json
+  - apps/web/public/robots.txt
 
 ## Последние 5 коммитов
-- 06ccc34 fix(security+quality): address Abdulaziz audit issues #16 #22 #36 #39
-- 086c65f fix(security+observability): address Abdulaziz audit issues #9 #14 #24 #37 #43 #44
-- ab6550b fix(proxy): normalise Content-Type — force video/mp4 when CDN returns octet-stream
-- 2cf1e97 fix(mobile+proxy): precise Android CDN routing + prevent gzip corruption
-- c2eb52e fix(mobile): use proxy as primary URL for Android + webview platforms (VK, Rutube, etc.)
+- a3184b1 fix(web): replace wewatch.app fallback URL with wewatch.uz across all pages
+- 42d0b43 fix(admin-ui): block search engine indexing — admin panel must not appear in Google
+- be3c4be feat(web): add continent outline paths to LiveWatchGlobe SVG
+- cefb784 fix(admin): correct BannedWordCategory default — profanity is not a valid value
+- 3b00a2f feat(web): T-E138 — LiveWatchGlobe — digital world with live watch signals
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
