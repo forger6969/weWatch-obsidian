@@ -1,0 +1,11 @@
+---
+zone: Telegram
+type: context
+updated: 2026-05-26
+---
+
+# Telegram Zone — Context
+
+## Hali hech narsa qilinmagan
+
+Bu zone bo'sh. "Telegram bilan ishlaylik" deyilganda bu fayl to'ldiriladi.
