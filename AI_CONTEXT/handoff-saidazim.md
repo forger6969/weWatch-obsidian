@@ -1,17 +1,17 @@
 ---
 type: handoff
-updated: 2026-05-27 00:11
+updated: 2026-05-27 00:13
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-27 00:11
+**Завершена:** 2026-05-27 00:13
 
 ## Последний коммит
-c64bc75 chore: auto-save zone context [session-stop]
+832069e chore: auto-save zone context [session-stop]
 
 ## Незакоммиченных файлов
-368
+367
 
 ## Изменённые файлы
   - apps/web/public/manifest.json
@@ -20,11 +20,11 @@ c64bc75 chore: auto-save zone context [session-stop]
   - marketing/instagram/src/Root.tsx
 
 ## Последние 5 коммитов
+- 832069e chore: auto-save zone context [session-stop]
 - c64bc75 chore: auto-save zone context [session-stop]
 - a3184b1 fix(web): replace wewatch.app fallback URL with wewatch.uz across all pages
 - 42d0b43 fix(admin-ui): block search engine indexing — admin panel must not appear in Google
 - be3c4be feat(web): add continent outline paths to LiveWatchGlobe SVG
-- cefb784 fix(admin): correct BannedWordCategory default — profanity is not a valid value
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
