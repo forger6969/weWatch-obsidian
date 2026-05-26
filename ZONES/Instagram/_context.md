@@ -65,3 +65,5 @@ marketing/instagram/
 - Overlay elementlar (corner logo) DOM'da OXIRIDA bo'lishi kerak (z-index emas, DOM order)
 
 <!-- session ended: 2026-05-26 21:23 -->
+
+<!-- session ended: 2026-05-26 21:26 -->
