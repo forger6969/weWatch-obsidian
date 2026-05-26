@@ -8,13 +8,12 @@ updated: 2026-05-27 01:01
 **Завершена:** 2026-05-27 01:01
 
 ## Последний коммит
-832069e chore: auto-save zone context [session-stop]
+96ff5f2 fix(mobile): show current videoTitle in RoomInfoBar instead of stale room.name
 
 ## Незакоммиченных файлов
-369
+368
 
 ## Изменённые файлы
-  - apps/mobile/src/screens/modal/WatchPartyScreen.tsx
   - apps/web/public/manifest.json
   - apps/web/public/robots.txt
   - marketing/instagram/render-all.js
@@ -22,11 +21,11 @@ updated: 2026-05-27 01:01
   - services/admin/src/routes/analytics.routes.ts
 
 ## Последние 5 коммитов
-- 832069e chore: auto-save zone context [session-stop]
-- c64bc75 chore: auto-save zone context [session-stop]
-- a3184b1 fix(web): replace wewatch.app fallback URL with wewatch.uz across all pages
-- 42d0b43 fix(admin-ui): block search engine indexing — admin panel must not appear in Google
-- be3c4be feat(web): add continent outline paths to LiveWatchGlobe SVG
+- 96ff5f2 fix(mobile): show current videoTitle in RoomInfoBar instead of stale room.name
+- 6e13512 chore: auto-save zone context [session-stop]
+- a72df64 chore: auto-save zone context [session-stop]
+- a11bed7 feat(web): redesign logo SVG to match actual WeWatch W mark
+- c672076 feat(web): add W mark logo to navbar + favicon, fix EN hero title
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
