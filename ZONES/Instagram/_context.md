@@ -63,3 +63,5 @@ marketing/instagram/
 - `Logo showIcon=true` = 2 ta W belgisi ko'rinadi → YOQIMLI EMAS. Faqat `LogoIcon` yoki `Logo` (showIcon=false) ishlatish
 - Instagram safe zone: paddingBottom min 320px, paddingRight min 150px
 - Overlay elementlar (corner logo) DOM'da OXIRIDA bo'lishi kerak (z-index emas, DOM order)
+
+<!-- session ended: 2026-05-26 21:23 -->
