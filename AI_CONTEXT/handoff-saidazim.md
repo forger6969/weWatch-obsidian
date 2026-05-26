@@ -11,7 +11,7 @@ updated: 2026-05-26 23:05
 c64bc75 chore: auto-save zone context [session-stop]
 
 ## Незакоммиченных файлов
-366
+367
 
 ## Изменённые файлы
   - apps/web/public/manifest.json
