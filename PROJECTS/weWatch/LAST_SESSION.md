@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-05-26 17:38
+updated: 2026-05-26 17:44
 developer: Saidazim
 ---
 
@@ -14,9 +14,9 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-05-26 17:38
+**Дата:** 2026-05-26 17:44
 **Последний коммит:** `a3184b1 fix(web): replace wewatch.app fallback URL with wewatch.uz across all pages`
-**Незакоммиченных файлов:** 350
+**Незакоммиченных файлов:** 358
 
 ---
 
@@ -37,6 +37,8 @@ developer: Saidazim
   - CLAUDE.md
   - apps/web/public/manifest.json
   - apps/web/public/robots.txt
+  - marketing/instagram/render-all.js
+  - marketing/instagram/src/Root.tsx
 
 ---
 
@@ -70,4 +72,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-05-26 17:38 автоматически через update-last-session.sh*
+*Обновлено: 2026-05-26 17:44 автоматически через update-last-session.sh*

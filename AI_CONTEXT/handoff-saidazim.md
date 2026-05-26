@@ -1,22 +1,24 @@
 ---
 type: handoff
-updated: 2026-05-26 17:38
+updated: 2026-05-26 17:44
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-26 17:38
+**Завершена:** 2026-05-26 17:44
 
 ## Последний коммит
 a3184b1 fix(web): replace wewatch.app fallback URL with wewatch.uz across all pages
 
 ## Незакоммиченных файлов
-350
+358
 
 ## Изменённые файлы
   - CLAUDE.md
   - apps/web/public/manifest.json
   - apps/web/public/robots.txt
+  - marketing/instagram/render-all.js
+  - marketing/instagram/src/Root.tsx
 
 ## Последние 5 коммитов
 - a3184b1 fix(web): replace wewatch.app fallback URL with wewatch.uz across all pages
