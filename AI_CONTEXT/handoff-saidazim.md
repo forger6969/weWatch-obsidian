@@ -8,24 +8,23 @@ updated: 2026-05-26 20:54
 **Завершена:** 2026-05-26 20:54
 
 ## Последний коммит
-a3184b1 fix(web): replace wewatch.app fallback URL with wewatch.uz across all pages
+c64bc75 chore: auto-save zone context [session-stop]
 
 ## Незакоммиченных файлов
-363
+362
 
 ## Изменённые файлы
-  - CLAUDE.md
   - apps/web/public/manifest.json
   - apps/web/public/robots.txt
   - marketing/instagram/render-all.js
   - marketing/instagram/src/Root.tsx
 
 ## Последние 5 коммитов
+- c64bc75 chore: auto-save zone context [session-stop]
 - a3184b1 fix(web): replace wewatch.app fallback URL with wewatch.uz across all pages
 - 42d0b43 fix(admin-ui): block search engine indexing — admin panel must not appear in Google
 - be3c4be feat(web): add continent outline paths to LiveWatchGlobe SVG
 - cefb784 fix(admin): correct BannedWordCategory default — profanity is not a valid value
-- 3b00a2f feat(web): T-E138 — LiveWatchGlobe — digital world with live watch signals
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
