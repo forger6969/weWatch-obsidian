@@ -1,11 +1,11 @@
 ---
 type: handoff
-updated: 2026-05-26 20:30
+updated: 2026-05-26 20:38
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-26 20:30
+**Завершена:** 2026-05-26 20:38
 
 ## Последний коммит
 a3184b1 fix(web): replace wewatch.app fallback URL with wewatch.uz across all pages
