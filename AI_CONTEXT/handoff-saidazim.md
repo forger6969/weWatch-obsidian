@@ -1,11 +1,11 @@
 ---
 type: handoff
-updated: 2026-05-27 01:01
+updated: 2026-05-27 01:13
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-27 01:01
+**Завершена:** 2026-05-27 01:13
 
 ## Последний коммит
 96ff5f2 fix(mobile): show current videoTitle in RoomInfoBar instead of stale room.name
