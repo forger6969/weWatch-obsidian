@@ -1,17 +1,17 @@
 ---
 type: handoff
-updated: 2026-05-27 04:27
+updated: 2026-05-27 04:28
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-27 04:27
+**Завершена:** 2026-05-27 04:28
 
 ## Последний коммит
 738ea0d fix(mobile): accurate privacy policy — remove MongoDB Atlas, add Railway
 
 ## Незакоммиченных файлов
-375
+376
 
 ## Изменённые файлы
   - apps/web/public/manifest.json
