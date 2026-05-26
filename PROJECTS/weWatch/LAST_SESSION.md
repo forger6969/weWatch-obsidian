@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-05-26 23:54
+updated: 2026-05-27 00:11
 developer: Saidazim
 ---
 
@@ -14,9 +14,9 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-05-26 23:54
-**Последний коммит:** `c64bc75 chore: auto-save zone context [session-stop]`
-**Незакоммиченных файлов:** 368
+**Дата:** 2026-05-27 00:11
+**Последний коммит:** `832069e chore: auto-save zone context [session-stop]`
+**Незакоммиченных файлов:** 367
 
 ---
 
@@ -34,7 +34,6 @@ developer: Saidazim
 
 ## Изменённые файлы
 
-  - CLAUDE.md
   - apps/web/public/manifest.json
   - apps/web/public/robots.txt
   - marketing/instagram/render-all.js
@@ -44,11 +43,11 @@ developer: Saidazim
 
 ## Последние 5 коммитов
 
+- 832069e chore: auto-save zone context [session-stop]
 - c64bc75 chore: auto-save zone context [session-stop]
 - a3184b1 fix(web): replace wewatch.app fallback URL with wewatch.uz across all pages
 - 42d0b43 fix(admin-ui): block search engine indexing — admin panel must not appear in Google
 - be3c4be feat(web): add continent outline paths to LiveWatchGlobe SVG
-- cefb784 fix(admin): correct BannedWordCategory default — profanity is not a valid value
 
 ---
 
@@ -72,4 +71,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-05-26 23:54 автоматически через update-last-session.sh*
+*Обновлено: 2026-05-27 00:11 автоматически через update-last-session.sh*

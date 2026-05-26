@@ -1,11 +1,11 @@
 ---
 type: handoff
-updated: 2026-05-26 23:54
+updated: 2026-05-27 00:11
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-26 23:54
+**Завершена:** 2026-05-27 00:11
 
 ## Последний коммит
 c64bc75 chore: auto-save zone context [session-stop]
@@ -14,7 +14,6 @@ c64bc75 chore: auto-save zone context [session-stop]
 368
 
 ## Изменённые файлы
-  - CLAUDE.md
   - apps/web/public/manifest.json
   - apps/web/public/robots.txt
   - marketing/instagram/render-all.js
