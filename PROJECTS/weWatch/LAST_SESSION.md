@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-05-27 01:33
+updated: 2026-05-27 01:38
 developer: Saidazim
 ---
 
@@ -14,8 +14,8 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-05-27 01:33
-**Последний коммит:** `09c8e82 fix(mobile): restore full official privacy policy with friendly formatting`
+**Дата:** 2026-05-27 01:38
+**Последний коммит:** `738ea0d fix(mobile): accurate privacy policy — remove MongoDB Atlas, add Railway`
 **Незакоммиченных файлов:** 368
 
 ---
@@ -44,11 +44,11 @@ developer: Saidazim
 
 ## Последние 5 коммитов
 
+- 738ea0d fix(mobile): accurate privacy policy — remove MongoDB Atlas, add Railway
 - 09c8e82 fix(mobile): restore full official privacy policy with friendly formatting
 - eb14f2a fix(mobile): softer privacy policy tone + readable font
 - 96ff5f2 fix(mobile): show current videoTitle in RoomInfoBar instead of stale room.name
 - 6e13512 chore: auto-save zone context [session-stop]
-- a72df64 chore: auto-save zone context [session-stop]
 
 ---
 
@@ -72,4 +72,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-05-27 01:33 автоматически через update-last-session.sh*
+*Обновлено: 2026-05-27 01:38 автоматически через update-last-session.sh*
