@@ -1,14 +1,14 @@
 ---
 type: handoff
-updated: 2026-05-27 14:12
+updated: 2026-05-27 14:33
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-27 14:12
+**Завершена:** 2026-05-27 14:33
 
 ## Последний коммит
-738ea0d fix(mobile): accurate privacy policy — remove MongoDB Atlas, add Railway
+2f24cd0 refactor(shared): remove dead createUserProfile/syncAdminProfile (authId pattern gone)
 
 ## Незакоммиченных файлов
 377
@@ -21,11 +21,11 @@ updated: 2026-05-27 14:12
   - services/admin/src/routes/analytics.routes.ts
 
 ## Последние 5 коммитов
+- 2f24cd0 refactor(shared): remove dead createUserProfile/syncAdminProfile (authId pattern gone)
 - 738ea0d fix(mobile): accurate privacy policy — remove MongoDB Atlas, add Railway
 - 09c8e82 fix(mobile): restore full official privacy policy with friendly formatting
 - eb14f2a fix(mobile): softer privacy policy tone + readable font
 - 96ff5f2 fix(mobile): show current videoTitle in RoomInfoBar instead of stale room.name
-- 6e13512 chore: auto-save zone context [session-stop]
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
