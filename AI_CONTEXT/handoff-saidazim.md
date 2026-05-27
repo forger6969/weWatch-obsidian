@@ -1,29 +1,27 @@
 ---
 type: handoff
-updated: 2026-05-27 23:21
+updated: 2026-05-27 23:26
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-27 23:21
+**Завершена:** 2026-05-27 23:26
 
 ## Последний коммит
-f5c1b6b fix(release): resolve 4 critical blockers found in release audit
+ba655fa feat(marketing): add Uzbek slides + Reel/Store compositions to Remotion root
 
 ## Незакоммиченных файлов
-375
+372
 
 ## Изменённые файлы
-  - marketing/instagram/render-all.js
-  - marketing/instagram/src/Root.tsx
-  - services/admin/src/routes/analytics.routes.ts
+
 
 ## Последние 5 коммитов
+- ba655fa feat(marketing): add Uzbek slides + Reel/Store compositions to Remotion root
 - f5c1b6b fix(release): resolve 4 critical blockers found in release audit
 - aca87d4 feat(web): improve SEO meta tags — trilingual keywords + JSON-LD HowTo + geo targeting
 - 2f24cd0 refactor(shared): remove dead createUserProfile/syncAdminProfile (authId pattern gone)
 - 738ea0d fix(mobile): accurate privacy policy — remove MongoDB Atlas, add Railway
-- 09c8e82 fix(mobile): restore full official privacy policy with friendly formatting
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
