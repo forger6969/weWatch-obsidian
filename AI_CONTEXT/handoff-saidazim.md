@@ -1,33 +1,29 @@
 ---
 type: handoff
-updated: 2026-05-27 22:19
+updated: 2026-05-27 22:20
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-27 22:19
+**Завершена:** 2026-05-27 22:20
 
 ## Последний коммит
-2f24cd0 refactor(shared): remove dead createUserProfile/syncAdminProfile (authId pattern gone)
+aca87d4 feat(web): improve SEO meta tags — trilingual keywords + JSON-LD HowTo + geo targeting
 
 ## Незакоммиченных файлов
-379
+375
 
 ## Изменённые файлы
-  - apps/web/public/manifest.json
-  - apps/web/public/robots.txt
-  - apps/web/src/app/layout.tsx
-  - apps/web/src/app/page.tsx
   - marketing/instagram/render-all.js
   - marketing/instagram/src/Root.tsx
   - services/admin/src/routes/analytics.routes.ts
 
 ## Последние 5 коммитов
+- aca87d4 feat(web): improve SEO meta tags — trilingual keywords + JSON-LD HowTo + geo targeting
 - 2f24cd0 refactor(shared): remove dead createUserProfile/syncAdminProfile (authId pattern gone)
 - 738ea0d fix(mobile): accurate privacy policy — remove MongoDB Atlas, add Railway
 - 09c8e82 fix(mobile): restore full official privacy policy with friendly formatting
 - eb14f2a fix(mobile): softer privacy policy tone + readable font
-- 96ff5f2 fix(mobile): show current videoTitle in RoomInfoBar instead of stale room.name
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]

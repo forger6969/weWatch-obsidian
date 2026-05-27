@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-05-27 22:19
+updated: 2026-05-27 22:20
 developer: Saidazim
 ---
 
@@ -14,9 +14,9 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-05-27 22:19
-**Последний коммит:** `2f24cd0 refactor(shared): remove dead createUserProfile/syncAdminProfile (authId pattern gone)`
-**Незакоммиченных файлов:** 379
+**Дата:** 2026-05-27 22:20
+**Последний коммит:** `aca87d4 feat(web): improve SEO meta tags — trilingual keywords + JSON-LD HowTo + geo targeting`
+**Незакоммиченных файлов:** 375
 
 ---
 
@@ -34,10 +34,6 @@ developer: Saidazim
 
 ## Изменённые файлы
 
-  - apps/web/public/manifest.json
-  - apps/web/public/robots.txt
-  - apps/web/src/app/layout.tsx
-  - apps/web/src/app/page.tsx
   - marketing/instagram/render-all.js
   - marketing/instagram/src/Root.tsx
   - services/admin/src/routes/analytics.routes.ts
@@ -46,11 +42,11 @@ developer: Saidazim
 
 ## Последние 5 коммитов
 
+- aca87d4 feat(web): improve SEO meta tags — trilingual keywords + JSON-LD HowTo + geo targeting
 - 2f24cd0 refactor(shared): remove dead createUserProfile/syncAdminProfile (authId pattern gone)
 - 738ea0d fix(mobile): accurate privacy policy — remove MongoDB Atlas, add Railway
 - 09c8e82 fix(mobile): restore full official privacy policy with friendly formatting
 - eb14f2a fix(mobile): softer privacy policy tone + readable font
-- 96ff5f2 fix(mobile): show current videoTitle in RoomInfoBar instead of stale room.name
 
 ---
 
@@ -74,4 +70,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-05-27 22:19 автоматически через update-last-session.sh*
+*Обновлено: 2026-05-27 22:20 автоматически через update-last-session.sh*
