@@ -1,7 +1,7 @@
 ---
 zone: Instagram
 type: skills
-updated: 2026-05-26
+updated: 2026-05-27
 ---
 
 # Instagram Zone — Skills & Tools
@@ -13,6 +13,7 @@ updated: 2026-05-26
 | **remotion-audio** | `remotion-audio.md` | Remotion videoga audio qo'shish |
 | **frontend-design** | `frontend-design.md` | Slide UI dizayn qoidalari |
 | **visual-testing** | `visual-testing.md` | Render natijasini tekshirish |
+| **remotion-video-creation** | `ZONES/Instagram/remotion-video-creation.md` | Полный пайплайн: Remotion + Higgsfield + Reels |
 
 ## Remotion Render Buyruqlari
 
