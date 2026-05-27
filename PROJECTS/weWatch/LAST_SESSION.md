@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-05-27 23:50
+updated: 2026-05-27 23:58
 developer: Saidazim
 ---
 
@@ -14,8 +14,8 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-05-27 23:50
-**Последний коммит:** `d34a047 fix(mobile): correct UserReport reasons + error state in report modals`
+**Дата:** 2026-05-27 23:58
+**Последний коммит:** `8704b91 fix(mobile): Apple App Store compliance — privacy manifest, block user, URL fixes`
 **Незакоммиченных файлов:** 372
 
 ---
@@ -40,11 +40,11 @@ developer: Saidazim
 
 ## Последние 5 коммитов
 
+- 8704b91 fix(mobile): Apple App Store compliance — privacy manifest, block user, URL fixes
 - d34a047 fix(mobile): correct UserReport reasons + error state in report modals
 - b3690ad fix(web): update GA measurement ID to G-2S4DR8CBF0
 - a063434 feat(web): add Google Analytics G-PNCV2BLGXR via next/script afterInteractive
 - ba655fa feat(marketing): add Uzbek slides + Reel/Store compositions to Remotion root
-- f5c1b6b fix(release): resolve 4 critical blockers found in release audit
 
 ---
 
@@ -68,4 +68,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-05-27 23:50 автоматически через update-last-session.sh*
+*Обновлено: 2026-05-27 23:58 автоматически через update-last-session.sh*
