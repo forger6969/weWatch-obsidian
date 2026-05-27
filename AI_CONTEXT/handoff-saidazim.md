@@ -1,11 +1,11 @@
 ---
 type: handoff
-updated: 2026-05-27 23:41
+updated: 2026-05-27 23:50
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-27 23:41
+**Завершена:** 2026-05-27 23:50
 
 ## Последний коммит
 d34a047 fix(mobile): correct UserReport reasons + error state in report modals
