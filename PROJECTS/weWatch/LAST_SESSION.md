@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-05-27 23:08
+updated: 2026-05-27 23:21
 developer: Saidazim
 ---
 
@@ -14,8 +14,8 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-05-27 23:08
-**Последний коммит:** `aca87d4 feat(web): improve SEO meta tags — trilingual keywords + JSON-LD HowTo + geo targeting`
+**Дата:** 2026-05-27 23:21
+**Последний коммит:** `f5c1b6b fix(release): resolve 4 critical blockers found in release audit`
 **Незакоммиченных файлов:** 375
 
 ---
@@ -42,11 +42,11 @@ developer: Saidazim
 
 ## Последние 5 коммитов
 
+- f5c1b6b fix(release): resolve 4 critical blockers found in release audit
 - aca87d4 feat(web): improve SEO meta tags — trilingual keywords + JSON-LD HowTo + geo targeting
 - 2f24cd0 refactor(shared): remove dead createUserProfile/syncAdminProfile (authId pattern gone)
 - 738ea0d fix(mobile): accurate privacy policy — remove MongoDB Atlas, add Railway
 - 09c8e82 fix(mobile): restore full official privacy policy with friendly formatting
-- eb14f2a fix(mobile): softer privacy policy tone + readable font
 
 ---
 
@@ -70,4 +70,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-05-27 23:08 автоматически через update-last-session.sh*
+*Обновлено: 2026-05-27 23:21 автоматически через update-last-session.sh*
