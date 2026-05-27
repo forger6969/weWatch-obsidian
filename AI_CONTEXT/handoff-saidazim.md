@@ -1,11 +1,11 @@
 ---
 type: handoff
-updated: 2026-05-27 14:33
+updated: 2026-05-27 22:08
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-27 14:33
+**Завершена:** 2026-05-27 22:08
 
 ## Последний коммит
 2f24cd0 refactor(shared): remove dead createUserProfile/syncAdminProfile (authId pattern gone)
