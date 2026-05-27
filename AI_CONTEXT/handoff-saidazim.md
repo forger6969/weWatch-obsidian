@@ -1,17 +1,17 @@
 ---
 type: handoff
-updated: 2026-05-28 00:01
+updated: 2026-05-28 00:16
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-28 00:01
+**Завершена:** 2026-05-28 00:16
 
 ## Последний коммит
 8704b91 fix(mobile): Apple App Store compliance — privacy manifest, block user, URL fixes
 
 ## Незакоммиченных файлов
-372
+373
 
 ## Изменённые файлы
 
