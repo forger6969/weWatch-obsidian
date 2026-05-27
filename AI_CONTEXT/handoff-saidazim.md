@@ -1,21 +1,23 @@
 ---
 type: handoff
-updated: 2026-05-27 22:10
+updated: 2026-05-27 22:19
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-27 22:10
+**Завершена:** 2026-05-27 22:19
 
 ## Последний коммит
 2f24cd0 refactor(shared): remove dead createUserProfile/syncAdminProfile (authId pattern gone)
 
 ## Незакоммиченных файлов
-377
+379
 
 ## Изменённые файлы
   - apps/web/public/manifest.json
   - apps/web/public/robots.txt
+  - apps/web/src/app/layout.tsx
+  - apps/web/src/app/page.tsx
   - marketing/instagram/render-all.js
   - marketing/instagram/src/Root.tsx
   - services/admin/src/routes/analytics.routes.ts

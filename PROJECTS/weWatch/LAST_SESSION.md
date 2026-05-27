@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-05-27 22:10
+updated: 2026-05-27 22:19
 developer: Saidazim
 ---
 
@@ -14,9 +14,9 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-05-27 22:10
+**Дата:** 2026-05-27 22:19
 **Последний коммит:** `2f24cd0 refactor(shared): remove dead createUserProfile/syncAdminProfile (authId pattern gone)`
-**Незакоммиченных файлов:** 377
+**Незакоммиченных файлов:** 379
 
 ---
 
@@ -36,6 +36,8 @@ developer: Saidazim
 
   - apps/web/public/manifest.json
   - apps/web/public/robots.txt
+  - apps/web/src/app/layout.tsx
+  - apps/web/src/app/page.tsx
   - marketing/instagram/render-all.js
   - marketing/instagram/src/Root.tsx
   - services/admin/src/routes/analytics.routes.ts
@@ -72,4 +74,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-05-27 22:10 автоматически через update-last-session.sh*
+*Обновлено: 2026-05-27 22:19 автоматически через update-last-session.sh*
