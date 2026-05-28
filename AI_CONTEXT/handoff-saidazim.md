@@ -1,11 +1,11 @@
 ---
 type: handoff
-updated: 2026-05-28 21:29
+updated: 2026-05-28 21:30
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-28 21:29
+**Завершена:** 2026-05-28 21:30
 
 ## Последний коммит
 abeb5aa fix(web): SEO — cross-platform sync + anime keywords + new FAQ entries
