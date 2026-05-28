@@ -1,17 +1,17 @@
 ---
 type: handoff
-updated: 2026-05-28 16:59
+updated: 2026-05-28 17:01
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-28 16:59
+**Завершена:** 2026-05-28 17:01
 
 ## Последний коммит
 8704b91 fix(mobile): Apple App Store compliance — privacy manifest, block user, URL fixes
 
 ## Незакоммиченных файлов
-377
+379
 
 ## Изменённые файлы
   - services/notification/src/config/index.ts
