@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-05-28 17:05
+updated: 2026-05-28 17:20
 developer: Saidazim
 ---
 
@@ -14,7 +14,7 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-05-28 17:05
+**Дата:** 2026-05-28 17:20
 **Последний коммит:** `8704b91 fix(mobile): Apple App Store compliance — privacy manifest, block user, URL fixes`
 **Незакоммиченных файлов:** 379
 
@@ -69,4 +69,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-05-28 17:05 автоматически через update-last-session.sh*
+*Обновлено: 2026-05-28 17:20 автоматически через update-last-session.sh*
