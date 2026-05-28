@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-05-28 21:44
+updated: 2026-05-28 21:46
 developer: Saidazim
 ---
 
@@ -14,7 +14,7 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-05-28 21:44
+**Дата:** 2026-05-28 21:46
 **Последний коммит:** `53fab41 fix(mobile): new joiner video stands still — race condition in pendingSyncRef`
 **Незакоммиченных файлов:** 375
 
@@ -68,4 +68,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-05-28 21:44 автоматически через update-last-session.sh*
+*Обновлено: 2026-05-28 21:46 автоматически через update-last-session.sh*
