@@ -1,14 +1,14 @@
 ---
 type: handoff
-updated: 2026-05-28 21:05
+updated: 2026-05-28 21:08
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-28 21:05
+**Завершена:** 2026-05-28 21:08
 
 ## Последний коммит
-fba2cdb fix(web): SEO — add alternateNames for wewatch brand + strengthen description
+abeb5aa fix(web): SEO — cross-platform sync + anime keywords + new FAQ entries
 
 ## Незакоммиченных файлов
 375
@@ -17,11 +17,11 @@ fba2cdb fix(web): SEO — add alternateNames for wewatch brand + strengthen desc
 
 
 ## Последние 5 коммитов
+- abeb5aa fix(web): SEO — cross-platform sync + anime keywords + new FAQ entries
 - fba2cdb fix(web): SEO — add alternateNames for wewatch brand + strengthen description
 - 3e4db13 feat(notification): add Swarm Protocol — group message listener + knowledge base
 - 8704b91 fix(mobile): Apple App Store compliance — privacy manifest, block user, URL fixes
 - d34a047 fix(mobile): correct UserReport reasons + error state in report modals
-- b3690ad fix(web): update GA measurement ID to G-2S4DR8CBF0
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]

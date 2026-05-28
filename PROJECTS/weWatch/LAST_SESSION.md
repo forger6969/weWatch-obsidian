@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-05-28 21:05
+updated: 2026-05-28 21:08
 developer: Saidazim
 ---
 
@@ -14,8 +14,8 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-05-28 21:05
-**Последний коммит:** `fba2cdb fix(web): SEO — add alternateNames for wewatch brand + strengthen description`
+**Дата:** 2026-05-28 21:08
+**Последний коммит:** `abeb5aa fix(web): SEO — cross-platform sync + anime keywords + new FAQ entries`
 **Незакоммиченных файлов:** 375
 
 ---
@@ -40,11 +40,11 @@ developer: Saidazim
 
 ## Последние 5 коммитов
 
+- abeb5aa fix(web): SEO — cross-platform sync + anime keywords + new FAQ entries
 - fba2cdb fix(web): SEO — add alternateNames for wewatch brand + strengthen description
 - 3e4db13 feat(notification): add Swarm Protocol — group message listener + knowledge base
 - 8704b91 fix(mobile): Apple App Store compliance — privacy manifest, block user, URL fixes
 - d34a047 fix(mobile): correct UserReport reasons + error state in report modals
-- b3690ad fix(web): update GA measurement ID to G-2S4DR8CBF0
 
 ---
 
@@ -68,4 +68,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-05-28 21:05 автоматически через update-last-session.sh*
+*Обновлено: 2026-05-28 21:08 автоматически через update-last-session.sh*
