@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-05-28 16:39
+updated: 2026-05-28 16:44
 developer: Saidazim
 ---
 
@@ -14,9 +14,9 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-05-28 16:39
+**Дата:** 2026-05-28 16:44
 **Последний коммит:** `8704b91 fix(mobile): Apple App Store compliance — privacy manifest, block user, URL fixes`
-**Незакоммиченных файлов:** 373
+**Незакоммиченных файлов:** 377
 
 ---
 
@@ -34,7 +34,8 @@ developer: Saidazim
 
 ## Изменённые файлы
 
-
+  - services/notification/src/config/index.ts
+  - services/notification/src/services/telegram.service.ts
 
 ---
 
@@ -68,4 +69,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-05-28 16:39 автоматически через update-last-session.sh*
+*Обновлено: 2026-05-28 16:44 автоматически через update-last-session.sh*

@@ -1,20 +1,21 @@
 ---
 type: handoff
-updated: 2026-05-28 16:39
+updated: 2026-05-28 16:44
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-28 16:39
+**Завершена:** 2026-05-28 16:44
 
 ## Последний коммит
 8704b91 fix(mobile): Apple App Store compliance — privacy manifest, block user, URL fixes
 
 ## Незакоммиченных файлов
-373
+377
 
 ## Изменённые файлы
-
+  - services/notification/src/config/index.ts
+  - services/notification/src/services/telegram.service.ts
 
 ## Последние 5 коммитов
 - 8704b91 fix(mobile): Apple App Store compliance — privacy manifest, block user, URL fixes
