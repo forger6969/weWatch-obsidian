@@ -1,28 +1,27 @@
 ---
 type: handoff
-updated: 2026-05-28 17:20
+updated: 2026-05-28 17:22
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-28 17:20
+**Завершена:** 2026-05-28 17:22
 
 ## Последний коммит
-8704b91 fix(mobile): Apple App Store compliance — privacy manifest, block user, URL fixes
+3e4db13 feat(notification): add Swarm Protocol — group message listener + knowledge base
 
 ## Незакоммиченных файлов
-379
+375
 
 ## Изменённые файлы
-  - services/notification/src/config/index.ts
-  - services/notification/src/services/telegram.service.ts
+
 
 ## Последние 5 коммитов
+- 3e4db13 feat(notification): add Swarm Protocol — group message listener + knowledge base
 - 8704b91 fix(mobile): Apple App Store compliance — privacy manifest, block user, URL fixes
 - d34a047 fix(mobile): correct UserReport reasons + error state in report modals
 - b3690ad fix(web): update GA measurement ID to G-2S4DR8CBF0
 - a063434 feat(web): add Google Analytics G-PNCV2BLGXR via next/script afterInteractive
-- ba655fa feat(marketing): add Uzbek slides + Reel/Store compositions to Remotion root
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]

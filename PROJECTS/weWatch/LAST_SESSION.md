@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-05-28 17:20
+updated: 2026-05-28 17:22
 developer: Saidazim
 ---
 
@@ -14,9 +14,9 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-05-28 17:20
-**Последний коммит:** `8704b91 fix(mobile): Apple App Store compliance — privacy manifest, block user, URL fixes`
-**Незакоммиченных файлов:** 379
+**Дата:** 2026-05-28 17:22
+**Последний коммит:** `3e4db13 feat(notification): add Swarm Protocol — group message listener + knowledge base`
+**Незакоммиченных файлов:** 375
 
 ---
 
@@ -34,18 +34,17 @@ developer: Saidazim
 
 ## Изменённые файлы
 
-  - services/notification/src/config/index.ts
-  - services/notification/src/services/telegram.service.ts
+
 
 ---
 
 ## Последние 5 коммитов
 
+- 3e4db13 feat(notification): add Swarm Protocol — group message listener + knowledge base
 - 8704b91 fix(mobile): Apple App Store compliance — privacy manifest, block user, URL fixes
 - d34a047 fix(mobile): correct UserReport reasons + error state in report modals
 - b3690ad fix(web): update GA measurement ID to G-2S4DR8CBF0
 - a063434 feat(web): add Google Analytics G-PNCV2BLGXR via next/script afterInteractive
-- ba655fa feat(marketing): add Uzbek slides + Reel/Store compositions to Remotion root
 
 ---
 
@@ -69,4 +68,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-05-28 17:20 автоматически через update-last-session.sh*
+*Обновлено: 2026-05-28 17:22 автоматически через update-last-session.sh*
