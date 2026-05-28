@@ -1,11 +1,11 @@
 ---
 type: handoff
-updated: 2026-05-28 21:34
+updated: 2026-05-28 21:44
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-28 21:34
+**Завершена:** 2026-05-28 21:44
 
 ## Последний коммит
 53fab41 fix(mobile): new joiner video stands still — race condition in pendingSyncRef
