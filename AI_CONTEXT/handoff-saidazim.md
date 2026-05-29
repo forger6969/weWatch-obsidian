@@ -1,27 +1,27 @@
 ---
 type: handoff
-updated: 2026-05-29 19:53
+updated: 2026-05-29 19:56
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-29 19:53
+**Завершена:** 2026-05-29 19:56
 
 ## Последний коммит
 53fab41 fix(mobile): new joiner video stands still — race condition in pendingSyncRef
 
 ## Незакоммиченных файлов
-375
+418
 
 ## Изменённые файлы
 
 
 ## Последние 5 коммитов
+- 4727682 chore: auto-save zone context [session-stop]
 - 53fab41 fix(mobile): new joiner video stands still — race condition in pendingSyncRef
 - abeb5aa fix(web): SEO — cross-platform sync + anime keywords + new FAQ entries
 - fba2cdb fix(web): SEO — add alternateNames for wewatch brand + strengthen description
 - 3e4db13 feat(notification): add Swarm Protocol — group message listener + knowledge base
-- 8704b91 fix(mobile): Apple App Store compliance — privacy manifest, block user, URL fixes
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
