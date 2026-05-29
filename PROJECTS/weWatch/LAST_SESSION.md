@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-05-29 22:27
+updated: 2026-05-29 23:11
 developer: Saidazim
 ---
 
@@ -14,8 +14,8 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-05-29 22:27
-**Последний коммит:** `cfdcf3d fix(mobile): maintenance mode — check while user is already in app`
+**Дата:** 2026-05-29 23:11
+**Последний коммит:** `c4f4688 fix(settings): enforce all admin settings — were saved but never checked`
 **Незакоммиченных файлов:** 417
 
 ---
@@ -40,11 +40,11 @@ developer: Saidazim
 
 ## Последние 5 коммитов
 
+- c4f4688 fix(settings): enforce all admin settings — were saved but never checked
 - cfdcf3d fix(mobile): maintenance mode — check while user is already in app
 - c3de639 fix(admin-ui): CampaignsPage — PageHeader subtitle→description, action→actions
 - c109fcb fix(mobile): maintenance mode — was saved in admin but never checked in app
 - 51b51cb feat(campaigns): full newsletter system — admin UI + landing + email delivery
-- 03450cc feat(notification): add android waitlist launch script
 
 ---
 
@@ -68,4 +68,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-05-29 22:27 автоматически через update-last-session.sh*
+*Обновлено: 2026-05-29 23:11 автоматически через update-last-session.sh*
