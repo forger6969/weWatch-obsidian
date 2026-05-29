@@ -1,11 +1,11 @@
 ---
 type: handoff
-updated: 2026-05-29 20:23
+updated: 2026-05-29 20:29
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-29 20:23
+**Завершена:** 2026-05-29 20:29
 
 ## Последний коммит
 eef83f2 fix(web): marketing audit fixes — schema, themeColor, GA4, hero copy, android waitlist
