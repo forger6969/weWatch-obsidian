@@ -1,14 +1,14 @@
 ---
 type: handoff
-updated: 2026-05-29 20:49
+updated: 2026-05-29 21:42
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-29 20:49
+**Завершена:** 2026-05-29 21:42
 
 ## Последний коммит
-f55cddf feat(email): full email system — welcome, re-engagement, android waitlist
+03450cc feat(notification): add android waitlist launch script
 
 ## Незакоммиченных файлов
 417
@@ -17,11 +17,11 @@ f55cddf feat(email): full email system — welcome, re-engagement, android waitl
 
 
 ## Последние 5 коммитов
+- 03450cc feat(notification): add android waitlist launch script
 - f55cddf feat(email): full email system — welcome, re-engagement, android waitlist
 - eef83f2 fix(web): marketing audit fixes — schema, themeColor, GA4, hero copy, android waitlist
 - 4727682 chore: auto-save zone context [session-stop]
 - 53fab41 fix(mobile): new joiner video stands still — race condition in pendingSyncRef
-- abeb5aa fix(web): SEO — cross-platform sync + anime keywords + new FAQ entries
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
