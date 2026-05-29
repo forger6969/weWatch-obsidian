@@ -1,17 +1,17 @@
 ---
 type: handoff
-updated: 2026-05-29 19:56
+updated: 2026-05-29 19:58
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-29 19:56
+**Завершена:** 2026-05-29 19:58
 
 ## Последний коммит
-53fab41 fix(mobile): new joiner video stands still — race condition in pendingSyncRef
+4727682 chore: auto-save zone context [session-stop]
 
 ## Незакоммиченных файлов
-418
+417
 
 ## Изменённые файлы
 
