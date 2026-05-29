@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-05-29 21:56
+updated: 2026-05-29 22:04
 developer: Saidazim
 ---
 
@@ -14,8 +14,8 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-05-29 21:56
-**Последний коммит:** `c109fcb fix(mobile): maintenance mode — was saved in admin but never checked in app`
+**Дата:** 2026-05-29 22:04
+**Последний коммит:** `c3de639 fix(admin-ui): CampaignsPage — PageHeader subtitle→description, action→actions`
 **Незакоммиченных файлов:** 417
 
 ---
@@ -40,11 +40,11 @@ developer: Saidazim
 
 ## Последние 5 коммитов
 
+- c3de639 fix(admin-ui): CampaignsPage — PageHeader subtitle→description, action→actions
 - c109fcb fix(mobile): maintenance mode — was saved in admin but never checked in app
 - 51b51cb feat(campaigns): full newsletter system — admin UI + landing + email delivery
 - 03450cc feat(notification): add android waitlist launch script
 - f55cddf feat(email): full email system — welcome, re-engagement, android waitlist
-- eef83f2 fix(web): marketing audit fixes — schema, themeColor, GA4, hero copy, android waitlist
 
 ---
 
@@ -68,4 +68,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-05-29 21:56 автоматически через update-last-session.sh*
+*Обновлено: 2026-05-29 22:04 автоматически через update-last-session.sh*
