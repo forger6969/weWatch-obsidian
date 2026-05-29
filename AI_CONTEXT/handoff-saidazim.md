@@ -1,14 +1,14 @@
 ---
 type: handoff
-updated: 2026-05-29 21:51
+updated: 2026-05-29 21:56
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-29 21:51
+**Завершена:** 2026-05-29 21:56
 
 ## Последний коммит
-51b51cb feat(campaigns): full newsletter system — admin UI + landing + email delivery
+c109fcb fix(mobile): maintenance mode — was saved in admin but never checked in app
 
 ## Незакоммиченных файлов
 417
@@ -17,11 +17,11 @@ updated: 2026-05-29 21:51
 
 
 ## Последние 5 коммитов
+- c109fcb fix(mobile): maintenance mode — was saved in admin but never checked in app
 - 51b51cb feat(campaigns): full newsletter system — admin UI + landing + email delivery
 - 03450cc feat(notification): add android waitlist launch script
 - f55cddf feat(email): full email system — welcome, re-engagement, android waitlist
 - eef83f2 fix(web): marketing audit fixes — schema, themeColor, GA4, hero copy, android waitlist
-- 4727682 chore: auto-save zone context [session-stop]
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
