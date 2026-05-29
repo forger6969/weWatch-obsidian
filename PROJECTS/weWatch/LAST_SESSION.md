@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-05-29 21:42
+updated: 2026-05-29 21:51
 developer: Saidazim
 ---
 
@@ -14,8 +14,8 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-05-29 21:42
-**Последний коммит:** `03450cc feat(notification): add android waitlist launch script`
+**Дата:** 2026-05-29 21:51
+**Последний коммит:** `51b51cb feat(campaigns): full newsletter system — admin UI + landing + email delivery`
 **Незакоммиченных файлов:** 417
 
 ---
@@ -40,11 +40,11 @@ developer: Saidazim
 
 ## Последние 5 коммитов
 
+- 51b51cb feat(campaigns): full newsletter system — admin UI + landing + email delivery
 - 03450cc feat(notification): add android waitlist launch script
 - f55cddf feat(email): full email system — welcome, re-engagement, android waitlist
 - eef83f2 fix(web): marketing audit fixes — schema, themeColor, GA4, hero copy, android waitlist
 - 4727682 chore: auto-save zone context [session-stop]
-- 53fab41 fix(mobile): new joiner video stands still — race condition in pendingSyncRef
 
 ---
 
@@ -68,4 +68,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-05-29 21:42 автоматически через update-last-session.sh*
+*Обновлено: 2026-05-29 21:51 автоматически через update-last-session.sh*
