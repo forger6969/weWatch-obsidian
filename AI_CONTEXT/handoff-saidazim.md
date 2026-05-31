@@ -1,11 +1,11 @@
 ---
 type: handoff
-updated: 2026-05-31 23:36
+updated: 2026-05-31 23:40
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-31 23:36
+**Завершена:** 2026-05-31 23:40
 
 ## Последний коммит
 0543fe3 fix(content): ExoPlayer Android — strip codec params + 206 on unknown Content-Length
