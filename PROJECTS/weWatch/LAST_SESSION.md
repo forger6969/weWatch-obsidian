@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-01 00:15
+updated: 2026-06-01 00:20
 developer: Saidazim
 ---
 
@@ -14,8 +14,8 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-01 00:15
-**Последний коммит:** `822b366 fix(content): HLS segments Android — embed auth token in segment URLs`
+**Дата:** 2026-06-01 00:20
+**Последний коммит:** `1ea91f7 fix(mobile): VK HLS Android — raw URL first, proxy as fallback (mirrors iOS)`
 **Незакоммиченных файлов:** 423
 
 ---
@@ -40,11 +40,11 @@ developer: Saidazim
 
 ## Последние 5 коммитов
 
+- 1ea91f7 fix(mobile): VK HLS Android — raw URL first, proxy as fallback (mirrors iOS)
 - 822b366 fix(content): HLS segments Android — embed auth token in segment URLs
 - 0543fe3 fix(content): ExoPlayer Android — strip codec params + 206 on unknown Content-Length
 - 10df220 fix(mobile): Android video sync — 3 root causes fixed
 - c4f4688 fix(settings): enforce all admin settings — were saved but never checked
-- cfdcf3d fix(mobile): maintenance mode — check while user is already in app
 
 ---
 
@@ -68,4 +68,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-01 00:15 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-01 00:20 автоматически через update-last-session.sh*
