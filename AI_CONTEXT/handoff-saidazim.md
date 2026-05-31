@@ -1,20 +1,20 @@
 ---
 type: handoff
-updated: 2026-05-31 21:12
+updated: 2026-05-31 21:23
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-31 21:12
+**Завершена:** 2026-05-31 21:23
 
 ## Последний коммит
 c4f4688 fix(settings): enforce all admin settings — were saved but never checked
 
 ## Незакоммиченных файлов
-417
+420
 
 ## Изменённые файлы
-
+  - marketing/instagram/src/Root.tsx
 
 ## Последние 5 коммитов
 - c4f4688 fix(settings): enforce all admin settings — were saved but never checked

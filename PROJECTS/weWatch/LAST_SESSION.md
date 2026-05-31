@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-05-31 21:12
+updated: 2026-05-31 21:23
 developer: Saidazim
 ---
 
@@ -14,9 +14,9 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-05-31 21:12
+**Дата:** 2026-05-31 21:23
 **Последний коммит:** `c4f4688 fix(settings): enforce all admin settings — were saved but never checked`
-**Незакоммиченных файлов:** 417
+**Незакоммиченных файлов:** 420
 
 ---
 
@@ -34,7 +34,7 @@ developer: Saidazim
 
 ## Изменённые файлы
 
-
+  - marketing/instagram/src/Root.tsx
 
 ---
 
@@ -68,4 +68,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-05-31 21:12 автоматически через update-last-session.sh*
+*Обновлено: 2026-05-31 21:23 автоматически через update-last-session.sh*
