@@ -1,17 +1,17 @@
 ---
 type: handoff
-updated: 2026-05-31 23:01
+updated: 2026-05-31 23:08
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-31 23:01
+**Завершена:** 2026-05-31 23:08
 
 ## Последний коммит
 c4f4688 fix(settings): enforce all admin settings — were saved but never checked
 
 ## Незакоммиченных файлов
-422
+423
 
 ## Изменённые файлы
   - marketing/instagram/src/Root.tsx
