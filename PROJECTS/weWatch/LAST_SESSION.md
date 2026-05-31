@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-01 00:06
+updated: 2026-06-01 00:08
 developer: Saidazim
 ---
 
@@ -14,7 +14,7 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-01 00:06
+**Дата:** 2026-06-01 00:08
 **Последний коммит:** `822b366 fix(content): HLS segments Android — embed auth token in segment URLs`
 **Незакоммиченных файлов:** 423
 
@@ -68,4 +68,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-01 00:06 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-01 00:08 автоматически через update-last-session.sh*

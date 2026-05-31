@@ -1,11 +1,11 @@
 ---
 type: handoff
-updated: 2026-06-01 00:06
+updated: 2026-06-01 00:08
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-01 00:06
+**Завершена:** 2026-06-01 00:08
 
 ## Последний коммит
 822b366 fix(content): HLS segments Android — embed auth token in segment URLs
