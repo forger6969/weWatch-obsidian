@@ -1,14 +1,14 @@
 ---
 type: handoff
-updated: 2026-05-31 23:15
+updated: 2026-05-31 23:21
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-05-31 23:15
+**Завершена:** 2026-05-31 23:21
 
 ## Последний коммит
-c4f4688 fix(settings): enforce all admin settings — were saved but never checked
+10df220 fix(mobile): Android video sync — 3 root causes fixed
 
 ## Незакоммиченных файлов
 423
@@ -17,11 +17,11 @@ c4f4688 fix(settings): enforce all admin settings — were saved but never check
   - marketing/instagram/src/Root.tsx
 
 ## Последние 5 коммитов
+- 10df220 fix(mobile): Android video sync — 3 root causes fixed
 - c4f4688 fix(settings): enforce all admin settings — were saved but never checked
 - cfdcf3d fix(mobile): maintenance mode — check while user is already in app
 - c3de639 fix(admin-ui): CampaignsPage — PageHeader subtitle→description, action→actions
 - c109fcb fix(mobile): maintenance mode — was saved in admin but never checked in app
-- 51b51cb feat(campaigns): full newsletter system — admin UI + landing + email delivery
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]

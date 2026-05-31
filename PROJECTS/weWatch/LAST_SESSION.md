@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-05-31 23:15
+updated: 2026-05-31 23:21
 developer: Saidazim
 ---
 
@@ -14,8 +14,8 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-05-31 23:15
-**Последний коммит:** `c4f4688 fix(settings): enforce all admin settings — were saved but never checked`
+**Дата:** 2026-05-31 23:21
+**Последний коммит:** `10df220 fix(mobile): Android video sync — 3 root causes fixed`
 **Незакоммиченных файлов:** 423
 
 ---
@@ -40,11 +40,11 @@ developer: Saidazim
 
 ## Последние 5 коммитов
 
+- 10df220 fix(mobile): Android video sync — 3 root causes fixed
 - c4f4688 fix(settings): enforce all admin settings — were saved but never checked
 - cfdcf3d fix(mobile): maintenance mode — check while user is already in app
 - c3de639 fix(admin-ui): CampaignsPage — PageHeader subtitle→description, action→actions
 - c109fcb fix(mobile): maintenance mode — was saved in admin but never checked in app
-- 51b51cb feat(campaigns): full newsletter system — admin UI + landing + email delivery
 
 ---
 
@@ -68,4 +68,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-05-31 23:15 автоматически через update-last-session.sh*
+*Обновлено: 2026-05-31 23:21 автоматически через update-last-session.sh*
