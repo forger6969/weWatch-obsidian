@@ -1,11 +1,11 @@
 ---
 type: handoff
-updated: 2026-06-01 00:20
+updated: 2026-06-01 13:47
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-01 00:20
+**Завершена:** 2026-06-01 13:47
 
 ## Последний коммит
 1ea91f7 fix(mobile): VK HLS Android — raw URL first, proxy as fallback (mirrors iOS)
