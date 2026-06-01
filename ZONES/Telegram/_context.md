@@ -1,7 +1,7 @@
 ---
 zone: Telegram
 type: context
-updated: 2026-05-31
+updated: 2026-06-01
 ---
 
 # Telegram Zone — Context
@@ -89,3 +89,5 @@ Bu zone bo'sh. "Telegram bilan ishlaylik" deyilganda bu fayl to'ldiriladi.
 <!-- session ended: 2026-05-31 21:23 -->
 
 <!-- session ended: 2026-05-31 22:39 -->
+
+<!-- session ended: 2026-06-01 14:13 -->
