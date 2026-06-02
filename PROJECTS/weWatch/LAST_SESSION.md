@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-01 14:23
+updated: 2026-06-02 11:44
 developer: Saidazim
 ---
 
@@ -14,9 +14,9 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-01 14:23
-**Последний коммит:** `1ea91f7 fix(mobile): VK HLS Android — raw URL first, proxy as fallback (mirrors iOS)`
-**Незакоммиченных файлов:** 423
+**Дата:** 2026-06-02 11:44
+**Последний коммит:** `51e2959 feat(mobile/android): 3 sync improvements — heartbeat 2s, AppState re-sync, WebView micro-fix`
+**Незакоммиченных файлов:** 426
 
 ---
 
@@ -34,17 +34,19 @@ developer: Saidazim
 
 ## Изменённые файлы
 
+  - apps/mobile/assets/brand/mark.svg
+  - apps/mobile/assets/brand/wewatch-mark.svg
   - marketing/instagram/src/Root.tsx
 
 ---
 
 ## Последние 5 коммитов
 
+- 51e2959 feat(mobile/android): 3 sync improvements — heartbeat 2s, AppState re-sync, WebView micro-fix
+- e0c6d2c feat(mobile/android): dual-mode TvMediaSynchronizer sync (macro + micro)
+- 40b5650 fix(mobile): Android sync — owner guard + buffer resume compensation + isWebViewMode
 - 1ea91f7 fix(mobile): VK HLS Android — raw URL first, proxy as fallback (mirrors iOS)
 - 822b366 fix(content): HLS segments Android — embed auth token in segment URLs
-- 0543fe3 fix(content): ExoPlayer Android — strip codec params + 206 on unknown Content-Length
-- 10df220 fix(mobile): Android video sync — 3 root causes fixed
-- c4f4688 fix(settings): enforce all admin settings — were saved but never checked
 
 ---
 
@@ -68,4 +70,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-01 14:23 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-02 11:44 автоматически через update-last-session.sh*
