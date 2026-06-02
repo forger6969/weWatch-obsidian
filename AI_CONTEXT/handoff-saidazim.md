@@ -1,11 +1,11 @@
 ---
 type: handoff
-updated: 2026-06-02 11:47
+updated: 2026-06-02 11:48
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-02 11:47
+**Завершена:** 2026-06-02 11:48
 
 ## Последний коммит
 51e2959 feat(mobile/android): 3 sync improvements — heartbeat 2s, AppState re-sync, WebView micro-fix
