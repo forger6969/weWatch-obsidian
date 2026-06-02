@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-02 17:45
+updated: 2026-06-02 17:51
 developer: Saidazim
 ---
 
@@ -14,8 +14,8 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-02 17:45
-**Последний коммит:** `51e2959 feat(mobile/android): 3 sync improvements — heartbeat 2s, AppState re-sync, WebView micro-fix`
+**Дата:** 2026-06-02 17:51
+**Последний коммит:** `79a2ad7 fix(mobile/android): WebView sync — Rave method VK/Rutube full-site + micro-sync`
 **Незакоммиченных файлов:** 426
 
 ---
@@ -42,11 +42,11 @@ developer: Saidazim
 
 ## Последние 5 коммитов
 
+- 79a2ad7 fix(mobile/android): WebView sync — Rave method VK/Rutube full-site + micro-sync
+- c6b69c0 fix(web): T-E135 PhoneMockup UI — readability & contrast improvements
 - 51e2959 feat(mobile/android): 3 sync improvements — heartbeat 2s, AppState re-sync, WebView micro-fix
 - e0c6d2c feat(mobile/android): dual-mode TvMediaSynchronizer sync (macro + micro)
 - 40b5650 fix(mobile): Android sync — owner guard + buffer resume compensation + isWebViewMode
-- 1ea91f7 fix(mobile): VK HLS Android — raw URL first, proxy as fallback (mirrors iOS)
-- 822b366 fix(content): HLS segments Android — embed auth token in segment URLs
 
 ---
 
@@ -70,4 +70,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-02 17:45 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-02 17:51 автоматически через update-last-session.sh*
