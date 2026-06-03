@@ -1,21 +1,23 @@
 ---
 type: handoff
-updated: 2026-06-03 16:39
+updated: 2026-06-03 18:30
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-03 16:39
+**Завершена:** 2026-06-03 18:30
 
 ## Последний коммит
 d08e6ee fix(mobile/android): use HLS proxy as primary source — skip raw CDN URL
 
 ## Незакоммиченных файлов
-426
+428
 
 ## Изменённые файлы
+  - apps/mobile/app.json
   - apps/mobile/assets/brand/mark.svg
   - apps/mobile/assets/brand/wewatch-mark.svg
+  - apps/mobile/eas.json
   - marketing/instagram/src/Root.tsx
 
 ## Последние 5 коммитов
