@@ -1,7 +1,7 @@
 ---
 zone: MCPs
 type: index
-updated: 2026-05-26
+updated: 2026-06-03
 ---
 
 # MCPs — Index
@@ -12,6 +12,7 @@ updated: 2026-05-26
 |-----|------|-------------|------|
 | **telegram** | plugin:telegram | Saidazim bilan muloqot, guruhga yuborish | Barcha |
 | **computer-use** | mcp__computer-use | Desktop nazorat, screenshot | Barcha |
+| **computer-control-mcp** | computer-control-mcp | PyAutoGUI + OCR, 15 tool, oyna boshqaruv | Barcha |
 | **Gmail** | mcp__claude_ai_Gmail | Email | — |
 | **Google Calendar** | mcp__claude_ai_Google_Calendar | Kalendar | — |
 | **Google Drive** | mcp__claude_ai_Google_Drive | Drive fayllari | — |
