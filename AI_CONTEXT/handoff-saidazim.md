@@ -1,17 +1,17 @@
 ---
 type: handoff
-updated: 2026-06-04 17:52
+updated: 2026-06-04 17:55
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-04 17:52
+**Завершена:** 2026-06-04 17:55
 
 ## Последний коммит
 ec85865 Revert "fix(mobile/android): use HLS proxy as primary source — skip raw CDN URL"
 
 ## Незакоммиченных файлов
-432
+433
 
 ## Изменённые файлы
   - apps/mobile/app.json
@@ -19,6 +19,7 @@ ec85865 Revert "fix(mobile/android): use HLS proxy as primary source — skip ra
   - apps/mobile/assets/brand/wewatch-mark.svg
   - apps/mobile/eas.json
   - apps/mobile/src/screens/modal/MediaWebViewScreen.tsx
+  - apps/mobile/src/utils/webViewScripts.ts
   - marketing/instagram/src/Root.tsx
 
 ## Последние 5 коммитов
