@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-04 17:39
+updated: 2026-06-04 17:52
 developer: Saidazim
 ---
 
@@ -14,9 +14,9 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-04 17:39
+**Дата:** 2026-06-04 17:52
 **Последний коммит:** `ec85865 Revert "fix(mobile/android): use HLS proxy as primary source — skip raw CDN URL"`
-**Незакоммиченных файлов:** 431
+**Незакоммиченных файлов:** 432
 
 ---
 
@@ -38,6 +38,7 @@ developer: Saidazim
   - apps/mobile/assets/brand/mark.svg
   - apps/mobile/assets/brand/wewatch-mark.svg
   - apps/mobile/eas.json
+  - apps/mobile/src/screens/modal/MediaWebViewScreen.tsx
   - marketing/instagram/src/Root.tsx
 
 ---
@@ -72,4 +73,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-04 17:39 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-04 17:52 автоматически через update-last-session.sh*
