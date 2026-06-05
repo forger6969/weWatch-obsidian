@@ -1,11 +1,11 @@
 ---
 type: handoff
-updated: 2026-06-05 18:11
+updated: 2026-06-05 18:12
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-05 18:11
+**Завершена:** 2026-06-05 18:12
 
 ## Последний коммит
 ec85865 Revert "fix(mobile/android): use HLS proxy as primary source — skip raw CDN URL"
