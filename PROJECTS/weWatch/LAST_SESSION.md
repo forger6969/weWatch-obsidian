@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-05 18:08
+updated: 2026-06-05 18:11
 developer: Saidazim
 ---
 
@@ -14,7 +14,7 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-05 18:08
+**Дата:** 2026-06-05 18:11
 **Последний коммит:** `ec85865 Revert "fix(mobile/android): use HLS proxy as primary source — skip raw CDN URL"`
 **Незакоммиченных файлов:** 435
 
@@ -75,4 +75,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-05 18:08 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-05 18:11 автоматически через update-last-session.sh*
