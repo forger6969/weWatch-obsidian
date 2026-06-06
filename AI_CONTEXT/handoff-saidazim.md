@@ -1,11 +1,11 @@
 ---
 type: handoff
-updated: 2026-06-06 23:57
+updated: 2026-06-07 00:07
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-06 23:57
+**Завершена:** 2026-06-07 00:07
 
 ## Последний коммит
 e91a170 fix(mobile/android): VK/Rutube sniffing — autoplay=1 muted + mp4 direct ExoPlayer
