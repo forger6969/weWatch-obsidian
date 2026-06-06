@@ -1,17 +1,17 @@
 ---
 type: handoff
-updated: 2026-06-06 16:51
+updated: 2026-06-06 16:54
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-06 16:51
+**Завершена:** 2026-06-06 16:54
 
 ## Последний коммит
 17d89f6 fix(mobile+content): VK/Rutube Android HLS 502 + VK ad stream
 
 ## Незакоммиченных файлов
-441
+442
 
 ## Изменённые файлы
   - apps/mobile/app.json
