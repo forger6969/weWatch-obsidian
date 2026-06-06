@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-06 16:47
+updated: 2026-06-06 16:49
 developer: Saidazim
 ---
 
@@ -14,7 +14,7 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-06 16:47
+**Дата:** 2026-06-06 16:49
 **Последний коммит:** `17d89f6 fix(mobile+content): VK/Rutube Android HLS 502 + VK ad stream`
 **Незакоммиченных файлов:** 440
 
@@ -77,4 +77,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-06 16:47 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-06 16:49 автоматически через update-last-session.sh*
