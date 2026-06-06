@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-06 14:33
+updated: 2026-06-06 14:44
 developer: Saidazim
 ---
 
@@ -14,8 +14,8 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-06 14:33
-**Последний коммит:** `ec85865 Revert "fix(mobile/android): use HLS proxy as primary source — skip raw CDN URL"`
+**Дата:** 2026-06-06 14:44
+**Последний коммит:** `17d89f6 fix(mobile+content): VK/Rutube Android HLS 502 + VK ad stream`
 **Незакоммиченных файлов:** 436
 
 ---
@@ -47,11 +47,11 @@ developer: Saidazim
 
 ## Последние 5 коммитов
 
+- 17d89f6 fix(mobile+content): VK/Rutube Android HLS 502 + VK ad stream
 - ec85865 Revert "fix(mobile/android): use HLS proxy as primary source — skip raw CDN URL"
 - d08e6ee fix(mobile/android): use HLS proxy as primary source — skip raw CDN URL
 - 79a2ad7 fix(mobile/android): WebView sync — Rave method VK/Rutube full-site + micro-sync
 - c6b69c0 fix(web): T-E135 PhoneMockup UI — readability & contrast improvements
-- 51e2959 feat(mobile/android): 3 sync improvements — heartbeat 2s, AppState re-sync, WebView micro-fix
 
 ---
 
@@ -75,4 +75,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-06 14:33 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-06 14:44 автоматически через update-last-session.sh*
