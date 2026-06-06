@@ -1,14 +1,14 @@
 ---
 type: handoff
-updated: 2026-06-06 23:35
+updated: 2026-06-06 23:47
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-06 23:35
+**Завершена:** 2026-06-06 23:47
 
 ## Последний коммит
-17c6356 fix(mobile/android): VK/Rutube embed iframe + micro-sync exclusion
+5860563 feat(mobile/android): VK/Rutube CDN URL sniffing — hidden WebView + ExoPlayer switch
 
 ## Незакоммиченных файлов
 438
@@ -22,11 +22,11 @@ updated: 2026-06-06 23:35
   - marketing/instagram/src/Root.tsx
 
 ## Последние 5 коммитов
+- 5860563 feat(mobile/android): VK/Rutube CDN URL sniffing — hidden WebView + ExoPlayer switch
 - 17c6356 fix(mobile/android): VK/Rutube embed iframe + micro-sync exclusion
 - 712a553 Merge branch 'main' of https://github.com/AI-automatization/Rave
 - 953d728 feat(web): add live stats widget — online users & registered count
 - 17d89f6 fix(mobile+content): VK/Rutube Android HLS 502 + VK ad stream
-- ec85865 Revert "fix(mobile/android): use HLS proxy as primary source — skip raw CDN URL"
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]

@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-06 23:35
+updated: 2026-06-06 23:47
 developer: Saidazim
 ---
 
@@ -14,8 +14,8 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-06 23:35
-**Последний коммит:** `17c6356 fix(mobile/android): VK/Rutube embed iframe + micro-sync exclusion`
+**Дата:** 2026-06-06 23:47
+**Последний коммит:** `5860563 feat(mobile/android): VK/Rutube CDN URL sniffing — hidden WebView + ExoPlayer switch`
 **Незакоммиченных файлов:** 438
 
 ---
@@ -45,11 +45,11 @@ developer: Saidazim
 
 ## Последние 5 коммитов
 
+- 5860563 feat(mobile/android): VK/Rutube CDN URL sniffing — hidden WebView + ExoPlayer switch
 - 17c6356 fix(mobile/android): VK/Rutube embed iframe + micro-sync exclusion
 - 712a553 Merge branch 'main' of https://github.com/AI-automatization/Rave
 - 953d728 feat(web): add live stats widget — online users & registered count
 - 17d89f6 fix(mobile+content): VK/Rutube Android HLS 502 + VK ad stream
-- ec85865 Revert "fix(mobile/android): use HLS proxy as primary source — skip raw CDN URL"
 
 ---
 
@@ -73,4 +73,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-06 23:35 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-06 23:47 автоматически через update-last-session.sh*
