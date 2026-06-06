@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-07 00:07
+updated: 2026-06-07 00:31
 developer: Saidazim
 ---
 
@@ -14,8 +14,8 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-07 00:07
-**Последний коммит:** `e91a170 fix(mobile/android): VK/Rutube sniffing — autoplay=1 muted + mp4 direct ExoPlayer`
+**Дата:** 2026-06-07 00:31
+**Последний коммит:** `72ca5f3 fix(mobile/android): VK mp4 — bypass forceAndroidWebView when extractedUrl provided`
 **Незакоммиченных файлов:** 438
 
 ---
@@ -45,11 +45,11 @@ developer: Saidazim
 
 ## Последние 5 коммитов
 
+- 72ca5f3 fix(mobile/android): VK mp4 — bypass forceAndroidWebView when extractedUrl provided
 - e91a170 fix(mobile/android): VK/Rutube sniffing — autoplay=1 muted + mp4 direct ExoPlayer
 - 5860563 feat(mobile/android): VK/Rutube CDN URL sniffing — hidden WebView + ExoPlayer switch
 - 17c6356 fix(mobile/android): VK/Rutube embed iframe + micro-sync exclusion
 - 712a553 Merge branch 'main' of https://github.com/AI-automatization/Rave
-- 953d728 feat(web): add live stats widget — online users & registered count
 
 ---
 
@@ -73,4 +73,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-07 00:07 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-07 00:31 автоматически через update-last-session.sh*
