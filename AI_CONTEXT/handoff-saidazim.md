@@ -1,11 +1,11 @@
 ---
 type: handoff
-updated: 2026-06-06 23:33
+updated: 2026-06-06 23:35
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-06 23:33
+**Завершена:** 2026-06-06 23:35
 
 ## Последний коммит
 17c6356 fix(mobile/android): VK/Rutube embed iframe + micro-sync exclusion
