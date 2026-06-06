@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-06 23:18
+updated: 2026-06-06 23:23
 developer: Saidazim
 ---
 
@@ -14,9 +14,9 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-06 23:18
-**Последний коммит:** `17d89f6 fix(mobile+content): VK/Rutube Android HLS 502 + VK ad stream`
-**Незакоммиченных файлов:** 442
+**Дата:** 2026-06-06 23:23
+**Последний коммит:** `17c6356 fix(mobile/android): VK/Rutube embed iframe + micro-sync exclusion`
+**Незакоммиченных файлов:** 438
 
 ---
 
@@ -38,22 +38,18 @@ developer: Saidazim
   - apps/mobile/assets/brand/mark.svg
   - apps/mobile/assets/brand/wewatch-mark.svg
   - apps/mobile/eas.json
-  - apps/mobile/src/components/video/UniversalPlayer.tsx
-  - apps/mobile/src/hooks/useWatchPartyRoom.ts
   - apps/mobile/src/i18n/translations.ts
-  - apps/mobile/src/screens/modal/MediaWebViewScreen.tsx
-  - apps/mobile/src/utils/webViewScripts.ts
   - marketing/instagram/src/Root.tsx
 
 ---
 
 ## Последние 5 коммитов
 
+- 17c6356 fix(mobile/android): VK/Rutube embed iframe + micro-sync exclusion
+- 712a553 Merge branch 'main' of https://github.com/AI-automatization/Rave
+- 953d728 feat(web): add live stats widget — online users & registered count
 - 17d89f6 fix(mobile+content): VK/Rutube Android HLS 502 + VK ad stream
 - ec85865 Revert "fix(mobile/android): use HLS proxy as primary source — skip raw CDN URL"
-- d08e6ee fix(mobile/android): use HLS proxy as primary source — skip raw CDN URL
-- 79a2ad7 fix(mobile/android): WebView sync — Rave method VK/Rutube full-site + micro-sync
-- c6b69c0 fix(web): T-E135 PhoneMockup UI — readability & contrast improvements
 
 ---
 
@@ -77,4 +73,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-06 23:18 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-06 23:23 автоматически через update-last-session.sh*
