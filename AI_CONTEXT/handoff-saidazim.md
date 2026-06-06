@@ -1,14 +1,14 @@
 ---
 type: handoff
-updated: 2026-06-06 23:47
+updated: 2026-06-06 23:56
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-06 23:47
+**Завершена:** 2026-06-06 23:56
 
 ## Последний коммит
-5860563 feat(mobile/android): VK/Rutube CDN URL sniffing — hidden WebView + ExoPlayer switch
+e91a170 fix(mobile/android): VK/Rutube sniffing — autoplay=1 muted + mp4 direct ExoPlayer
 
 ## Незакоммиченных файлов
 438
@@ -22,11 +22,11 @@ updated: 2026-06-06 23:47
   - marketing/instagram/src/Root.tsx
 
 ## Последние 5 коммитов
+- e91a170 fix(mobile/android): VK/Rutube sniffing — autoplay=1 muted + mp4 direct ExoPlayer
 - 5860563 feat(mobile/android): VK/Rutube CDN URL sniffing — hidden WebView + ExoPlayer switch
 - 17c6356 fix(mobile/android): VK/Rutube embed iframe + micro-sync exclusion
 - 712a553 Merge branch 'main' of https://github.com/AI-automatization/Rave
 - 953d728 feat(web): add live stats widget — online users & registered count
-- 17d89f6 fix(mobile+content): VK/Rutube Android HLS 502 + VK ad stream
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
