@@ -1,27 +1,27 @@
 ---
 type: handoff
-updated: 2026-06-06 14:44
+updated: 2026-06-06 15:16
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-06 14:44
+**Завершена:** 2026-06-06 15:16
 
 ## Последний коммит
 17d89f6 fix(mobile+content): VK/Rutube Android HLS 502 + VK ad stream
 
 ## Незакоммиченных файлов
-436
+438
 
 ## Изменённые файлы
   - apps/mobile/app.json
   - apps/mobile/assets/brand/mark.svg
   - apps/mobile/assets/brand/wewatch-mark.svg
   - apps/mobile/eas.json
+  - apps/mobile/src/components/video/UniversalPlayer.tsx
+  - apps/mobile/src/hooks/useWatchPartyRoom.ts
   - apps/mobile/src/i18n/translations.ts
   - apps/mobile/src/screens/modal/MediaWebViewScreen.tsx
-  - apps/mobile/src/utils/webViewScripts.ts
-  - marketing/instagram/src/Root.tsx
 
 ## Последние 5 коммитов
 - 17d89f6 fix(mobile+content): VK/Rutube Android HLS 502 + VK ad stream
