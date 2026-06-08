@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-08 18:20
+updated: 2026-06-08 18:23
 developer: Saidazim
 ---
 
@@ -14,9 +14,9 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-08 18:20
+**Дата:** 2026-06-08 18:23
 **Последний коммит:** `72ca5f3 fix(mobile/android): VK mp4 — bypass forceAndroidWebView when extractedUrl provided`
-**Незакоммиченных файлов:** 442
+**Незакоммиченных файлов:** 445
 
 ---
 
@@ -38,12 +38,12 @@ developer: Saidazim
   - apps/mobile/assets/brand/mark.svg
   - apps/mobile/assets/brand/wewatch-mark.svg
   - apps/mobile/eas.json
+  - apps/mobile/package.json
   - apps/mobile/src/hooks/useMediaDetection.ts
+  - apps/mobile/src/hooks/useSocialAuth.ts
   - apps/mobile/src/hooks/useWatchPartyRoom.ts
   - apps/mobile/src/i18n/translations.ts
   - apps/mobile/src/navigation/AppNavigator.tsx
-  - apps/mobile/src/utils/storage.ts
-  - marketing/instagram/src/Root.tsx
 
 ---
 
@@ -77,4 +77,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-08 18:20 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-08 18:23 автоматически через update-last-session.sh*
