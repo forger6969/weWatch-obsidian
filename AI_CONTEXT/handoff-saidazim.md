@@ -1,25 +1,27 @@
 ---
 type: handoff
-updated: 2026-06-08 14:46
+updated: 2026-06-08 15:55
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-08 14:46
+**Завершена:** 2026-06-08 15:55
 
 ## Последний коммит
 72ca5f3 fix(mobile/android): VK mp4 — bypass forceAndroidWebView when extractedUrl provided
 
 ## Незакоммиченных файлов
-438
+441
 
 ## Изменённые файлы
   - apps/mobile/app.json
   - apps/mobile/assets/brand/mark.svg
   - apps/mobile/assets/brand/wewatch-mark.svg
   - apps/mobile/eas.json
+  - apps/mobile/src/hooks/useWatchPartyRoom.ts
   - apps/mobile/src/i18n/translations.ts
-  - marketing/instagram/src/Root.tsx
+  - apps/mobile/src/navigation/AppNavigator.tsx
+  - apps/mobile/src/utils/storage.ts
 
 ## Последние 5 коммитов
 - 72ca5f3 fix(mobile/android): VK mp4 — bypass forceAndroidWebView when extractedUrl provided
