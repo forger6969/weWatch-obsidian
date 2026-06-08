@@ -1,11 +1,11 @@
 ---
 type: handoff
-updated: 2026-06-08 15:55
+updated: 2026-06-08 16:59
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-08 15:55
+**Завершена:** 2026-06-08 16:59
 
 ## Последний коммит
 72ca5f3 fix(mobile/android): VK mp4 — bypass forceAndroidWebView when extractedUrl provided
