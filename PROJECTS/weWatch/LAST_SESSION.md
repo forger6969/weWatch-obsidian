@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-10 00:10
+updated: 2026-06-10 00:22
 developer: Saidazim
 ---
 
@@ -14,9 +14,9 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-10 00:10
-**Последний коммит:** `d21d12b feat(backend+mobile): maintenance guard + YouTube innertube + push notifications + room restore fix`
-**Незакоммиченных файлов:** 436
+**Дата:** 2026-06-10 00:22
+**Последний коммит:** `3ac4e1e chore(mobile/assets): remove unused mark.svg and wewatch-mark.svg`
+**Незакоммиченных файлов:** 433
 
 ---
 
@@ -34,19 +34,17 @@ developer: Saidazim
 
 ## Изменённые файлы
 
-  - apps/mobile/assets/brand/mark.svg
-  - apps/mobile/assets/brand/wewatch-mark.svg
   - marketing/instagram/src/Root.tsx
 
 ---
 
 ## Последние 5 коммитов
 
-- d21d12b feat(backend+mobile): maintenance guard + YouTube innertube + push notifications + room restore fix
-- d010d27 feat(mobile): watch party restore + duplicate room fix + native Google Sign-In
-- 72ca5f3 fix(mobile/android): VK mp4 — bypass forceAndroidWebView when extractedUrl provided
-- e91a170 fix(mobile/android): VK/Rutube sniffing — autoplay=1 muted + mp4 direct ExoPlayer
-- 5860563 feat(mobile/android): VK/Rutube CDN URL sniffing — hidden WebView + ExoPlayer switch
+- 3ac4e1e chore(mobile/assets): remove unused mark.svg and wewatch-mark.svg
+- 6cfbf99 feat(mobile): YouTube Innertube API client for embed-blocked video fallback
+- 44e79fb fix(notification): guard Firebase Admin double-init with apps.length check
+- 2f6f33c fix(mobile): push notifications — fallback to getDevicePushTokenAsync if Expo push fails
+- 55f0992 feat(backend+mobile): maintenance guard + YouTube innertube + push notifications + room restore fix
 
 ---
 
@@ -70,4 +68,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-10 00:10 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-10 00:22 автоматически через update-last-session.sh*

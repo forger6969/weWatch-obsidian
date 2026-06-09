@@ -1,29 +1,27 @@
 ---
 type: handoff
-updated: 2026-06-10 00:10
+updated: 2026-06-10 00:22
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-10 00:10
+**Завершена:** 2026-06-10 00:22
 
 ## Последний коммит
-d21d12b feat(backend+mobile): maintenance guard + YouTube innertube + push notifications + room restore fix
+3ac4e1e chore(mobile/assets): remove unused mark.svg and wewatch-mark.svg
 
 ## Незакоммиченных файлов
-436
+433
 
 ## Изменённые файлы
-  - apps/mobile/assets/brand/mark.svg
-  - apps/mobile/assets/brand/wewatch-mark.svg
   - marketing/instagram/src/Root.tsx
 
 ## Последние 5 коммитов
-- d21d12b feat(backend+mobile): maintenance guard + YouTube innertube + push notifications + room restore fix
-- d010d27 feat(mobile): watch party restore + duplicate room fix + native Google Sign-In
-- 72ca5f3 fix(mobile/android): VK mp4 — bypass forceAndroidWebView when extractedUrl provided
-- e91a170 fix(mobile/android): VK/Rutube sniffing — autoplay=1 muted + mp4 direct ExoPlayer
-- 5860563 feat(mobile/android): VK/Rutube CDN URL sniffing — hidden WebView + ExoPlayer switch
+- 3ac4e1e chore(mobile/assets): remove unused mark.svg and wewatch-mark.svg
+- 6cfbf99 feat(mobile): YouTube Innertube API client for embed-blocked video fallback
+- 44e79fb fix(notification): guard Firebase Admin double-init with apps.length check
+- 2f6f33c fix(mobile): push notifications — fallback to getDevicePushTokenAsync if Expo push fails
+- 55f0992 feat(backend+mobile): maintenance guard + YouTube innertube + push notifications + room restore fix
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
