@@ -1,14 +1,14 @@
 ---
 type: handoff
-updated: 2026-06-10 00:53
+updated: 2026-06-10 01:01
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-10 00:53
+**Завершена:** 2026-06-10 01:01
 
 ## Последний коммит
-e7c84bc chore(admin-ui): bump version to 1.0.2 — cache bust for i18n deploy
+70fb53b feat(admin-ui): Database explorer page — collections, docs table, JSON drawer, delete
 
 ## Незакоммиченных файлов
 433
@@ -17,11 +17,11 @@ e7c84bc chore(admin-ui): bump version to 1.0.2 — cache bust for i18n deploy
   - marketing/instagram/src/Root.tsx
 
 ## Последние 5 коммитов
+- 70fb53b feat(admin-ui): Database explorer page — collections, docs table, JSON drawer, delete
+- fc24d48 feat(admin): DB browser — collections list + documents + JSON viewer + delete
 - e7c84bc chore(admin-ui): bump version to 1.0.2 — cache bust for i18n deploy
 - 8346831 feat(admin-ui): i18next — EN/RU/UZ с language switcher в Sidebar
 - 1032b1b fix(admin-ui): refresh token — store + interceptor with request queue
-- 3ac4e1e chore(mobile/assets): remove unused mark.svg and wewatch-mark.svg
-- 6cfbf99 feat(mobile): YouTube Innertube API client for embed-blocked video fallback
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
