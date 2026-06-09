@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-08 23:27
+updated: 2026-06-09 13:59
 developer: Saidazim
 ---
 
@@ -14,9 +14,9 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-08 23:27
-**Последний коммит:** `72ca5f3 fix(mobile/android): VK mp4 — bypass forceAndroidWebView when extractedUrl provided`
-**Незакоммиченных файлов:** 445
+**Дата:** 2026-06-09 13:59
+**Последний коммит:** `d010d27 feat(mobile): watch party restore + duplicate room fix + native Google Sign-In`
+**Незакоммиченных файлов:** 435
 
 ---
 
@@ -34,26 +34,19 @@ developer: Saidazim
 
 ## Изменённые файлы
 
-  - apps/mobile/app.json
   - apps/mobile/assets/brand/mark.svg
   - apps/mobile/assets/brand/wewatch-mark.svg
-  - apps/mobile/eas.json
-  - apps/mobile/package.json
-  - apps/mobile/src/hooks/useMediaDetection.ts
-  - apps/mobile/src/hooks/useSocialAuth.ts
-  - apps/mobile/src/hooks/useWatchPartyRoom.ts
-  - apps/mobile/src/i18n/translations.ts
-  - apps/mobile/src/navigation/AppNavigator.tsx
+  - marketing/instagram/src/Root.tsx
 
 ---
 
 ## Последние 5 коммитов
 
+- d010d27 feat(mobile): watch party restore + duplicate room fix + native Google Sign-In
 - 72ca5f3 fix(mobile/android): VK mp4 — bypass forceAndroidWebView when extractedUrl provided
 - e91a170 fix(mobile/android): VK/Rutube sniffing — autoplay=1 muted + mp4 direct ExoPlayer
 - 5860563 feat(mobile/android): VK/Rutube CDN URL sniffing — hidden WebView + ExoPlayer switch
 - 17c6356 fix(mobile/android): VK/Rutube embed iframe + micro-sync exclusion
-- 712a553 Merge branch 'main' of https://github.com/AI-automatization/Rave
 
 ---
 
@@ -77,4 +70,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-08 23:27 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-09 13:59 автоматически через update-last-session.sh*
