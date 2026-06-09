@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-09 18:13
+updated: 2026-06-09 19:41
 developer: Saidazim
 ---
 
@@ -14,9 +14,9 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-09 18:13
+**Дата:** 2026-06-09 19:41
 **Последний коммит:** `d010d27 feat(mobile): watch party restore + duplicate room fix + native Google Sign-In`
-**Незакоммиченных файлов:** 445
+**Незакоммиченных файлов:** 447
 
 ---
 
@@ -34,6 +34,7 @@ developer: Saidazim
 
 ## Изменённые файлы
 
+  - apps/mobile/app.json
   - apps/mobile/assets/android-icon-foreground.png
   - apps/mobile/assets/brand/mark.svg
   - apps/mobile/assets/brand/wewatch-mark.svg
@@ -42,8 +43,7 @@ developer: Saidazim
   - apps/mobile/assets/splash-icon.png
   - apps/mobile/src/components/video/UniversalPlayer.tsx
   - apps/mobile/src/components/video/WebViewPlayer.tsx
-  - apps/mobile/src/hooks/useWebViewPlayer.ts
-  - apps/mobile/src/utils/videoPlayer.ts
+  - apps/mobile/src/hooks/usePushNotifications.ts
 
 ---
 
@@ -77,4 +77,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-09 18:13 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-09 19:41 автоматически через update-last-session.sh*
