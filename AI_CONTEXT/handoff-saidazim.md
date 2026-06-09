@@ -1,17 +1,17 @@
 ---
 type: handoff
-updated: 2026-06-09 18:03
+updated: 2026-06-09 18:05
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-09 18:03
+**Завершена:** 2026-06-09 18:05
 
 ## Последний коммит
 d010d27 feat(mobile): watch party restore + duplicate room fix + native Google Sign-In
 
 ## Незакоммиченных файлов
-439
+441
 
 ## Изменённые файлы
   - apps/mobile/assets/android-icon-foreground.png
@@ -20,7 +20,8 @@ d010d27 feat(mobile): watch party restore + duplicate room fix + native Google S
   - apps/mobile/assets/favicon.png
   - apps/mobile/assets/icon.png
   - apps/mobile/assets/splash-icon.png
-  - marketing/instagram/src/Root.tsx
+  - apps/mobile/src/utils/videoPlayer.ts
+  - apps/mobile/src/utils/webViewScripts.ts
 
 ## Последние 5 коммитов
 - d010d27 feat(mobile): watch party restore + duplicate room fix + native Google Sign-In
