@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-10 00:02
+updated: 2026-06-10 00:10
 developer: Saidazim
 ---
 
@@ -14,9 +14,9 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-10 00:02
-**Последний коммит:** `d010d27 feat(mobile): watch party restore + duplicate room fix + native Google Sign-In`
-**Незакоммиченных файлов:** 450
+**Дата:** 2026-06-10 00:10
+**Последний коммит:** `d21d12b feat(backend+mobile): maintenance guard + YouTube innertube + push notifications + room restore fix`
+**Незакоммиченных файлов:** 436
 
 ---
 
@@ -34,26 +34,19 @@ developer: Saidazim
 
 ## Изменённые файлы
 
-  - apps/mobile/app.json
-  - apps/mobile/assets/android-icon-foreground.png
   - apps/mobile/assets/brand/mark.svg
   - apps/mobile/assets/brand/wewatch-mark.svg
-  - apps/mobile/assets/favicon.png
-  - apps/mobile/assets/icon.png
-  - apps/mobile/assets/splash-icon.png
-  - apps/mobile/src/components/video/UniversalPlayer.tsx
-  - apps/mobile/src/components/video/WebViewPlayer.tsx
-  - apps/mobile/src/hooks/usePushNotifications.ts
+  - marketing/instagram/src/Root.tsx
 
 ---
 
 ## Последние 5 коммитов
 
+- d21d12b feat(backend+mobile): maintenance guard + YouTube innertube + push notifications + room restore fix
 - d010d27 feat(mobile): watch party restore + duplicate room fix + native Google Sign-In
 - 72ca5f3 fix(mobile/android): VK mp4 — bypass forceAndroidWebView when extractedUrl provided
 - e91a170 fix(mobile/android): VK/Rutube sniffing — autoplay=1 muted + mp4 direct ExoPlayer
 - 5860563 feat(mobile/android): VK/Rutube CDN URL sniffing — hidden WebView + ExoPlayer switch
-- 17c6356 fix(mobile/android): VK/Rutube embed iframe + micro-sync exclusion
 
 ---
 
@@ -77,4 +70,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-10 00:02 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-10 00:10 автоматически через update-last-session.sh*
