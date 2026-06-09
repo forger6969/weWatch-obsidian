@@ -1,11 +1,11 @@
 ---
 type: handoff
-updated: 2026-06-10 00:36
+updated: 2026-06-10 00:39
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-10 00:36
+**Завершена:** 2026-06-10 00:39
 
 ## Последний коммит
 8346831 feat(admin-ui): i18next — EN/RU/UZ с language switcher в Sidebar
