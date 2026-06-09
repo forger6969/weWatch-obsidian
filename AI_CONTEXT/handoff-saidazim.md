@@ -1,11 +1,11 @@
 ---
 type: handoff
-updated: 2026-06-09 15:43
+updated: 2026-06-09 16:53
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-09 15:43
+**Завершена:** 2026-06-09 16:53
 
 ## Последний коммит
 d010d27 feat(mobile): watch party restore + duplicate room fix + native Google Sign-In
