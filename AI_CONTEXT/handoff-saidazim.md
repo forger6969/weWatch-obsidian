@@ -1,11 +1,11 @@
 ---
 type: handoff
-updated: 2026-06-10 00:52
+updated: 2026-06-10 00:53
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-10 00:52
+**Завершена:** 2026-06-10 00:53
 
 ## Последний коммит
 e7c84bc chore(admin-ui): bump version to 1.0.2 — cache bust for i18n deploy
