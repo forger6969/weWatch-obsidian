@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-09 17:59
+updated: 2026-06-09 18:00
 developer: Saidazim
 ---
 
@@ -14,7 +14,7 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-09 17:59
+**Дата:** 2026-06-09 18:00
 **Последний коммит:** `d010d27 feat(mobile): watch party restore + duplicate room fix + native Google Sign-In`
 **Незакоммиченных файлов:** 439
 
@@ -74,4 +74,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-09 17:59 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-09 18:00 автоматически через update-last-session.sh*
