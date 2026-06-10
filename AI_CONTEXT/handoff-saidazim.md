@@ -1,20 +1,23 @@
 ---
 type: handoff
-updated: 2026-06-10 14:28
+updated: 2026-06-10 14:43
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-10 14:28
+**Завершена:** 2026-06-10 14:43
 
 ## Последний коммит
 66528d7 chore(mobile): bump version 1.0.1 versionCode 2
 
 ## Незакоммиченных файлов
-433
+436
 
 ## Изменённые файлы
+  - apps/mobile/app.json
+  - apps/mobile/package.json
   - marketing/instagram/src/Root.tsx
+  - package-lock.json
 
 ## Последние 5 коммитов
 - 66528d7 chore(mobile): bump version 1.0.1 versionCode 2

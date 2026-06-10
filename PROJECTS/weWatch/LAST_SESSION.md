@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-10 14:28
+updated: 2026-06-10 14:43
 developer: Saidazim
 ---
 
@@ -14,9 +14,9 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-10 14:28
+**Дата:** 2026-06-10 14:43
 **Последний коммит:** `66528d7 chore(mobile): bump version 1.0.1 versionCode 2`
-**Незакоммиченных файлов:** 433
+**Незакоммиченных файлов:** 436
 
 ---
 
@@ -34,7 +34,10 @@ developer: Saidazim
 
 ## Изменённые файлы
 
+  - apps/mobile/app.json
+  - apps/mobile/package.json
   - marketing/instagram/src/Root.tsx
+  - package-lock.json
 
 ---
 
@@ -68,4 +71,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-10 14:28 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-10 14:43 автоматически через update-last-session.sh*
