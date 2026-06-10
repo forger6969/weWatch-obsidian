@@ -1,26 +1,27 @@
 ---
 type: handoff
-updated: 2026-06-11 00:58
+updated: 2026-06-11 01:00
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-11 00:58
+**Завершена:** 2026-06-11 01:00
 
 ## Последний коммит
 85e72c7 fix(mobile): notification icon color #E50914 → #7B72F8 (WeWatch purple)
 
 ## Незакоммиченных файлов
-456
+465
 
 ## Изменённые файлы
+  - .claude/agents/admin-agent.md
+  - .claude/agents/auth-agent.md
+  - .claude/agents/content-agent.md
+  - .claude/agents/mobile-agent.md
   - .claude/agents/orchestrator.md
-  - apps/mobile/eas.json
-  - apps/mobile/package.json
-  - apps/mobile/src/hooks/usePushNotifications.ts
-  - eas.json
-  - marketing/instagram/src/Root.tsx
-  - package-lock.json
+  - .claude/agents/qa-agent.md
+  - .claude/agents/shared-agent.md
+  - .claude/agents/user-battle-notification-agent.md
 
 ## Последние 5 коммитов
 - 85e72c7 fix(mobile): notification icon color #E50914 → #7B72F8 (WeWatch purple)

@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-11 00:58
+updated: 2026-06-11 01:00
 developer: Saidazim
 ---
 
@@ -14,9 +14,9 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-11 00:58
+**Дата:** 2026-06-11 01:00
 **Последний коммит:** `85e72c7 fix(mobile): notification icon color #E50914 → #7B72F8 (WeWatch purple)`
-**Незакоммиченных файлов:** 456
+**Незакоммиченных файлов:** 465
 
 ---
 
@@ -34,13 +34,16 @@ developer: Saidazim
 
 ## Изменённые файлы
 
+  - .claude/agents/admin-agent.md
+  - .claude/agents/auth-agent.md
+  - .claude/agents/content-agent.md
+  - .claude/agents/mobile-agent.md
   - .claude/agents/orchestrator.md
-  - apps/mobile/eas.json
-  - apps/mobile/package.json
-  - apps/mobile/src/hooks/usePushNotifications.ts
-  - eas.json
-  - marketing/instagram/src/Root.tsx
-  - package-lock.json
+  - .claude/agents/qa-agent.md
+  - .claude/agents/shared-agent.md
+  - .claude/agents/user-battle-notification-agent.md
+  - .claude/agents/watchparty-agent.md
+  - .claude/agents/web-agent.md
 
 ---
 
@@ -74,4 +77,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-11 00:58 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-11 01:00 автоматически через update-last-session.sh*
