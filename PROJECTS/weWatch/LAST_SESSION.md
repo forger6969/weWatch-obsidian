@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-11 00:04
+updated: 2026-06-11 00:11
 developer: Saidazim
 ---
 
@@ -14,7 +14,7 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-11 00:04
+**Дата:** 2026-06-11 00:11
 **Последний коммит:** `7a72c69 fix(mobile): use ravetokenauth Firebase project for push notifications`
 **Незакоммиченных файлов:** 456
 
@@ -74,4 +74,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-11 00:04 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-11 00:11 автоматически через update-last-session.sh*
