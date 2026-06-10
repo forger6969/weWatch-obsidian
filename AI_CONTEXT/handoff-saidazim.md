@@ -1,34 +1,32 @@
 ---
 type: handoff
-updated: 2026-06-11 01:00
+updated: 2026-06-11 01:01
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-11 01:00
+**Завершена:** 2026-06-11 01:01
 
 ## Последний коммит
-85e72c7 fix(mobile): notification icon color #E50914 → #7B72F8 (WeWatch purple)
+8dda58c chore(agents): AoT names — Берт/Арлерт (Колосы) + 13 Атакующих + Перри
 
 ## Незакоммиченных файлов
-465
+448
 
 ## Изменённые файлы
-  - .claude/agents/admin-agent.md
-  - .claude/agents/auth-agent.md
-  - .claude/agents/content-agent.md
-  - .claude/agents/mobile-agent.md
-  - .claude/agents/orchestrator.md
-  - .claude/agents/qa-agent.md
-  - .claude/agents/shared-agent.md
-  - .claude/agents/user-battle-notification-agent.md
+  - apps/mobile/eas.json
+  - apps/mobile/package.json
+  - apps/mobile/src/hooks/usePushNotifications.ts
+  - eas.json
+  - marketing/instagram/src/Root.tsx
+  - package-lock.json
 
 ## Последние 5 коммитов
+- 8dda58c chore(agents): AoT names — Берт/Арлерт (Колосы) + 13 Атакующих + Перри
 - 85e72c7 fix(mobile): notification icon color #E50914 → #7B72F8 (WeWatch purple)
 - 7a72c69 fix(mobile): use ravetokenauth Firebase project for push notifications
 - 954e505 fix(mobile/notifications): production logging for push token registration failures
 - 66528d7 chore(mobile): bump version 1.0.1 versionCode 2
-- c77474e fix(security): bcrypt 10→12 in watch-party + timingSafeEqual for ADMIN_INIT_SECRET
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
