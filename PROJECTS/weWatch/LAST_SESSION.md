@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-10 19:00
+updated: 2026-06-10 19:19
 developer: Saidazim
 ---
 
@@ -14,9 +14,9 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-10 19:00
+**Дата:** 2026-06-10 19:19
 **Последний коммит:** `7a72c69 fix(mobile): use ravetokenauth Firebase project for push notifications`
-**Незакоммиченных файлов:** 443
+**Незакоммиченных файлов:** 444
 
 ---
 
@@ -36,6 +36,7 @@ developer: Saidazim
 
   - apps/mobile/eas.json
   - apps/mobile/package.json
+  - eas.json
   - marketing/instagram/src/Root.tsx
   - package-lock.json
 
@@ -71,4 +72,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-10 19:00 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-10 19:19 автоматически через update-last-session.sh*
