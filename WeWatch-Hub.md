@@ -76,7 +76,17 @@ Monorepo, mikroservislar. MVP bosqichi. Railway'da deploy qilingan.
 | deploy | .claude/skills/deploy.md | Railway deploy |
 | brainstorm | .claude/skills/brainstorm.md | /brainstorm |
 
-**Agentlar:** .claude/agents/ — auth, content, watchparty, user-battle-notification, admin, mobile, web, qa, orchestrator
+**Agentlar:** [[AI_CONTEXT/agents-hub]] — полная карта всех агентов
+
+| Агент | Зона |
+|-------|------|
+| [[PROJECTS/weWatch/00-weWatch-Overview\|WeWatch Project Agent]] | весь проект (entry point) |
+| auth / content / watchparty | services/auth,content,watch-party/ |
+| user-battle-notification | services/user,battle,notification/ |
+| admin | services/admin/ + apps/admin-ui/ |
+| mobile | apps/mobile/ |
+| web / devops / marketing / telegram | apps/web/, CI/CD, Play Store, bot |
+| [[PROJECTS/clients/Georgiy-Baluev\|Blogy Agent]] | клиент @baluevgeorge |
 
 ---
 
@@ -162,19 +172,31 @@ Vazifa claim: docs/Tasks.md → git add → commit → push → keyin kod
 
 ---
 
-## ACTIVE SPRINT
+## ACTIVE SPRINT (обновлено 2026-06-10)
 
 **Joriy vazifalar (Saidazim):**
-- T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi
-- T-S082 | P2 | [DEVOPS] | Security: CI/CD pipeline qo'shish
-- T-S083 | P3 | [BACKEND] | 26 god files — split eng katta 3 tasi
+- T-S101 | P1 | [BACKEND] | Migration script (cinesync_auth+user → cinesync) ❌
+- T-S102 | P3 | [BACKEND] | tsc clean all services + db-architecture.html ❌
+- T-E124 | P2 | [MARKETING] | Play Store Feature Graphic + 5 screenshots ❌
 
-**Hozirgi fokus:** Instagram marketing (WeWatch launch prep)
+**Hozirgi fokus:** Sprint 11 migration завершение → Play Store submission
+
+**Push notifications (2026-06-10):** ravetokenauth Firebase ✅ APK собран ✅
+→ Следующий шаг: установить APK → проверить токен в DB
 
 **Railway holati (2026-05-26):**
 - 10 servis online (8 app + MongoDB + Redis)
 - Idle RAM: ~945 MB, cost: ~$10/oy
-- MongoDB: 1.23 GB disk | Redis: 1.59 GB disk
+- MongoDB: единая cinesync DB (Sprint 11 завершён)
+
+---
+
+## ЗОНЫ И КЛИЕНТЫ
+
+- [[ZONES/_index]] — все 9 зон с контекстом
+- [[PROJECTS/clients/_index]] — клиенты (Blogy/Георгий)
+- [[AI_CONTEXT/agents-hub]] — все Claude агенты
+- [[PROJECTS/weWatch/LAST_SESSION]] — где остановились
 
 ---
 

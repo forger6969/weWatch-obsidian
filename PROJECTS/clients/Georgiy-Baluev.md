@@ -114,3 +114,11 @@ python3 ~/.claude/scripts/blogy_sender.py stats
 - TG аккаунт от Диора для рассылки
 - Ответ: куда сохранять спарсенных (таблица или бот-карточка?)
 - Текст для рассылки по компаниям (кафе, бьюти...)
+
+---
+
+## Связано
+
+[[_index|Clients Hub]] | [[Blogy-Outreach-System|Blogy Outreach System]]
+[[../../ZONES/Telegram/_context|Telegram Zone]]
+[[../../AI_CONTEXT/agents-hub|Agents Hub]]

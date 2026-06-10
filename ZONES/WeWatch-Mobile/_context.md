@@ -41,8 +41,12 @@ JAVA_HOME=/opt/homebrew/opt/openjdk@17 ANDROID_HOME=~/Library/Android/sdk \
 eas build -p android --profile local --local --output ./wewatch.apk
 ```
 
-## Агент: `.claude/agents/mobile-agent.md`
-## Multi-agent: `.claude/agents/multi-playstore-launch.md`
+## Связано
+
+[[../WeWatch-Backend/_context|⚙️ Backend Zone]] | [[../WeWatch-Web/_context|🌐 Web Zone]]
+[[../../PROJECTS/weWatch/00-weWatch-Overview|WeWatch Overview]]
+[[../../PROJECTS/weWatch/LAST_SESSION|Last Session]]
+[[../../AI_CONTEXT/agents-hub|Agents Hub]]
 
 <!-- session ended: 2026-05-27 00:14 -->
 

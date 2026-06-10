@@ -41,7 +41,12 @@ updated: 2026-06-10
 При ЛЮБОМ изменении задач в docs/Tasks.md → обязательно tg-notify.sh.
 Нельзя молчать при claim/done/blocked.
 
-## Агент: `.claude/agents/telegram-agent.md`
+## Связано
+
+[[../WeWatch-Backend/_context|⚙️ Backend Zone]] | [[../AI-Agents/_context|🤖 AI-Agents Zone]]
+[[../../PROJECTS/clients/Georgiy-Baluev|Клиент: Georgiy Baluev]]
+[[../../PROJECTS/clients/Blogy-Outreach-System|Blogy Outreach System]]
+[[../../AI_CONTEXT/agents-hub|Agents Hub]]
 
 <!-- session ended: 2026-05-26 21:03 -->
 

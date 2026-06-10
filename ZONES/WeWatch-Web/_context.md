@@ -33,6 +33,10 @@ updated: 2026-06-10
 - OG meta tags для social sharing
 - Performance audit (Core Web Vitals)
 
-## Агент: `.claude/agents/web-agent.md`
+## Связано
+
+[[../WeWatch-Backend/_context|⚙️ Backend Zone]] | [[../WeWatch-Mobile/_context|📱 Mobile Zone]]
+[[../../PROJECTS/weWatch/00-weWatch-Overview|WeWatch Overview]]
+[[../../AI_CONTEXT/agents-hub|Agents Hub]]
 
 <!-- session ended: 2026-05-27 02:52 -->

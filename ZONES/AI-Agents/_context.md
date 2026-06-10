@@ -49,6 +49,14 @@ Agent({ subagent_type: "general-purpose", isolation: "worktree",
   prompt: `${agentContent}\n\nTASK SPEC:\n...` });
 ```
 
+## Связано
+
+[[../WeWatch-Backend/_context|⚙️ Backend Zone]] | [[../Telegram/_context|✈️ Telegram Zone]]
+[[../../AI_CONTEXT/agents-hub|Agents Hub (полная карта)]]
+[[../../PROJECTS/weWatch/00-weWatch-Overview|WeWatch Overview]]
+[[../../PROJECTS/clients/_index|Клиенты Hub]]
+[[../../WeWatch-Hub|WeWatch Hub]]
+
 ## Obsidian zone-auto-detect.sh
 При словах "agent/swarm/automation/multi-agent/subagent/skill" → загружает эту зону
 Скрипт: `.claude/scripts/zone-auto-detect.sh`

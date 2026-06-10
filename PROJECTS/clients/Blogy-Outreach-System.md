@@ -133,4 +133,8 @@ result = model.transcribe('/tmp/voice.ogg', language='ru')
 ```
 
 ## Связано
-- [[Georgiy-Baluev]]
+
+[[_index|Clients Hub]] | [[Georgiy-Baluev|Georgiy Baluev]]
+[[../../ZONES/Telegram/_context|Telegram Zone]]
+[[../../AI_CONTEXT/agents-hub|Agents Hub]]
+[[../../WeWatch-Hub|WeWatch Hub]]

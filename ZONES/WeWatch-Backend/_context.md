@@ -64,6 +64,14 @@ logger.info('msg', { userId });  // НЕ console.log
 - `.claude/agents/admin-agent.md` → services/admin/ + apps/admin-ui/
 - Multi: `.claude/agents/multi-sprint11-migration.md`
 
+## Связано
+
+[[../WeWatch-Mobile/_context|📱 Mobile Zone]] | [[../WeWatch-Web/_context|🌐 Web Zone]]
+[[../../PROJECTS/weWatch/00-weWatch-Overview|WeWatch Overview]]
+[[../../PROJECTS/weWatch/ARCHITECTURE|Architecture]]
+[[../../PROJECTS/weWatch/decisions/2026-05-23-migration-единая-бд-cinesync-для-всех-сервисов|Decision: cinesync migration]]
+[[../../AI_CONTEXT/agents-hub|Agents Hub]]
+
 <!-- session ended: 2026-05-26 21:02 -->
 
 <!-- session ended: 2026-05-26 21:07 -->
