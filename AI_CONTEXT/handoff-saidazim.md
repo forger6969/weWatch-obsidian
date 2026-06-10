@@ -1,17 +1,17 @@
 ---
 type: handoff
-updated: 2026-06-10 22:23
+updated: 2026-06-10 22:27
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-10 22:23
+**Завершена:** 2026-06-10 22:27
 
 ## Последний коммит
 7a72c69 fix(mobile): use ravetokenauth Firebase project for push notifications
 
 ## Незакоммиченных файлов
-446
+447
 
 ## Изменённые файлы
   - apps/mobile/eas.json
