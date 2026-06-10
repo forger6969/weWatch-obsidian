@@ -3,20 +3,53 @@
   "search": "",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
-  "showOrphans": true,
+  "hideUnresolved": true,
+  "showOrphans": false,
   "collapse-color-groups": false,
-  "colorGroups": [],
-  "collapse-display": true,
+  "colorGroups": [
+    {
+      "query": "tag:hub",
+      "color": { "a": 1, "rgb": 8090360 }
+    },
+    {
+      "query": "path:ZONES/",
+      "color": { "a": 1, "rgb": 58879 }
+    },
+    {
+      "query": "path:PROJECTS/clients/",
+      "color": { "a": 1, "rgb": 16766720 }
+    },
+    {
+      "query": "path:AI_CONTEXT/",
+      "color": { "a": 1, "rgb": 15483002 }
+    },
+    {
+      "query": "path:PROJECTS/weWatch/decisions/",
+      "color": { "a": 1, "rgb": 16750592 }
+    },
+    {
+      "query": "path:PROJECTS/weWatch/services/",
+      "color": { "a": 1, "rgb": 6732650 }
+    },
+    {
+      "query": "path:PROJECTS/weWatch/people/ path:PROJECTS/tezCode/people/",
+      "color": { "a": 1, "rgb": 11225020 }
+    },
+    {
+      "query": "path:DAILY/",
+      "color": { "a": 1, "rgb": 4367861 }
+    }
+  ],
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -1.4,
-  "nodeSizeMultiplier": 2.05106770833333,
-  "lineSizeMultiplier": 1.47387152777778,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 2.4,
+  "lineSizeMultiplier": 1.2,
   "collapse-forces": false,
-  "centerStrength": 0.611284722222222,
-  "repelStrength": 9.61111111111111,
-  "linkStrength": 1,
-  "linkDistance": 143,
-  "scale": 0.5449951293959534,
-  "close": true
+  "centerStrength": 0.5,
+  "repelStrength": 14,
+  "linkStrength": 0.8,
+  "linkDistance": 90,
+  "scale": 0.6,
+  "close": false
 }
