@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-10 17:41
+updated: 2026-06-10 17:51
 developer: Saidazim
 ---
 
@@ -14,9 +14,9 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-10 17:41
-**Последний коммит:** `954e505 fix(mobile/notifications): production logging for push token registration failures`
-**Незакоммиченных файлов:** 444
+**Дата:** 2026-06-10 17:51
+**Последний коммит:** `7a72c69 fix(mobile): use ravetokenauth Firebase project for push notifications`
+**Незакоммиченных файлов:** 443
 
 ---
 
@@ -34,7 +34,6 @@ developer: Saidazim
 
 ## Изменённые файлы
 
-  - apps/mobile/app.json
   - apps/mobile/eas.json
   - apps/mobile/package.json
   - marketing/instagram/src/Root.tsx
@@ -44,11 +43,11 @@ developer: Saidazim
 
 ## Последние 5 коммитов
 
+- 7a72c69 fix(mobile): use ravetokenauth Firebase project for push notifications
 - 954e505 fix(mobile/notifications): production logging for push token registration failures
 - 66528d7 chore(mobile): bump version 1.0.1 versionCode 2
 - c77474e fix(security): bcrypt 10→12 in watch-party + timingSafeEqual for ADMIN_INIT_SECRET
 - 70fb53b feat(admin-ui): Database explorer page — collections, docs table, JSON drawer, delete
-- fc24d48 feat(admin): DB browser — collections list + documents + JSON viewer + delete
 
 ---
 
@@ -72,4 +71,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-10 17:41 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-10 17:51 автоматически через update-last-session.sh*
