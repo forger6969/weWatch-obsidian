@@ -1,14 +1,14 @@
 ---
 type: handoff
-updated: 2026-06-10 01:17
+updated: 2026-06-10 07:30
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-10 01:17
+**Завершена:** 2026-06-10 07:30
 
 ## Последний коммит
-70fb53b feat(admin-ui): Database explorer page — collections, docs table, JSON drawer, delete
+66528d7 chore(mobile): bump version 1.0.1 versionCode 2
 
 ## Незакоммиченных файлов
 433
@@ -17,11 +17,11 @@ updated: 2026-06-10 01:17
   - marketing/instagram/src/Root.tsx
 
 ## Последние 5 коммитов
+- 66528d7 chore(mobile): bump version 1.0.1 versionCode 2
+- c77474e fix(security): bcrypt 10→12 in watch-party + timingSafeEqual for ADMIN_INIT_SECRET
 - 70fb53b feat(admin-ui): Database explorer page — collections, docs table, JSON drawer, delete
 - fc24d48 feat(admin): DB browser — collections list + documents + JSON viewer + delete
 - e7c84bc chore(admin-ui): bump version to 1.0.2 — cache bust for i18n deploy
-- 8346831 feat(admin-ui): i18next — EN/RU/UZ с language switcher в Sidebar
-- 1032b1b fix(admin-ui): refresh token — store + interceptor with request queue
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
