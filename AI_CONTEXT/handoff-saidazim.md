@@ -1,19 +1,20 @@
 ---
 type: handoff
-updated: 2026-06-10 23:07
+updated: 2026-06-10 23:15
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-10 23:07
+**Завершена:** 2026-06-10 23:15
 
 ## Последний коммит
 7a72c69 fix(mobile): use ravetokenauth Firebase project for push notifications
 
 ## Незакоммиченных файлов
-447
+453
 
 ## Изменённые файлы
+  - .claude/agents/orchestrator.md
   - apps/mobile/eas.json
   - apps/mobile/package.json
   - apps/mobile/src/hooks/usePushNotifications.ts
