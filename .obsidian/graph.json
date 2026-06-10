@@ -9,35 +9,59 @@
   "colorGroups": [
     {
       "query": "tag:hub",
-      "color": { "a": 1, "rgb": 8090360 }
+      "color": {
+        "a": 1,
+        "rgb": 8090360
+      }
     },
     {
       "query": "path:ZONES/",
-      "color": { "a": 1, "rgb": 58879 }
+      "color": {
+        "a": 1,
+        "rgb": 58879
+      }
     },
     {
       "query": "path:PROJECTS/clients/",
-      "color": { "a": 1, "rgb": 16766720 }
+      "color": {
+        "a": 1,
+        "rgb": 16766720
+      }
     },
     {
       "query": "path:AI_CONTEXT/",
-      "color": { "a": 1, "rgb": 15483002 }
+      "color": {
+        "a": 1,
+        "rgb": 15483002
+      }
     },
     {
       "query": "path:PROJECTS/weWatch/decisions/",
-      "color": { "a": 1, "rgb": 16750592 }
+      "color": {
+        "a": 1,
+        "rgb": 16750592
+      }
     },
     {
       "query": "path:PROJECTS/weWatch/services/",
-      "color": { "a": 1, "rgb": 6732650 }
+      "color": {
+        "a": 1,
+        "rgb": 6732650
+      }
     },
     {
       "query": "path:PROJECTS/weWatch/people/ path:PROJECTS/tezCode/people/",
-      "color": { "a": 1, "rgb": 11225020 }
+      "color": {
+        "a": 1,
+        "rgb": 11225020
+      }
     },
     {
       "query": "path:DAILY/",
-      "color": { "a": 1, "rgb": 4367861 }
+      "color": {
+        "a": 1,
+        "rgb": 4367861
+      }
     }
   ],
   "collapse-display": false,
@@ -50,6 +74,6 @@
   "repelStrength": 14,
   "linkStrength": 0.8,
   "linkDistance": 90,
-  "scale": 0.6,
-  "close": false
+  "scale": 0.36752785257220033,
+  "close": true
 }
