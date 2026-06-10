@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-11 00:26
+updated: 2026-06-11 00:38
 developer: Saidazim
 ---
 
@@ -14,9 +14,9 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-11 00:26
-**Последний коммит:** `7a72c69 fix(mobile): use ravetokenauth Firebase project for push notifications`
-**Незакоммиченных файлов:** 457
+**Дата:** 2026-06-11 00:38
+**Последний коммит:** `85e72c7 fix(mobile): notification icon color #E50914 → #7B72F8 (WeWatch purple)`
+**Незакоммиченных файлов:** 456
 
 ---
 
@@ -35,7 +35,6 @@ developer: Saidazim
 ## Изменённые файлы
 
   - .claude/agents/orchestrator.md
-  - apps/mobile/app.json
   - apps/mobile/eas.json
   - apps/mobile/package.json
   - apps/mobile/src/hooks/usePushNotifications.ts
@@ -47,11 +46,11 @@ developer: Saidazim
 
 ## Последние 5 коммитов
 
+- 85e72c7 fix(mobile): notification icon color #E50914 → #7B72F8 (WeWatch purple)
 - 7a72c69 fix(mobile): use ravetokenauth Firebase project for push notifications
 - 954e505 fix(mobile/notifications): production logging for push token registration failures
 - 66528d7 chore(mobile): bump version 1.0.1 versionCode 2
 - c77474e fix(security): bcrypt 10→12 in watch-party + timingSafeEqual for ADMIN_INIT_SECRET
-- 70fb53b feat(admin-ui): Database explorer page — collections, docs table, JSON drawer, delete
 
 ---
 
@@ -75,4 +74,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-11 00:26 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-11 00:38 автоматически через update-last-session.sh*
