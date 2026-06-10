@@ -1,11 +1,11 @@
 ---
 type: handoff
-updated: 2026-06-10 23:40
+updated: 2026-06-10 23:43
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-10 23:40
+**Завершена:** 2026-06-10 23:43
 
 ## Последний коммит
 7a72c69 fix(mobile): use ravetokenauth Firebase project for push notifications
