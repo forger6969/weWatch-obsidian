@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-11 00:18
+updated: 2026-06-11 00:26
 developer: Saidazim
 ---
 
@@ -14,9 +14,9 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-11 00:18
+**Дата:** 2026-06-11 00:26
 **Последний коммит:** `7a72c69 fix(mobile): use ravetokenauth Firebase project for push notifications`
-**Незакоммиченных файлов:** 456
+**Незакоммиченных файлов:** 457
 
 ---
 
@@ -35,6 +35,7 @@ developer: Saidazim
 ## Изменённые файлы
 
   - .claude/agents/orchestrator.md
+  - apps/mobile/app.json
   - apps/mobile/eas.json
   - apps/mobile/package.json
   - apps/mobile/src/hooks/usePushNotifications.ts
@@ -74,4 +75,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-11 00:18 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-11 00:26 автоматически через update-last-session.sh*
