@@ -1,17 +1,17 @@
 ---
 type: handoff
-updated: 2026-06-11 01:02
+updated: 2026-06-11 01:06
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-11 01:02
+**Завершена:** 2026-06-11 01:06
 
 ## Последний коммит
-8dda58c chore(agents): AoT names — Берт/Арлерт (Колосы) + 13 Атакующих + Перри
+d2e31c0 chore(agents): add SKILLS sections to all 15 agent files
 
 ## Незакоммиченных файлов
-448
+425
 
 ## Изменённые файлы
   - apps/mobile/eas.json
@@ -22,11 +22,11 @@ updated: 2026-06-11 01:02
   - package-lock.json
 
 ## Последние 5 коммитов
+- d2e31c0 chore(agents): add SKILLS sections to all 15 agent files
 - 8dda58c chore(agents): AoT names — Берт/Арлерт (Колосы) + 13 Атакующих + Перри
 - 85e72c7 fix(mobile): notification icon color #E50914 → #7B72F8 (WeWatch purple)
 - 7a72c69 fix(mobile): use ravetokenauth Firebase project for push notifications
 - 954e505 fix(mobile/notifications): production logging for push token registration failures
-- 66528d7 chore(mobile): bump version 1.0.1 versionCode 2
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]

@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-11 01:02
+updated: 2026-06-11 01:06
 developer: Saidazim
 ---
 
@@ -14,9 +14,9 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-11 01:02
-**Последний коммит:** `8dda58c chore(agents): AoT names — Берт/Арлерт (Колосы) + 13 Атакующих + Перри`
-**Незакоммиченных файлов:** 448
+**Дата:** 2026-06-11 01:06
+**Последний коммит:** `d2e31c0 chore(agents): add SKILLS sections to all 15 agent files`
+**Незакоммиченных файлов:** 425
 
 ---
 
@@ -45,11 +45,11 @@ developer: Saidazim
 
 ## Последние 5 коммитов
 
+- d2e31c0 chore(agents): add SKILLS sections to all 15 agent files
 - 8dda58c chore(agents): AoT names — Берт/Арлерт (Колосы) + 13 Атакующих + Перри
 - 85e72c7 fix(mobile): notification icon color #E50914 → #7B72F8 (WeWatch purple)
 - 7a72c69 fix(mobile): use ravetokenauth Firebase project for push notifications
 - 954e505 fix(mobile/notifications): production logging for push token registration failures
-- 66528d7 chore(mobile): bump version 1.0.1 versionCode 2
 
 ---
 
@@ -73,4 +73,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-11 01:02 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-11 01:06 автоматически через update-last-session.sh*
