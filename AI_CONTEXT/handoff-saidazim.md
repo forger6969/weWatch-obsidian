@@ -1,17 +1,17 @@
 ---
 type: handoff
-updated: 2026-06-10 16:54
+updated: 2026-06-10 17:09
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-10 16:54
+**Завершена:** 2026-06-10 17:09
 
 ## Последний коммит
-66528d7 chore(mobile): bump version 1.0.1 versionCode 2
+954e505 fix(mobile/notifications): production logging for push token registration failures
 
 ## Незакоммиченных файлов
-443
+444
 
 ## Изменённые файлы
   - apps/mobile/app.json
@@ -21,11 +21,11 @@ updated: 2026-06-10 16:54
   - package-lock.json
 
 ## Последние 5 коммитов
+- 954e505 fix(mobile/notifications): production logging for push token registration failures
 - 66528d7 chore(mobile): bump version 1.0.1 versionCode 2
 - c77474e fix(security): bcrypt 10→12 in watch-party + timingSafeEqual for ADMIN_INIT_SECRET
 - 70fb53b feat(admin-ui): Database explorer page — collections, docs table, JSON drawer, delete
 - fc24d48 feat(admin): DB browser — collections list + documents + JSON viewer + delete
-- e7c84bc chore(admin-ui): bump version to 1.0.2 — cache bust for i18n deploy
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
