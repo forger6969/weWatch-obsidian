@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-11 23:33
+updated: 2026-06-11 23:36
 developer: Saidazim
 ---
 
@@ -14,9 +14,9 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-11 23:33
+**Дата:** 2026-06-11 23:36
 **Последний коммит:** `ac94aec chore: auto-save zone context [session-stop]`
-**Незакоммиченных файлов:** 428
+**Незакоммиченных файлов:** 430
 
 ---
 
@@ -34,6 +34,7 @@ developer: Saidazim
 
 ## Изменённые файлы
 
+  - .claude/scripts/bot_council_listener.py
   - apps/mobile/app.json
   - apps/mobile/eas.json
   - apps/mobile/package.json
@@ -74,4 +75,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-11 23:33 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-11 23:36 автоматически через update-last-session.sh*
