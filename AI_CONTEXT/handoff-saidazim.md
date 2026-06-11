@@ -1,17 +1,17 @@
 ---
 type: handoff
-updated: 2026-06-11 17:07
+updated: 2026-06-11 17:12
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-11 17:07
+**Завершена:** 2026-06-11 17:12
 
 ## Последний коммит
-e808b7c fix(swarm): watchdog auto-restart on connection drop
+0b42f2c security: fix all audit issues — header injection, SSRF, DB access, rate limiting
 
 ## Незакоммиченных файлов
-424
+423
 
 ## Изменённые файлы
   - apps/mobile/eas.json
@@ -22,11 +22,11 @@ e808b7c fix(swarm): watchdog auto-restart on connection drop
   - package-lock.json
 
 ## Последние 5 коммитов
+- 0b42f2c security: fix all audit issues — header injection, SSRF, DB access, rate limiting
 - e808b7c fix(swarm): watchdog auto-restart on connection drop
 - 198e423 feat(swarm): respond to ? questions, #skill acks, more active in council
 - 6ab91c5 feat(agents): СПЕЦОТРЯД — Council Agent (isolated swarm for Tezcode COUNCIL)
 - e8691a1 feat(swarm): Telethon council listener + start/stop script
-- 5348281 fix(obsidian): session-stop chains to full vault update, fix Windows paths
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]

@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-11 17:07
+updated: 2026-06-11 17:12
 developer: Saidazim
 ---
 
@@ -14,9 +14,9 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-11 17:07
-**Последний коммит:** `e808b7c fix(swarm): watchdog auto-restart on connection drop`
-**Незакоммиченных файлов:** 424
+**Дата:** 2026-06-11 17:12
+**Последний коммит:** `0b42f2c security: fix all audit issues — header injection, SSRF, DB access, rate limiting`
+**Незакоммиченных файлов:** 423
 
 ---
 
@@ -45,11 +45,11 @@ developer: Saidazim
 
 ## Последние 5 коммитов
 
+- 0b42f2c security: fix all audit issues — header injection, SSRF, DB access, rate limiting
 - e808b7c fix(swarm): watchdog auto-restart on connection drop
 - 198e423 feat(swarm): respond to ? questions, #skill acks, more active in council
 - 6ab91c5 feat(agents): СПЕЦОТРЯД — Council Agent (isolated swarm for Tezcode COUNCIL)
 - e8691a1 feat(swarm): Telethon council listener + start/stop script
-- 5348281 fix(obsidian): session-stop chains to full vault update, fix Windows paths
 
 ---
 
@@ -73,4 +73,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-11 17:07 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-11 17:12 автоматически через update-last-session.sh*
