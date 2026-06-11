@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-11 17:56
+updated: 2026-06-11 17:57
 developer: Saidazim
 ---
 
@@ -14,9 +14,9 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-11 17:56
-**Последний коммит:** `7ac7fce chore: auto-save zone context [session-stop]`
-**Незакоммиченных файлов:** 425
+**Дата:** 2026-06-11 17:57
+**Последний коммит:** `ac94aec chore: auto-save zone context [session-stop]`
+**Незакоммиченных файлов:** 426
 
 ---
 
@@ -45,11 +45,11 @@ developer: Saidazim
 
 ## Последние 5 коммитов
 
+- ac94aec chore: auto-save zone context [session-stop]
 - 7ac7fce chore: auto-save zone context [session-stop]
 - 0b42f2c security: fix all audit issues — header injection, SSRF, DB access, rate limiting
 - e808b7c fix(swarm): watchdog auto-restart on connection drop
 - 198e423 feat(swarm): respond to ? questions, #skill acks, more active in council
-- 6ab91c5 feat(agents): СПЕЦОТРЯД — Council Agent (isolated swarm for Tezcode COUNCIL)
 
 ---
 
@@ -73,4 +73,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-11 17:56 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-11 17:57 автоматически через update-last-session.sh*
