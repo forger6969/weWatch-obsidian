@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-11 17:33
+updated: 2026-06-11 17:36
 developer: Saidazim
 ---
 
@@ -14,8 +14,8 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-11 17:33
-**Последний коммит:** `0b42f2c security: fix all audit issues — header injection, SSRF, DB access, rate limiting`
+**Дата:** 2026-06-11 17:36
+**Последний коммит:** `7ac7fce chore: auto-save zone context [session-stop]`
 **Незакоммиченных файлов:** 425
 
 ---
@@ -34,7 +34,6 @@ developer: Saidazim
 
 ## Изменённые файлы
 
-  - CLAUDE.md
   - apps/mobile/eas.json
   - apps/mobile/package.json
   - apps/mobile/src/hooks/usePushNotifications.ts
@@ -46,11 +45,11 @@ developer: Saidazim
 
 ## Последние 5 коммитов
 
+- 7ac7fce chore: auto-save zone context [session-stop]
 - 0b42f2c security: fix all audit issues — header injection, SSRF, DB access, rate limiting
 - e808b7c fix(swarm): watchdog auto-restart on connection drop
 - 198e423 feat(swarm): respond to ? questions, #skill acks, more active in council
 - 6ab91c5 feat(agents): СПЕЦОТРЯД — Council Agent (isolated swarm for Tezcode COUNCIL)
-- e8691a1 feat(swarm): Telethon council listener + start/stop script
 
 ---
 
@@ -74,4 +73,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-11 17:33 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-11 17:36 автоматически через update-last-session.sh*

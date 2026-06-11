@@ -1,20 +1,19 @@
 ---
 type: handoff
-updated: 2026-06-11 17:33
+updated: 2026-06-11 17:36
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-11 17:33
+**Завершена:** 2026-06-11 17:36
 
 ## Последний коммит
-0b42f2c security: fix all audit issues — header injection, SSRF, DB access, rate limiting
+7ac7fce chore: auto-save zone context [session-stop]
 
 ## Незакоммиченных файлов
 425
 
 ## Изменённые файлы
-  - CLAUDE.md
   - apps/mobile/eas.json
   - apps/mobile/package.json
   - apps/mobile/src/hooks/usePushNotifications.ts
@@ -23,11 +22,11 @@ updated: 2026-06-11 17:33
   - package-lock.json
 
 ## Последние 5 коммитов
+- 7ac7fce chore: auto-save zone context [session-stop]
 - 0b42f2c security: fix all audit issues — header injection, SSRF, DB access, rate limiting
 - e808b7c fix(swarm): watchdog auto-restart on connection drop
 - 198e423 feat(swarm): respond to ? questions, #skill acks, more active in council
 - 6ab91c5 feat(agents): СПЕЦОТРЯД — Council Agent (isolated swarm for Tezcode COUNCIL)
-- e8691a1 feat(swarm): Telethon council listener + start/stop script
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
