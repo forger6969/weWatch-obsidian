@@ -1,17 +1,17 @@
 ---
 type: handoff
-updated: 2026-06-11 23:41
+updated: 2026-06-11 23:45
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-11 23:41
+**Завершена:** 2026-06-11 23:45
 
 ## Последний коммит
 ac94aec chore: auto-save zone context [session-stop]
 
 ## Незакоммиченных файлов
-430
+429
 
 ## Изменённые файлы
   - .claude/scripts/bot_council_listener.py
