@@ -1,11 +1,11 @@
 ---
 type: handoff
-updated: 2026-06-11 14:47
+updated: 2026-06-11 14:49
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-11 14:47
+**Завершена:** 2026-06-11 14:49
 
 ## Последний коммит
 e8691a1 feat(swarm): Telethon council listener + start/stop script
