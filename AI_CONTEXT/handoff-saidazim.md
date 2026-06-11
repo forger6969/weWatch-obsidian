@@ -1,19 +1,20 @@
 ---
 type: handoff
-updated: 2026-06-11 19:01
+updated: 2026-06-11 19:05
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-11 19:01
+**Завершена:** 2026-06-11 19:05
 
 ## Последний коммит
 ac94aec chore: auto-save zone context [session-stop]
 
 ## Незакоммиченных файлов
-426
+429
 
 ## Изменённые файлы
+  - apps/mobile/app.json
   - apps/mobile/eas.json
   - apps/mobile/package.json
   - apps/mobile/src/hooks/usePushNotifications.ts
