@@ -1,11 +1,11 @@
 ---
 type: handoff
-updated: 2026-06-11 16:07
+updated: 2026-06-11 17:07
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-11 16:07
+**Завершена:** 2026-06-11 17:07
 
 ## Последний коммит
 e808b7c fix(swarm): watchdog auto-restart on connection drop
