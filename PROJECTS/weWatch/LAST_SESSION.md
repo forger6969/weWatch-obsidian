@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-11 14:37
+updated: 2026-06-11 14:39
 developer: Saidazim
 ---
 
@@ -14,9 +14,9 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-11 14:37
+**Дата:** 2026-06-11 14:39
 **Последний коммит:** `d2e31c0 chore(agents): add SKILLS sections to all 15 agent files`
-**Незакоммиченных файлов:** 425
+**Незакоммиченных файлов:** 426
 
 ---
 
@@ -34,6 +34,7 @@ developer: Saidazim
 
 ## Изменённые файлы
 
+  - .claude/scripts/obsidian-session-stop.sh
   - apps/mobile/eas.json
   - apps/mobile/package.json
   - apps/mobile/src/hooks/usePushNotifications.ts
@@ -73,4 +74,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-11 14:37 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-11 14:39 автоматически через update-last-session.sh*

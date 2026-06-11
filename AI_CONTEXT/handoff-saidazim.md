@@ -1,19 +1,20 @@
 ---
 type: handoff
-updated: 2026-06-11 14:37
+updated: 2026-06-11 14:39
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-11 14:37
+**Завершена:** 2026-06-11 14:39
 
 ## Последний коммит
 d2e31c0 chore(agents): add SKILLS sections to all 15 agent files
 
 ## Незакоммиченных файлов
-425
+426
 
 ## Изменённые файлы
+  - .claude/scripts/obsidian-session-stop.sh
   - apps/mobile/eas.json
   - apps/mobile/package.json
   - apps/mobile/src/hooks/usePushNotifications.ts
