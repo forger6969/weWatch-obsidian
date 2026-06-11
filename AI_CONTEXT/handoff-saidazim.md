@@ -8,13 +8,12 @@ updated: 2026-06-11 14:39
 **Завершена:** 2026-06-11 14:39
 
 ## Последний коммит
-d2e31c0 chore(agents): add SKILLS sections to all 15 agent files
+5348281 fix(obsidian): session-stop chains to full vault update, fix Windows paths
 
 ## Незакоммиченных файлов
-426
+424
 
 ## Изменённые файлы
-  - .claude/scripts/obsidian-session-stop.sh
   - apps/mobile/eas.json
   - apps/mobile/package.json
   - apps/mobile/src/hooks/usePushNotifications.ts
@@ -23,11 +22,11 @@ d2e31c0 chore(agents): add SKILLS sections to all 15 agent files
   - package-lock.json
 
 ## Последние 5 коммитов
+- 5348281 fix(obsidian): session-stop chains to full vault update, fix Windows paths
 - d2e31c0 chore(agents): add SKILLS sections to all 15 agent files
 - 8dda58c chore(agents): AoT names — Берт/Арлерт (Колосы) + 13 Атакующих + Перри
 - 85e72c7 fix(mobile): notification icon color #E50914 → #7B72F8 (WeWatch purple)
 - 7a72c69 fix(mobile): use ravetokenauth Firebase project for push notifications
-- 954e505 fix(mobile/notifications): production logging for push token registration failures
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
