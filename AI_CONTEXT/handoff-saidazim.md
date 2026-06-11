@@ -11,7 +11,7 @@ updated: 2026-06-11 22:36
 ac94aec chore: auto-save zone context [session-stop]
 
 ## Незакоммиченных файлов
-428
+429
 
 ## Изменённые файлы
   - apps/mobile/app.json
