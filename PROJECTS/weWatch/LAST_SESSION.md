@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-11 17:24
+updated: 2026-06-11 17:27
 developer: Saidazim
 ---
 
@@ -14,7 +14,7 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-11 17:24
+**Дата:** 2026-06-11 17:27
 **Последний коммит:** `0b42f2c security: fix all audit issues — header injection, SSRF, DB access, rate limiting`
 **Незакоммиченных файлов:** 424
 
@@ -34,6 +34,7 @@ developer: Saidazim
 
 ## Изменённые файлы
 
+  - CLAUDE.md
   - apps/mobile/eas.json
   - apps/mobile/package.json
   - apps/mobile/src/hooks/usePushNotifications.ts
@@ -73,4 +74,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-11 17:24 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-11 17:27 автоматически через update-last-session.sh*

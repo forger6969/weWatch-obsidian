@@ -1,11 +1,11 @@
 ---
 type: handoff
-updated: 2026-06-11 17:24
+updated: 2026-06-11 17:27
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-11 17:24
+**Завершена:** 2026-06-11 17:27
 
 ## Последний коммит
 0b42f2c security: fix all audit issues — header injection, SSRF, DB access, rate limiting
@@ -14,6 +14,7 @@ updated: 2026-06-11 17:24
 424
 
 ## Изменённые файлы
+  - CLAUDE.md
   - apps/mobile/eas.json
   - apps/mobile/package.json
   - apps/mobile/src/hooks/usePushNotifications.ts
