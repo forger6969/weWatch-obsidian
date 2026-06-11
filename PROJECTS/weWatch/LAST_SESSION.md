@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-11 14:49
+updated: 2026-06-11 14:50
 developer: Saidazim
 ---
 
@@ -14,8 +14,8 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-11 14:49
-**Последний коммит:** `e8691a1 feat(swarm): Telethon council listener + start/stop script`
+**Дата:** 2026-06-11 14:50
+**Последний коммит:** `6ab91c5 feat(agents): СПЕЦОТРЯД — Council Agent (isolated swarm for Tezcode COUNCIL)`
 **Незакоммиченных файлов:** 424
 
 ---
@@ -45,11 +45,11 @@ developer: Saidazim
 
 ## Последние 5 коммитов
 
+- 6ab91c5 feat(agents): СПЕЦОТРЯД — Council Agent (isolated swarm for Tezcode COUNCIL)
 - e8691a1 feat(swarm): Telethon council listener + start/stop script
 - 5348281 fix(obsidian): session-stop chains to full vault update, fix Windows paths
 - d2e31c0 chore(agents): add SKILLS sections to all 15 agent files
 - 8dda58c chore(agents): AoT names — Берт/Арлерт (Колосы) + 13 Атакующих + Перри
-- 85e72c7 fix(mobile): notification icon color #E50914 → #7B72F8 (WeWatch purple)
 
 ---
 
@@ -73,4 +73,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-11 14:49 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-11 14:50 автоматически через update-last-session.sh*
