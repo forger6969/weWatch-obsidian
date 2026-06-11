@@ -1,14 +1,14 @@
 ---
 type: handoff
-updated: 2026-06-11 14:50
+updated: 2026-06-11 14:51
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-11 14:50
+**Завершена:** 2026-06-11 14:51
 
 ## Последний коммит
-6ab91c5 feat(agents): СПЕЦОТРЯД — Council Agent (isolated swarm for Tezcode COUNCIL)
+198e423 feat(swarm): respond to ? questions, #skill acks, more active in council
 
 ## Незакоммиченных файлов
 424
@@ -22,11 +22,11 @@ updated: 2026-06-11 14:50
   - package-lock.json
 
 ## Последние 5 коммитов
+- 198e423 feat(swarm): respond to ? questions, #skill acks, more active in council
 - 6ab91c5 feat(agents): СПЕЦОТРЯД — Council Agent (isolated swarm for Tezcode COUNCIL)
 - e8691a1 feat(swarm): Telethon council listener + start/stop script
 - 5348281 fix(obsidian): session-stop chains to full vault update, fix Windows paths
 - d2e31c0 chore(agents): add SKILLS sections to all 15 agent files
-- 8dda58c chore(agents): AoT names — Берт/Арлерт (Колосы) + 13 Атакующих + Перри
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
