@@ -1,11 +1,11 @@
 ---
 type: handoff
-updated: 2026-06-12 21:00
+updated: 2026-06-12 22:37
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-12 21:00
+**Завершена:** 2026-06-12 22:37
 
 ## Последний коммит
 af74dd3 fix(mobile): i18n — replace all hardcoded Uzbek/Russian strings with t() calls
