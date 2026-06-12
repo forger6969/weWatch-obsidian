@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-12 16:42
+updated: 2026-06-12 20:40
 developer: Saidazim
 ---
 
@@ -14,9 +14,9 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-12 16:42
-**Последний коммит:** `ac94aec chore: auto-save zone context [session-stop]`
-**Незакоммиченных файлов:** 481
+**Дата:** 2026-06-12 20:40
+**Последний коммит:** `af74dd3 fix(mobile): i18n — replace all hardcoded Uzbek/Russian strings with t() calls`
+**Незакоммиченных файлов:** 435
 
 ---
 
@@ -38,22 +38,19 @@ developer: Saidazim
   - apps/mobile/app.json
   - apps/mobile/eas.json
   - apps/mobile/package.json
-  - apps/mobile/src/components/common/BlockedAccountModal.tsx
-  - apps/mobile/src/components/common/BlockedDomainView.tsx
-  - apps/mobile/src/components/common/ErrorBoundary.tsx
-  - apps/mobile/src/components/common/OfflineBanner.tsx
-  - apps/mobile/src/components/common/ReportRoomModal.tsx
-  - apps/mobile/src/components/common/ReportUserModal.tsx
+  - eas.json
+  - marketing/instagram/src/Root.tsx
+  - package-lock.json
 
 ---
 
 ## Последние 5 коммитов
 
+- af74dd3 fix(mobile): i18n — replace all hardcoded Uzbek/Russian strings with t() calls
+- a3507a3 fix(mobile): update privacy policy v2 + fix remaining hardcoded strings
 - ac94aec chore: auto-save zone context [session-stop]
 - 7ac7fce chore: auto-save zone context [session-stop]
 - 0b42f2c security: fix all audit issues — header injection, SSRF, DB access, rate limiting
-- e808b7c fix(swarm): watchdog auto-restart on connection drop
-- 198e423 feat(swarm): respond to ? questions, #skill acks, more active in council
 
 ---
 
@@ -77,4 +74,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-12 16:42 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-12 20:40 автоматически через update-last-session.sh*

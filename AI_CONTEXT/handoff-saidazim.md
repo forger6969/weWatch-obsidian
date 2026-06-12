@@ -1,34 +1,33 @@
 ---
 type: handoff
-updated: 2026-06-12 16:42
+updated: 2026-06-12 20:40
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-12 16:42
+**Завершена:** 2026-06-12 20:40
 
 ## Последний коммит
-ac94aec chore: auto-save zone context [session-stop]
+af74dd3 fix(mobile): i18n — replace all hardcoded Uzbek/Russian strings with t() calls
 
 ## Незакоммиченных файлов
-481
+435
 
 ## Изменённые файлы
   - .claude/scripts/bot_council_listener.py
   - apps/mobile/app.json
   - apps/mobile/eas.json
   - apps/mobile/package.json
-  - apps/mobile/src/components/common/BlockedAccountModal.tsx
-  - apps/mobile/src/components/common/BlockedDomainView.tsx
-  - apps/mobile/src/components/common/ErrorBoundary.tsx
-  - apps/mobile/src/components/common/OfflineBanner.tsx
+  - eas.json
+  - marketing/instagram/src/Root.tsx
+  - package-lock.json
 
 ## Последние 5 коммитов
+- af74dd3 fix(mobile): i18n — replace all hardcoded Uzbek/Russian strings with t() calls
+- a3507a3 fix(mobile): update privacy policy v2 + fix remaining hardcoded strings
 - ac94aec chore: auto-save zone context [session-stop]
 - 7ac7fce chore: auto-save zone context [session-stop]
 - 0b42f2c security: fix all audit issues — header injection, SSRF, DB access, rate limiting
-- e808b7c fix(swarm): watchdog auto-restart on connection drop
-- 198e423 feat(swarm): respond to ? questions, #skill acks, more active in council
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
