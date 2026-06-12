@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-12 15:34
+updated: 2026-06-12 16:17
 developer: Saidazim
 ---
 
@@ -14,9 +14,9 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-12 15:34
+**Дата:** 2026-06-12 16:17
 **Последний коммит:** `ac94aec chore: auto-save zone context [session-stop]`
-**Незакоммиченных файлов:** 436
+**Незакоммиченных файлов:** 481
 
 ---
 
@@ -38,10 +38,12 @@ developer: Saidazim
   - apps/mobile/app.json
   - apps/mobile/eas.json
   - apps/mobile/package.json
-  - apps/mobile/src/hooks/usePushNotifications.ts
-  - eas.json
-  - marketing/instagram/src/Root.tsx
-  - package-lock.json
+  - apps/mobile/src/components/common/BlockedAccountModal.tsx
+  - apps/mobile/src/components/common/BlockedDomainView.tsx
+  - apps/mobile/src/components/common/ErrorBoundary.tsx
+  - apps/mobile/src/components/common/OfflineBanner.tsx
+  - apps/mobile/src/components/common/ReportRoomModal.tsx
+  - apps/mobile/src/components/common/ReportUserModal.tsx
 
 ---
 
@@ -75,4 +77,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-12 15:34 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-12 16:17 автоматически через update-last-session.sh*

@@ -1,27 +1,27 @@
 ---
 type: handoff
-updated: 2026-06-12 15:34
+updated: 2026-06-12 16:17
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-12 15:34
+**Завершена:** 2026-06-12 16:17
 
 ## Последний коммит
 ac94aec chore: auto-save zone context [session-stop]
 
 ## Незакоммиченных файлов
-436
+481
 
 ## Изменённые файлы
   - .claude/scripts/bot_council_listener.py
   - apps/mobile/app.json
   - apps/mobile/eas.json
   - apps/mobile/package.json
-  - apps/mobile/src/hooks/usePushNotifications.ts
-  - eas.json
-  - marketing/instagram/src/Root.tsx
-  - package-lock.json
+  - apps/mobile/src/components/common/BlockedAccountModal.tsx
+  - apps/mobile/src/components/common/BlockedDomainView.tsx
+  - apps/mobile/src/components/common/ErrorBoundary.tsx
+  - apps/mobile/src/components/common/OfflineBanner.tsx
 
 ## Последние 5 коммитов
 - ac94aec chore: auto-save zone context [session-stop]
