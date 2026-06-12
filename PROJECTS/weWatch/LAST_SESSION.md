@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-12 22:37
+updated: 2026-06-13 00:03
 developer: Saidazim
 ---
 
@@ -14,8 +14,8 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-12 22:37
-**Последний коммит:** `af74dd3 fix(mobile): i18n — replace all hardcoded Uzbek/Russian strings with t() calls`
+**Дата:** 2026-06-13 00:03
+**Последний коммит:** `7ac0b04 fix(web): update privacy policy page to v2 (June 11, 2026)`
 **Незакоммиченных файлов:** 435
 
 ---
@@ -46,11 +46,11 @@ developer: Saidazim
 
 ## Последние 5 коммитов
 
+- 7ac0b04 fix(web): update privacy policy page to v2 (June 11, 2026)
 - af74dd3 fix(mobile): i18n — replace all hardcoded Uzbek/Russian strings with t() calls
 - a3507a3 fix(mobile): update privacy policy v2 + fix remaining hardcoded strings
 - ac94aec chore: auto-save zone context [session-stop]
 - 7ac7fce chore: auto-save zone context [session-stop]
-- 0b42f2c security: fix all audit issues — header injection, SSRF, DB access, rate limiting
 
 ---
 
@@ -74,4 +74,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-12 22:37 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-13 00:03 автоматически через update-last-session.sh*

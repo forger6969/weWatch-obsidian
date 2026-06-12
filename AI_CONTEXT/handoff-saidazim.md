@@ -1,14 +1,14 @@
 ---
 type: handoff
-updated: 2026-06-12 22:37
+updated: 2026-06-13 00:03
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-12 22:37
+**Завершена:** 2026-06-13 00:03
 
 ## Последний коммит
-af74dd3 fix(mobile): i18n — replace all hardcoded Uzbek/Russian strings with t() calls
+7ac0b04 fix(web): update privacy policy page to v2 (June 11, 2026)
 
 ## Незакоммиченных файлов
 435
@@ -23,11 +23,11 @@ af74dd3 fix(mobile): i18n — replace all hardcoded Uzbek/Russian strings with t
   - package-lock.json
 
 ## Последние 5 коммитов
+- 7ac0b04 fix(web): update privacy policy page to v2 (June 11, 2026)
 - af74dd3 fix(mobile): i18n — replace all hardcoded Uzbek/Russian strings with t() calls
 - a3507a3 fix(mobile): update privacy policy v2 + fix remaining hardcoded strings
 - ac94aec chore: auto-save zone context [session-stop]
 - 7ac7fce chore: auto-save zone context [session-stop]
-- 0b42f2c security: fix all audit issues — header injection, SSRF, DB access, rate limiting
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
