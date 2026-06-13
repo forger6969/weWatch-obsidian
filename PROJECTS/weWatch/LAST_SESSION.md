@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-13 15:51
+updated: 2026-06-13 15:57
 developer: Saidazim
 ---
 
@@ -14,7 +14,7 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-13 15:51
+**Дата:** 2026-06-13 15:57
 **Последний коммит:** `5afe9b1 fix(mobile): migrate expo-av → expo-video, fix ExponentAV native module crash in Expo Go`
 **Незакоммиченных файлов:** 436
 
@@ -75,4 +75,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-13 15:51 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-13 15:57 автоматически через update-last-session.sh*
