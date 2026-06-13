@@ -1,11 +1,11 @@
 ---
 type: handoff
-updated: 2026-06-13 23:08
+updated: 2026-06-13 23:17
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-13 23:08
+**Завершена:** 2026-06-13 23:17
 
 ## Последний коммит
 dc8acc7 fix(mobile): iOS VK/Rutube use embed WebView, remove wrong loading-clears-error effect
