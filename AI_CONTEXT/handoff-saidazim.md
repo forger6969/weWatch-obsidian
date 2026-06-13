@@ -1,11 +1,11 @@
 ---
 type: handoff
-updated: 2026-06-13 16:47
+updated: 2026-06-13 17:08
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-13 16:47
+**Завершена:** 2026-06-13 17:08
 
 ## Последний коммит
 5afe9b1 fix(mobile): migrate expo-av → expo-video, fix ExponentAV native module crash in Expo Go
