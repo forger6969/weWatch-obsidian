@@ -1,14 +1,14 @@
 ---
 type: handoff
-updated: 2026-06-13 14:32
+updated: 2026-06-13 14:39
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-13 14:32
+**Завершена:** 2026-06-13 14:39
 
 ## Последний коммит
-efe6563 task: clarify web tasks — port mobile app to web (not new platform)
+596e7b1 feat(dm): T-S103/T-S104/T-S105 — DM Chat backend complete
 
 ## Незакоммиченных файлов
 435
@@ -23,11 +23,11 @@ efe6563 task: clarify web tasks — port mobile app to web (not new platform)
   - package-lock.json
 
 ## Последние 5 коммитов
+- 596e7b1 feat(dm): T-S103/T-S104/T-S105 — DM Chat backend complete
 - efe6563 task: clarify web tasks — port mobile app to web (not new platform)
 - 67d5256 task: split T-S103/T-E136/T-C016 into 10 small tasks
 - 591f13e task: add T-S103, T-E136, T-C016 — DM chat + Web platform
 - 7ac0b04 fix(web): update privacy policy page to v2 (June 11, 2026)
-- af74dd3 fix(mobile): i18n — replace all hardcoded Uzbek/Russian strings with t() calls
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
