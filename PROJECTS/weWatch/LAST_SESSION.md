@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-13 23:17
+updated: 2026-06-13 23:21
 developer: Saidazim
 ---
 
@@ -14,7 +14,7 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-13 23:17
+**Дата:** 2026-06-13 23:21
 **Последний коммит:** `dc8acc7 fix(mobile): iOS VK/Rutube use embed WebView, remove wrong loading-clears-error effect`
 **Незакоммиченных файлов:** 437
 
@@ -75,4 +75,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-13 23:17 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-13 23:21 автоматически через update-last-session.sh*
