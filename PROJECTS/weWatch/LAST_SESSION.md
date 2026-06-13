@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-13 14:53
+updated: 2026-06-13 14:58
 developer: Saidazim
 ---
 
@@ -14,9 +14,9 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-13 14:53
-**Последний коммит:** `726a26e feat(mobile): T-E136/T-E137/T-E138 — DM Chat mobile UI`
-**Незакоммиченных файлов:** 435
+**Дата:** 2026-06-13 14:58
+**Последний коммит:** `d3a9cb5 chore(mobile): upgrade Expo SDK 54 → 56`
+**Незакоммиченных файлов:** 434
 
 ---
 
@@ -37,7 +37,6 @@ developer: Saidazim
   - .claude/scripts/bot_council_listener.py
   - apps/mobile/app.json
   - apps/mobile/eas.json
-  - apps/mobile/package.json
   - eas.json
   - marketing/instagram/src/Root.tsx
   - package-lock.json
@@ -46,11 +45,11 @@ developer: Saidazim
 
 ## Последние 5 коммитов
 
+- d3a9cb5 chore(mobile): upgrade Expo SDK 54 → 56
 - 726a26e feat(mobile): T-E136/T-E137/T-E138 — DM Chat mobile UI
 - 596e7b1 feat(dm): T-S103/T-S104/T-S105 — DM Chat backend complete
 - efe6563 task: clarify web tasks — port mobile app to web (not new platform)
 - 67d5256 task: split T-S103/T-E136/T-C016 into 10 small tasks
-- 591f13e task: add T-S103, T-E136, T-C016 — DM chat + Web platform
 
 ---
 
@@ -74,4 +73,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-13 14:53 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-13 14:58 автоматически через update-last-session.sh*
