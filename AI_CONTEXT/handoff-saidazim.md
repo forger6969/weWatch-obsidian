@@ -1,17 +1,17 @@
 ---
 type: handoff
-updated: 2026-06-13 14:58
+updated: 2026-06-13 15:02
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-13 14:58
+**Завершена:** 2026-06-13 15:02
 
 ## Последний коммит
 d3a9cb5 chore(mobile): upgrade Expo SDK 54 → 56
 
 ## Незакоммиченных файлов
-434
+435
 
 ## Изменённые файлы
   - .claude/scripts/bot_council_listener.py
@@ -20,6 +20,7 @@ d3a9cb5 chore(mobile): upgrade Expo SDK 54 → 56
   - eas.json
   - marketing/instagram/src/Root.tsx
   - package-lock.json
+  - package.json
 
 ## Последние 5 коммитов
 - d3a9cb5 chore(mobile): upgrade Expo SDK 54 → 56

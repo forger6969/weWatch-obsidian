@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-13 14:58
+updated: 2026-06-13 15:02
 developer: Saidazim
 ---
 
@@ -14,9 +14,9 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-13 14:58
+**Дата:** 2026-06-13 15:02
 **Последний коммит:** `d3a9cb5 chore(mobile): upgrade Expo SDK 54 → 56`
-**Незакоммиченных файлов:** 434
+**Незакоммиченных файлов:** 435
 
 ---
 
@@ -40,6 +40,7 @@ developer: Saidazim
   - eas.json
   - marketing/instagram/src/Root.tsx
   - package-lock.json
+  - package.json
 
 ---
 
@@ -73,4 +74,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-13 14:58 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-13 15:02 автоматически через update-last-session.sh*
