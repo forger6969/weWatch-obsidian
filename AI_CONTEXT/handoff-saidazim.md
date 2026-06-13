@@ -1,19 +1,20 @@
 ---
 type: handoff
-updated: 2026-06-13 17:15
+updated: 2026-06-13 19:28
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-13 17:15
+**Завершена:** 2026-06-13 19:28
 
 ## Последний коммит
 5afe9b1 fix(mobile): migrate expo-av → expo-video, fix ExponentAV native module crash in Expo Go
 
 ## Незакоммиченных файлов
-436
+443
 
 ## Изменённые файлы
+  - .claude/agents/orchestrator.md
   - .claude/scripts/bot_council_listener.py
   - apps/mobile/app.json
   - apps/mobile/eas.json
@@ -21,7 +22,6 @@ updated: 2026-06-13 17:15
   - eas.json
   - marketing/instagram/src/Root.tsx
   - package-lock.json
-  - package.json
 
 ## Последние 5 коммитов
 - 5afe9b1 fix(mobile): migrate expo-av → expo-video, fix ExponentAV native module crash in Expo Go

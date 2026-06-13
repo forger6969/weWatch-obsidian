@@ -2,7 +2,7 @@
 type: hub
 domain: agents
 tags: [hub, agents, claude, ai, automation]
-updated: 2026-06-10
+updated: 2026-06-13
 ---
 
 # 🤖 Claude Agents — Hub
@@ -30,6 +30,19 @@ updated: 2026-06-10
 | Admin | `.claude/agents/admin-agent.md` | services/admin/ + admin-ui/ |
 | Mobile | `.claude/agents/mobile-agent.md` | apps/mobile/ |
 | Web | `.claude/agents/web-agent.md` | apps/web/ |
+
+---
+
+## Аналитические агенты (NEW 2026-06-13)
+
+| Агент | Файл | Когда использовать |
+|-------|------|-------------------|
+| **Architect** | `.claude/agents/architect-agent.md` | Перед серьёзным изменением архитектуры |
+| **PM** | `.claude/agents/pm-agent.md` | Перед реализацией новой фичи |
+| **Competitor Research** | `.claude/agents/competitor-agent.md` | Анализ конкурентов/рынка |
+| **Security** | `.claude/agents/security-agent.md` | Security review перед мержем |
+| **Code Review** | `.claude/agents/code-review-agent.md` | Качество кода (дополняет critic-agent) |
+| **Knowledge Curator** | `.claude/agents/knowledge-curator-agent.md` | Порядок в Obsidian/документации |
 
 ---
 
