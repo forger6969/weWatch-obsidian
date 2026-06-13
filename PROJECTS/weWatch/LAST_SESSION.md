@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-13 19:28
+updated: 2026-06-13 19:37
 developer: Saidazim
 ---
 
@@ -14,9 +14,9 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-13 19:28
-**Последний коммит:** `5afe9b1 fix(mobile): migrate expo-av → expo-video, fix ExponentAV native module crash in Expo Go`
-**Незакоммиченных файлов:** 443
+**Дата:** 2026-06-13 19:37
+**Последний коммит:** `e35bf2d fix(mobile): iOS clean video regression — remove Authorization header for direct CDN + handle transient expo-video error`
+**Незакоммиченных файлов:** 436
 
 ---
 
@@ -34,7 +34,6 @@ developer: Saidazim
 
 ## Изменённые файлы
 
-  - .claude/agents/orchestrator.md
   - .claude/scripts/bot_council_listener.py
   - apps/mobile/app.json
   - apps/mobile/eas.json
@@ -48,11 +47,11 @@ developer: Saidazim
 
 ## Последние 5 коммитов
 
+- e35bf2d fix(mobile): iOS clean video regression — remove Authorization header for direct CDN + handle transient expo-video error
 - 5afe9b1 fix(mobile): migrate expo-av → expo-video, fix ExponentAV native module crash in Expo Go
 - d3a9cb5 chore(mobile): upgrade Expo SDK 54 → 56
 - 726a26e feat(mobile): T-E136/T-E137/T-E138 — DM Chat mobile UI
 - 596e7b1 feat(dm): T-S103/T-S104/T-S105 — DM Chat backend complete
-- efe6563 task: clarify web tasks — port mobile app to web (not new platform)
 
 ---
 
@@ -76,4 +75,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-13 19:28 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-13 19:37 автоматически через update-last-session.sh*
