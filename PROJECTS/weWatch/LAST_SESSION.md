@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-14 21:53
+updated: 2026-06-14 22:05
 developer: Saidazim
 ---
 
@@ -14,8 +14,8 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-14 21:53
-**Последний коммит:** `7ee7051 fix(web): fix room crash — ROOM_JOINED members undefined + ROOM_UPDATED wrong payload`
+**Дата:** 2026-06-14 22:05
+**Последний коммит:** `9a43f96 fix(web): pre-load room via REST on page open, fix video player delay + mac player issue`
 **Незакоммиченных файлов:** 428
 
 ---
@@ -40,11 +40,11 @@ developer: Saidazim
 
 ## Последние 5 коммитов
 
+- 9a43f96 fix(web): pre-load room via REST on page open, fix video player delay + mac player issue
 - 7ee7051 fix(web): fix room crash — ROOM_JOINED members undefined + ROOM_UPDATED wrong payload
 - 45f6da2 fix(web): complete end-to-end audit — API paths, type mismatches, friends/stats/auth fixes
 - ca5acc8 fix(web): correct API proxy paths — /user/ → /users/, /rooms → /watch-party/rooms
 - 748c0d1 fix(web): disable Next.js fetch cache on google/init — each call must get unique state
-- 622ba85 fix(web+auth): Google OAuth popup flow — postMessage close + correct state param + CSP gtm
 
 ---
 
@@ -68,4 +68,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-14 21:53 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-14 22:05 автоматически через update-last-session.sh*
