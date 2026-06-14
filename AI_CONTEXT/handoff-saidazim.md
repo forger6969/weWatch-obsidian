@@ -1,14 +1,14 @@
 ---
 type: handoff
-updated: 2026-06-15 01:25
+updated: 2026-06-15 01:47
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-15 01:25
+**Завершена:** 2026-06-15 01:47
 
 ## Последний коммит
-ae8def2 feat(seo): FAQ page, 3 content guides, fix sitemap, remove fake rating, improve robots.txt
+762e2cf fix(shared): resolve TS2322 type mismatch in rateLimiter handler — dual @types/express conflict; seo(web): default locale ru for Google crawlers; seo(web): add guide smotret-vmeste-onlayn
 
 ## Незакоммиченных файлов
 428
@@ -17,11 +17,11 @@ ae8def2 feat(seo): FAQ page, 3 content guides, fix sitemap, remove fake rating, 
 
 
 ## Последние 5 коммитов
+- 762e2cf fix(shared): resolve TS2322 type mismatch in rateLimiter handler — dual @types/express conflict; seo(web): default locale ru for Google crawlers; seo(web): add guide smotret-vmeste-onlayn
+- 15cf5ba fix(web): remove duplicate FAQPage JSON-LD from global layout — was injected on every page causing Google Search Console error
 - ae8def2 feat(seo): FAQ page, 3 content guides, fix sitemap, remove fake rating, improve robots.txt
 - c1000f4 feat(sync): web heartbeat+drift correction, democratic pause; backend Redis rate-limit+voice rooms
 - 9a43f96 fix(web): pre-load room via REST on page open, fix video player delay + mac player issue
-- 7ee7051 fix(web): fix room crash — ROOM_JOINED members undefined + ROOM_UPDATED wrong payload
-- 45f6da2 fix(web): complete end-to-end audit — API paths, type mismatches, friends/stats/auth fixes
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
