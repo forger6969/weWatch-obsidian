@@ -1,20 +1,21 @@
 ---
 type: handoff
-updated: 2026-06-14 20:35
+updated: 2026-06-14 20:40
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-14 20:35
+**Завершена:** 2026-06-14 20:40
 
 ## Последний коммит
 723f589 chore: auto-save zone context [session-stop]
 
 ## Незакоммиченных файлов
-430
+431
 
 ## Изменённые файлы
   - package-lock.json
+  - services/auth/src/routes/auth.routes.ts
 
 ## Последние 5 коммитов
 - 723f589 chore: auto-save zone context [session-stop]
