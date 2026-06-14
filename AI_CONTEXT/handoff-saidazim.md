@@ -1,28 +1,27 @@
 ---
 type: handoff
-updated: 2026-06-14 21:10
+updated: 2026-06-14 21:34
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-14 21:10
+**Завершена:** 2026-06-14 21:34
 
 ## Последний коммит
-ca5acc8 fix(web): correct API proxy paths — /user/ → /users/, /rooms → /watch-party/rooms
+45f6da2 fix(web): complete end-to-end audit — API paths, type mismatches, friends/stats/auth fixes
 
 ## Незакоммиченных файлов
-431
+428
 
 ## Изменённые файлы
-  - apps/web/src/app/(auth)/login/LoginForm.tsx
-  - package-lock.json
+
 
 ## Последние 5 коммитов
+- 45f6da2 fix(web): complete end-to-end audit — API paths, type mismatches, friends/stats/auth fixes
 - ca5acc8 fix(web): correct API proxy paths — /user/ → /users/, /rooms → /watch-party/rooms
 - 748c0d1 fix(web): disable Next.js fetch cache on google/init — each call must get unique state
 - 622ba85 fix(web+auth): Google OAuth popup flow — postMessage close + correct state param + CSP gtm
 - 723f589 chore: auto-save zone context [session-stop]
-- 63eac01 fix(mobile): iOS VK/Rutube use embed WebView, remove wrong loading-clears-error effect
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
