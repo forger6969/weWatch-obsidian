@@ -1,11 +1,11 @@
 ---
 type: handoff
-updated: 2026-06-14 23:51
+updated: 2026-06-14 23:55
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-14 23:51
+**Завершена:** 2026-06-14 23:55
 
 ## Последний коммит
 c1000f4 feat(sync): web heartbeat+drift correction, democratic pause; backend Redis rate-limit+voice rooms
