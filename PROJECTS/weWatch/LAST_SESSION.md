@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-14 20:49
+updated: 2026-06-14 20:54
 developer: Saidazim
 ---
 
@@ -14,8 +14,8 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-14 20:49
-**Последний коммит:** `622ba85 fix(web+auth): Google OAuth popup flow — postMessage close + correct state param + CSP gtm`
+**Дата:** 2026-06-14 20:54
+**Последний коммит:** `748c0d1 fix(web): disable Next.js fetch cache on google/init — each call must get unique state`
 **Незакоммиченных файлов:** 430
 
 ---
@@ -40,11 +40,11 @@ developer: Saidazim
 
 ## Последние 5 коммитов
 
+- 748c0d1 fix(web): disable Next.js fetch cache on google/init — each call must get unique state
 - 622ba85 fix(web+auth): Google OAuth popup flow — postMessage close + correct state param + CSP gtm
 - 723f589 chore: auto-save zone context [session-stop]
 - 63eac01 fix(mobile): iOS VK/Rutube use embed WebView, remove wrong loading-clears-error effect
 - ecf28f7 fix(mobile): iOS clean video regression — remove Authorization header for direct CDN + handle transient expo-video error
-- 1901102 fix(web): complete i18n — replace all hardcoded text with useTranslations
 
 ---
 
@@ -68,4 +68,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-14 20:49 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-14 20:54 автоматически через update-last-session.sh*
