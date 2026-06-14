@@ -1,19 +1,21 @@
 ---
 type: handoff
-updated: 2026-06-14 20:41
+updated: 2026-06-14 20:43
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-14 20:41
+**Завершена:** 2026-06-14 20:43
 
 ## Последний коммит
 723f589 chore: auto-save zone context [session-stop]
 
 ## Незакоммиченных файлов
-431
+433
 
 ## Изменённые файлы
+  - apps/web/next.config.mjs
+  - apps/web/src/app/api/auth/google/init/route.ts
   - package-lock.json
   - services/auth/src/routes/auth.routes.ts
 
