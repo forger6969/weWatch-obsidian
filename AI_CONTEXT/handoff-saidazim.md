@@ -1,11 +1,11 @@
 ---
 type: handoff
-updated: 2026-06-14 23:38
+updated: 2026-06-14 23:41
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-14 23:38
+**Завершена:** 2026-06-14 23:41
 
 ## Последний коммит
 9a43f96 fix(web): pre-load room via REST on page open, fix video player delay + mac player issue
