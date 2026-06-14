@@ -1,19 +1,20 @@
 ---
 type: handoff
-updated: 2026-06-14 20:54
+updated: 2026-06-14 20:56
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-14 20:54
+**Завершена:** 2026-06-14 20:56
 
 ## Последний коммит
 748c0d1 fix(web): disable Next.js fetch cache on google/init — each call must get unique state
 
 ## Незакоммиченных файлов
-430
+431
 
 ## Изменённые файлы
+  - apps/web/src/app/(auth)/login/LoginForm.tsx
   - package-lock.json
 
 ## Последние 5 коммитов

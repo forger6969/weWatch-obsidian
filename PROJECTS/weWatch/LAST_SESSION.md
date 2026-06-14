@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-14 20:54
+updated: 2026-06-14 20:56
 developer: Saidazim
 ---
 
@@ -14,9 +14,9 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-14 20:54
+**Дата:** 2026-06-14 20:56
 **Последний коммит:** `748c0d1 fix(web): disable Next.js fetch cache on google/init — each call must get unique state`
-**Незакоммиченных файлов:** 430
+**Незакоммиченных файлов:** 431
 
 ---
 
@@ -34,6 +34,7 @@ developer: Saidazim
 
 ## Изменённые файлы
 
+  - apps/web/src/app/(auth)/login/LoginForm.tsx
   - package-lock.json
 
 ---
@@ -68,4 +69,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-14 20:54 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-14 20:56 автоматически через update-last-session.sh*
