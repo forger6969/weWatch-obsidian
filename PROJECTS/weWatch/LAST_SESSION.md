@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-14 23:41
+updated: 2026-06-14 23:51
 developer: Saidazim
 ---
 
@@ -14,8 +14,8 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-14 23:41
-**Последний коммит:** `9a43f96 fix(web): pre-load room via REST on page open, fix video player delay + mac player issue`
+**Дата:** 2026-06-14 23:51
+**Последний коммит:** `c1000f4 feat(sync): web heartbeat+drift correction, democratic pause; backend Redis rate-limit+voice rooms`
 **Незакоммиченных файлов:** 428
 
 ---
@@ -40,11 +40,11 @@ developer: Saidazim
 
 ## Последние 5 коммитов
 
+- c1000f4 feat(sync): web heartbeat+drift correction, democratic pause; backend Redis rate-limit+voice rooms
 - 9a43f96 fix(web): pre-load room via REST on page open, fix video player delay + mac player issue
 - 7ee7051 fix(web): fix room crash — ROOM_JOINED members undefined + ROOM_UPDATED wrong payload
 - 45f6da2 fix(web): complete end-to-end audit — API paths, type mismatches, friends/stats/auth fixes
 - ca5acc8 fix(web): correct API proxy paths — /user/ → /users/, /rooms → /watch-party/rooms
-- 748c0d1 fix(web): disable Next.js fetch cache on google/init — each call must get unique state
 
 ---
 
@@ -68,4 +68,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-14 23:41 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-14 23:51 автоматически через update-last-session.sh*
