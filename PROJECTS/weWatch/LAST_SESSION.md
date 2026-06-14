@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-14 20:56
+updated: 2026-06-14 21:10
 developer: Saidazim
 ---
 
@@ -14,8 +14,8 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-14 20:56
-**Последний коммит:** `748c0d1 fix(web): disable Next.js fetch cache on google/init — each call must get unique state`
+**Дата:** 2026-06-14 21:10
+**Последний коммит:** `ca5acc8 fix(web): correct API proxy paths — /user/ → /users/, /rooms → /watch-party/rooms`
 **Незакоммиченных файлов:** 431
 
 ---
@@ -41,11 +41,11 @@ developer: Saidazim
 
 ## Последние 5 коммитов
 
+- ca5acc8 fix(web): correct API proxy paths — /user/ → /users/, /rooms → /watch-party/rooms
 - 748c0d1 fix(web): disable Next.js fetch cache on google/init — each call must get unique state
 - 622ba85 fix(web+auth): Google OAuth popup flow — postMessage close + correct state param + CSP gtm
 - 723f589 chore: auto-save zone context [session-stop]
 - 63eac01 fix(mobile): iOS VK/Rutube use embed WebView, remove wrong loading-clears-error effect
-- ecf28f7 fix(mobile): iOS clean video regression — remove Authorization header for direct CDN + handle transient expo-video error
 
 ---
 
@@ -69,4 +69,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-14 20:56 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-14 21:10 автоматически через update-last-session.sh*
