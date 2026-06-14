@@ -1,7 +1,7 @@
 ---
 zone: Instagram
 type: context
-updated: 2026-06-13
+updated: 2026-06-14
 ---
 
 # Instagram Zone — Context
@@ -125,3 +125,5 @@ marketing/instagram/
 <!-- session ended: 2026-06-12 15:19 -->
 
 <!-- session ended: 2026-06-13 19:28 -->
+
+<!-- session ended: 2026-06-14 20:25 -->

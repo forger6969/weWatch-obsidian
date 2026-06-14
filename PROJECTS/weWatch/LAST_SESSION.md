@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-14 20:14
+updated: 2026-06-14 20:25
 developer: Saidazim
 ---
 
@@ -14,9 +14,9 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-14 20:14
+**Дата:** 2026-06-14 20:25
 **Последний коммит:** `723f589 chore: auto-save zone context [session-stop]`
-**Незакоммиченных файлов:** 429
+**Незакоммиченных файлов:** 430
 
 ---
 
@@ -34,7 +34,7 @@ developer: Saidazim
 
 ## Изменённые файлы
 
-
+  - package-lock.json
 
 ---
 
@@ -68,4 +68,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-14 20:14 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-14 20:25 автоматически через update-last-session.sh*
