@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-14 20:43
+updated: 2026-06-14 20:46
 developer: Saidazim
 ---
 
@@ -14,9 +14,9 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-14 20:43
+**Дата:** 2026-06-14 20:46
 **Последний коммит:** `723f589 chore: auto-save zone context [session-stop]`
-**Незакоммиченных файлов:** 433
+**Незакоммиченных файлов:** 435
 
 ---
 
@@ -35,7 +35,9 @@ developer: Saidazim
 ## Изменённые файлы
 
   - apps/web/next.config.mjs
+  - apps/web/src/app/(auth)/login/LoginForm.tsx
   - apps/web/src/app/api/auth/google/init/route.ts
+  - apps/web/src/lib/api/auth.api.ts
   - package-lock.json
   - services/auth/src/routes/auth.routes.ts
 
@@ -71,4 +73,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-14 20:43 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-14 20:46 автоматически через update-last-session.sh*
