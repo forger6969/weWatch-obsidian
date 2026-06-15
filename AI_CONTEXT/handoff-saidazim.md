@@ -1,27 +1,27 @@
 ---
 type: handoff
-updated: 2026-06-15 15:42
+updated: 2026-06-15 16:41
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-15 15:42
+**Завершена:** 2026-06-15 16:41
 
 ## Последний коммит
-6e1cfc5 fix(web): suppress macOS native player + show autoplay-blocked overlay
+af823b1 chore: exclude apps/mobile from railway upload context (was 3.1GB)
 
 ## Незакоммиченных файлов
-428
+429
 
 ## Изменённые файлы
 
 
 ## Последние 5 коммитов
-- 6e1cfc5 fix(web): suppress macOS native player + show autoplay-blocked overlay
-- eecabe3 feat(web): add Login button to LandingNav — desktop + mobile drawer → /login
-- 3270c3d debug(web): log rooms fetch error and resolved URL
-- 0781a14 fix(auth): add data-uri-to-buffer + fetch-blob + formdata-polyfill as explicit deps
-- 002bb4c debug(auth): improve google auth error logging to surface exact error message
+- af823b1 chore: exclude apps/mobile from railway upload context (was 3.1GB)
+- e55a6c2 fix(web): pass NEXT_PUBLIC_SOCKET_URL as Docker ARG so Next.js inlines it at build time
+- a7de6cc debug(web): extended env diagnostics in /api/config
+- c8c8cb8 debug(web): list env keys in /api/config for diagnostics
+- 585fe92 fix(web): use RAILWAY_SERVICE_WATCH_PART_URL for socket URL in /api/config
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
