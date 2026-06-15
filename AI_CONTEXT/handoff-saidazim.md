@@ -1,11 +1,11 @@
 ---
 type: handoff
-updated: 2026-06-15 13:45
+updated: 2026-06-15 13:48
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-15 13:45
+**Завершена:** 2026-06-15 13:48
 
 ## Последний коммит
 95fa992 feat(web): add FAQ accordion section to landing page
