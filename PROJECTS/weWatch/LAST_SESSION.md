@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-15 16:41
+updated: 2026-06-15 17:03
 developer: Saidazim
 ---
 
@@ -14,8 +14,8 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-15 16:41
-**Последний коммит:** `af823b1 chore: exclude apps/mobile from railway upload context (was 3.1GB)`
+**Дата:** 2026-06-15 17:03
+**Последний коммит:** `acc9274 fix(web): support vkvideo.ru domain in VK embed URL parser`
 **Незакоммиченных файлов:** 429
 
 ---
@@ -40,11 +40,11 @@ developer: Saidazim
 
 ## Последние 5 коммитов
 
+- acc9274 fix(web): support vkvideo.ru domain in VK embed URL parser
 - af823b1 chore: exclude apps/mobile from railway upload context (was 3.1GB)
 - e55a6c2 fix(web): pass NEXT_PUBLIC_SOCKET_URL as Docker ARG so Next.js inlines it at build time
 - a7de6cc debug(web): extended env diagnostics in /api/config
 - c8c8cb8 debug(web): list env keys in /api/config for diagnostics
-- 585fe92 fix(web): use RAILWAY_SERVICE_WATCH_PART_URL for socket URL in /api/config
 
 ---
 
@@ -68,4 +68,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-15 16:41 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-15 17:03 автоматически через update-last-session.sh*
