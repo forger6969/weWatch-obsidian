@@ -1,11 +1,11 @@
 ---
 type: handoff
-updated: 2026-06-15 14:46
+updated: 2026-06-15 14:48
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-15 14:46
+**Завершена:** 2026-06-15 14:48
 
 ## Последний коммит
 36e17b1 fix(auth): popup closes on google auth error + handle error in LoginForm
