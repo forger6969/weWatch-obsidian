@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-15 17:03
+updated: 2026-06-15 17:11
 developer: Saidazim
 ---
 
@@ -14,8 +14,8 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-15 17:03
-**Последний коммит:** `acc9274 fix(web): support vkvideo.ru domain in VK embed URL parser`
+**Дата:** 2026-06-15 17:11
+**Последний коммит:** `a35b6ce feat(web): extract VK/Rutube direct URL via backend yt-dlp instead of iframe`
 **Незакоммиченных файлов:** 429
 
 ---
@@ -40,11 +40,11 @@ developer: Saidazim
 
 ## Последние 5 коммитов
 
+- a35b6ce feat(web): extract VK/Rutube direct URL via backend yt-dlp instead of iframe
 - acc9274 fix(web): support vkvideo.ru domain in VK embed URL parser
 - af823b1 chore: exclude apps/mobile from railway upload context (was 3.1GB)
 - e55a6c2 fix(web): pass NEXT_PUBLIC_SOCKET_URL as Docker ARG so Next.js inlines it at build time
 - a7de6cc debug(web): extended env diagnostics in /api/config
-- c8c8cb8 debug(web): list env keys in /api/config for diagnostics
 
 ---
 
@@ -68,4 +68,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-15 17:03 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-15 17:11 автоматически через update-last-session.sh*
