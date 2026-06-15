@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-15 15:03
+updated: 2026-06-15 15:13
 developer: Saidazim
 ---
 
@@ -14,8 +14,8 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-15 15:03
-**Последний коммит:** `0781a14 fix(auth): add data-uri-to-buffer + fetch-blob + formdata-polyfill as explicit deps`
+**Дата:** 2026-06-15 15:13
+**Последний коммит:** `3270c3d debug(web): log rooms fetch error and resolved URL`
 **Незакоммиченных файлов:** 428
 
 ---
@@ -40,11 +40,11 @@ developer: Saidazim
 
 ## Последние 5 коммитов
 
+- 3270c3d debug(web): log rooms fetch error and resolved URL
 - 0781a14 fix(auth): add data-uri-to-buffer + fetch-blob + formdata-polyfill as explicit deps
 - 002bb4c debug(auth): improve google auth error logging to surface exact error message
 - 36e17b1 fix(auth): popup closes on google auth error + handle error in LoginForm
 - e6e97a2 feat(seo): 5 new guide pages + /about + sitemap update
-- 61abcf4 docs: mark T-C016/C017/C018/C019 as done — web app already implemented
 
 ---
 
@@ -68,4 +68,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-15 15:03 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-15 15:13 автоматически через update-last-session.sh*

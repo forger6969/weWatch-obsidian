@@ -1,14 +1,14 @@
 ---
 type: handoff
-updated: 2026-06-15 15:03
+updated: 2026-06-15 15:13
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-15 15:03
+**Завершена:** 2026-06-15 15:13
 
 ## Последний коммит
-0781a14 fix(auth): add data-uri-to-buffer + fetch-blob + formdata-polyfill as explicit deps
+3270c3d debug(web): log rooms fetch error and resolved URL
 
 ## Незакоммиченных файлов
 428
@@ -17,11 +17,11 @@ updated: 2026-06-15 15:03
 
 
 ## Последние 5 коммитов
+- 3270c3d debug(web): log rooms fetch error and resolved URL
 - 0781a14 fix(auth): add data-uri-to-buffer + fetch-blob + formdata-polyfill as explicit deps
 - 002bb4c debug(auth): improve google auth error logging to surface exact error message
 - 36e17b1 fix(auth): popup closes on google auth error + handle error in LoginForm
 - e6e97a2 feat(seo): 5 new guide pages + /about + sitemap update
-- 61abcf4 docs: mark T-C016/C017/C018/C019 as done — web app already implemented
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
