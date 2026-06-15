@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-15 14:41
+updated: 2026-06-15 14:46
 developer: Saidazim
 ---
 
@@ -14,8 +14,8 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-15 14:41
-**Последний коммит:** `e6e97a2 feat(seo): 5 new guide pages + /about + sitemap update`
+**Дата:** 2026-06-15 14:46
+**Последний коммит:** `36e17b1 fix(auth): popup closes on google auth error + handle error in LoginForm`
 **Незакоммиченных файлов:** 428
 
 ---
@@ -40,11 +40,11 @@ developer: Saidazim
 
 ## Последние 5 коммитов
 
+- 36e17b1 fix(auth): popup closes on google auth error + handle error in LoginForm
 - e6e97a2 feat(seo): 5 new guide pages + /about + sitemap update
 - 61abcf4 docs: mark T-C016/C017/C018/C019 as done — web app already implemented
 - 64a0584 fix(web): add smotret-vmeste-onlayn guide to sitemap
 - 95fa992 feat(web): add FAQ accordion section to landing page
-- 48c29a3 fix(deps): pin @types/express@4.17.21 in root devDeps — prevent @types/multer from hoisting express@5.x
 
 ---
 
@@ -68,4 +68,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-15 14:41 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-15 14:46 автоматически через update-last-session.sh*
