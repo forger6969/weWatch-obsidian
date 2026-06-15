@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-15 14:09
+updated: 2026-06-15 14:19
 developer: Saidazim
 ---
 
@@ -14,8 +14,8 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-15 14:09
-**Последний коммит:** `64a0584 fix(web): add smotret-vmeste-onlayn guide to sitemap`
+**Дата:** 2026-06-15 14:19
+**Последний коммит:** `e6e97a2 feat(seo): 5 new guide pages + /about + sitemap update`
 **Незакоммиченных файлов:** 428
 
 ---
@@ -40,11 +40,11 @@ developer: Saidazim
 
 ## Последние 5 коммитов
 
+- e6e97a2 feat(seo): 5 new guide pages + /about + sitemap update
+- 61abcf4 docs: mark T-C016/C017/C018/C019 as done — web app already implemented
 - 64a0584 fix(web): add smotret-vmeste-onlayn guide to sitemap
 - 95fa992 feat(web): add FAQ accordion section to landing page
 - 48c29a3 fix(deps): pin @types/express@4.17.21 in root devDeps — prevent @types/multer from hoisting express@5.x
-- 762e2cf fix(shared): resolve TS2322 type mismatch in rateLimiter handler — dual @types/express conflict; seo(web): default locale ru for Google crawlers; seo(web): add guide smotret-vmeste-onlayn
-- 15cf5ba fix(web): remove duplicate FAQPage JSON-LD from global layout — was injected on every page causing Google Search Console error
 
 ---
 
@@ -68,4 +68,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-15 14:09 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-15 14:19 автоматически через update-last-session.sh*
