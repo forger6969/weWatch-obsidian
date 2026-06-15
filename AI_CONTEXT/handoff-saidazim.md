@@ -1,27 +1,27 @@
 ---
 type: handoff
-updated: 2026-06-15 17:11
+updated: 2026-06-15 18:36
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-15 17:11
+**Завершена:** 2026-06-15 18:36
 
 ## Последний коммит
-a35b6ce feat(web): extract VK/Rutube direct URL via backend yt-dlp instead of iframe
+fe95e42 fix(web): proxy VK/Rutube stream through server to fix IP-locked CDN URLs + HLS.js support
 
 ## Незакоммиченных файлов
-429
+430
 
 ## Изменённые файлы
-
+  - package-lock.json
 
 ## Последние 5 коммитов
+- fe95e42 fix(web): proxy VK/Rutube stream through server to fix IP-locked CDN URLs + HLS.js support
 - a35b6ce feat(web): extract VK/Rutube direct URL via backend yt-dlp instead of iframe
 - acc9274 fix(web): support vkvideo.ru domain in VK embed URL parser
 - af823b1 chore: exclude apps/mobile from railway upload context (was 3.1GB)
 - e55a6c2 fix(web): pass NEXT_PUBLIC_SOCKET_URL as Docker ARG so Next.js inlines it at build time
-- a7de6cc debug(web): extended env diagnostics in /api/config
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
