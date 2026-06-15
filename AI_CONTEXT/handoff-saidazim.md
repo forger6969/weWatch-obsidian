@@ -1,14 +1,14 @@
 ---
 type: handoff
-updated: 2026-06-15 14:54
+updated: 2026-06-15 15:03
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-15 14:54
+**Завершена:** 2026-06-15 15:03
 
 ## Последний коммит
-002bb4c debug(auth): improve google auth error logging to surface exact error message
+0781a14 fix(auth): add data-uri-to-buffer + fetch-blob + formdata-polyfill as explicit deps
 
 ## Незакоммиченных файлов
 428
@@ -17,11 +17,11 @@ updated: 2026-06-15 14:54
 
 
 ## Последние 5 коммитов
+- 0781a14 fix(auth): add data-uri-to-buffer + fetch-blob + formdata-polyfill as explicit deps
 - 002bb4c debug(auth): improve google auth error logging to surface exact error message
 - 36e17b1 fix(auth): popup closes on google auth error + handle error in LoginForm
 - e6e97a2 feat(seo): 5 new guide pages + /about + sitemap update
 - 61abcf4 docs: mark T-C016/C017/C018/C019 as done — web app already implemented
-- 64a0584 fix(web): add smotret-vmeste-onlayn guide to sitemap
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
