@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-15 18:36
+updated: 2026-06-15 19:11
 developer: Saidazim
 ---
 
@@ -14,7 +14,7 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-15 18:36
+**Дата:** 2026-06-15 19:11
 **Последний коммит:** `fe95e42 fix(web): proxy VK/Rutube stream through server to fix IP-locked CDN URLs + HLS.js support`
 **Незакоммиченных файлов:** 430
 
@@ -68,4 +68,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-15 18:36 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-15 19:11 автоматически через update-last-session.sh*

@@ -1,11 +1,11 @@
 ---
 type: handoff
-updated: 2026-06-15 18:36
+updated: 2026-06-15 19:11
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-15 18:36
+**Завершена:** 2026-06-15 19:11
 
 ## Последний коммит
 fe95e42 fix(web): proxy VK/Rutube stream through server to fix IP-locked CDN URLs + HLS.js support
