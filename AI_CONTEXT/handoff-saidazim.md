@@ -1,14 +1,14 @@
 ---
 type: handoff
-updated: 2026-06-15 19:11
+updated: 2026-06-15 22:51
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-15 19:11
+**Завершена:** 2026-06-15 22:51
 
 ## Последний коммит
-fe95e42 fix(web): proxy VK/Rutube stream through server to fix IP-locked CDN URLs + HLS.js support
+d4f7c07 fix(web): suppress macOS native player via MediaSession + fix sync threshold + viewers-only-local-control
 
 ## Незакоммиченных файлов
 430
@@ -17,11 +17,11 @@ fe95e42 fix(web): proxy VK/Rutube stream through server to fix IP-locked CDN URL
   - package-lock.json
 
 ## Последние 5 коммитов
+- d4f7c07 fix(web): suppress macOS native player via MediaSession + fix sync threshold + viewers-only-local-control
 - fe95e42 fix(web): proxy VK/Rutube stream through server to fix IP-locked CDN URLs + HLS.js support
 - a35b6ce feat(web): extract VK/Rutube direct URL via backend yt-dlp instead of iframe
 - acc9274 fix(web): support vkvideo.ru domain in VK embed URL parser
 - af823b1 chore: exclude apps/mobile from railway upload context (was 3.1GB)
-- e55a6c2 fix(web): pass NEXT_PUBLIC_SOCKET_URL as Docker ARG so Next.js inlines it at build time
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]

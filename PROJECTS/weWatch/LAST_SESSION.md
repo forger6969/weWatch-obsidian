@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-15 19:11
+updated: 2026-06-15 22:51
 developer: Saidazim
 ---
 
@@ -14,8 +14,8 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-15 19:11
-**Последний коммит:** `fe95e42 fix(web): proxy VK/Rutube stream through server to fix IP-locked CDN URLs + HLS.js support`
+**Дата:** 2026-06-15 22:51
+**Последний коммит:** `d4f7c07 fix(web): suppress macOS native player via MediaSession + fix sync threshold + viewers-only-local-control`
 **Незакоммиченных файлов:** 430
 
 ---
@@ -40,11 +40,11 @@ developer: Saidazim
 
 ## Последние 5 коммитов
 
+- d4f7c07 fix(web): suppress macOS native player via MediaSession + fix sync threshold + viewers-only-local-control
 - fe95e42 fix(web): proxy VK/Rutube stream through server to fix IP-locked CDN URLs + HLS.js support
 - a35b6ce feat(web): extract VK/Rutube direct URL via backend yt-dlp instead of iframe
 - acc9274 fix(web): support vkvideo.ru domain in VK embed URL parser
 - af823b1 chore: exclude apps/mobile from railway upload context (was 3.1GB)
-- e55a6c2 fix(web): pass NEXT_PUBLIC_SOCKET_URL as Docker ARG so Next.js inlines it at build time
 
 ---
 
@@ -68,4 +68,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-15 19:11 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-15 22:51 автоматически через update-last-session.sh*
