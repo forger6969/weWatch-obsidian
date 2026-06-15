@@ -1,11 +1,11 @@
 ---
 type: handoff
-updated: 2026-06-15 15:25
+updated: 2026-06-15 15:28
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-15 15:25
+**Завершена:** 2026-06-15 15:28
 
 ## Последний коммит
 3270c3d debug(web): log rooms fetch error and resolved URL
