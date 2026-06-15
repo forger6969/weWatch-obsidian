@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-15 15:28
+updated: 2026-06-15 15:42
 developer: Saidazim
 ---
 
@@ -14,8 +14,8 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-15 15:28
-**Последний коммит:** `3270c3d debug(web): log rooms fetch error and resolved URL`
+**Дата:** 2026-06-15 15:42
+**Последний коммит:** `6e1cfc5 fix(web): suppress macOS native player + show autoplay-blocked overlay`
 **Незакоммиченных файлов:** 428
 
 ---
@@ -40,11 +40,11 @@ developer: Saidazim
 
 ## Последние 5 коммитов
 
+- 6e1cfc5 fix(web): suppress macOS native player + show autoplay-blocked overlay
+- eecabe3 feat(web): add Login button to LandingNav — desktop + mobile drawer → /login
 - 3270c3d debug(web): log rooms fetch error and resolved URL
 - 0781a14 fix(auth): add data-uri-to-buffer + fetch-blob + formdata-polyfill as explicit deps
 - 002bb4c debug(auth): improve google auth error logging to surface exact error message
-- 36e17b1 fix(auth): popup closes on google auth error + handle error in LoginForm
-- e6e97a2 feat(seo): 5 new guide pages + /about + sitemap update
 
 ---
 
@@ -68,4 +68,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-15 15:28 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-15 15:42 автоматически через update-last-session.sh*
