@@ -1,14 +1,14 @@
 ---
 type: handoff
-updated: 2026-06-15 13:40
+updated: 2026-06-15 13:45
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-15 13:40
+**Завершена:** 2026-06-15 13:45
 
 ## Последний коммит
-48c29a3 fix(deps): pin @types/express@4.17.21 in root devDeps — prevent @types/multer from hoisting express@5.x
+95fa992 feat(web): add FAQ accordion section to landing page
 
 ## Незакоммиченных файлов
 428
@@ -17,11 +17,11 @@ updated: 2026-06-15 13:40
 
 
 ## Последние 5 коммитов
+- 95fa992 feat(web): add FAQ accordion section to landing page
 - 48c29a3 fix(deps): pin @types/express@4.17.21 in root devDeps — prevent @types/multer from hoisting express@5.x
 - 762e2cf fix(shared): resolve TS2322 type mismatch in rateLimiter handler — dual @types/express conflict; seo(web): default locale ru for Google crawlers; seo(web): add guide smotret-vmeste-onlayn
 - 15cf5ba fix(web): remove duplicate FAQPage JSON-LD from global layout — was injected on every page causing Google Search Console error
 - ae8def2 feat(seo): FAQ page, 3 content guides, fix sitemap, remove fake rating, improve robots.txt
-- c1000f4 feat(sync): web heartbeat+drift correction, democratic pause; backend Redis rate-limit+voice rooms
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
