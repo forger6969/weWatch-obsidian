@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-16 11:02
+updated: 2026-06-16 11:15
 developer: Saidazim
 ---
 
@@ -14,8 +14,8 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-16 11:02
-**Последний коммит:** `56b34cb feat(web): replace native video controls with custom player UI`
+**Дата:** 2026-06-16 11:15
+**Последний коммит:** `7e995f9 fix(web): join room at owner's current position instead of from start`
 **Незакоммиченных файлов:** 430
 
 ---
@@ -40,11 +40,11 @@ developer: Saidazim
 
 ## Последние 5 коммитов
 
+- 7e995f9 fix(web): join room at owner's current position instead of from start
 - 56b34cb feat(web): replace native video controls with custom player UI
 - dde110f fix(web): use noop MediaSession handlers to suppress macOS Now Playing + add disablePictureInPicture
 - d4f7c07 fix(web): suppress macOS native player via MediaSession + fix sync threshold + viewers-only-local-control
 - fe95e42 fix(web): proxy VK/Rutube stream through server to fix IP-locked CDN URLs + HLS.js support
-- a35b6ce feat(web): extract VK/Rutube direct URL via backend yt-dlp instead of iframe
 
 ---
 
@@ -68,4 +68,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-16 11:02 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-16 11:15 автоматически через update-last-session.sh*
