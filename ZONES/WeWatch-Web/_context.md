@@ -44,3 +44,27 @@ updated: 2026-06-14
 <!-- session ended: 2026-06-12 20:40 -->
 
 <!-- session ended: 2026-06-14 15:48 -->
+
+## Сессия 2026-06-15/16 — VideoPlayer sync overhaul
+
+### Что сделано
+- **Custom video controls**: убрали `controls` атрибут → свой UI (Play/Pause, seek bar, volume, fullscreen)
+- **Mac OS native player**: подавление через `setActionHandler(action, noop)` (не null!) + `disablePictureInPicture` + `x-webkit-airplay: deny`
+- **Non-owner control**: кастомные controls показывают Play/Pause только owner-у; server блокирует PLAY/PAUSE от non-owner через `resolveIsOwner()`
+- **Join at owner position**: `hls.startPosition` в constructor config (не property — read-only в TypeScript) → HLS.js буферит с позиции owner-а
+- **Auto-resume bug FIX**: `isGenuineBufferRef` в NativeVideoPlayer + module-level `roomUserPaused` на сервере
+- **Web sync lag FIX**: heartbeat 1s вместо 2s, агрессивная коррекция 1.08x/1.15x/hard-seek
+
+### Ключевые паттерны
+- `startPosition` в `new Hls({ startPosition: N })` — единственный способ (TypeScript read-only)
+- `noop = () => {}` handler — пустой handler говорит OS "app handles media" → НЕ null (null = revert to defaults)
+- `isGenuineBufferRef` — только отправлять BUFFER_END если BUFFER_START был отправлен (video was playing)
+- `roomUserPaused` Map — module-level на сервере чтобы PAUSE event из любого socket-а видел флаг
+
+### Файлы изменены
+- `apps/web/src/components/party/VideoPlayer.tsx` — custom controls, startPosition, sync fixes
+- `services/watch-party/src/socket/videoEvents.handler.ts` — module-level bufferTimeouts + roomUserPaused
+- `apps/web/Dockerfile` — build-id bump для cache bust
+
+### Pending
+- Railway deploy после всех фиксов

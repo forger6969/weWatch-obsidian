@@ -1,14 +1,14 @@
 ---
 type: handoff
-updated: 2026-06-16 11:15
+updated: 2026-06-16 11:52
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-16 11:15
+**Завершена:** 2026-06-16 11:52
 
 ## Последний коммит
-7e995f9 fix(web): join room at owner's current position instead of from start
+ce73f7d fix(watch-party): auto-resume after pause + web sync lag
 
 ## Незакоммиченных файлов
 430
@@ -17,11 +17,11 @@ updated: 2026-06-16 11:15
   - package-lock.json
 
 ## Последние 5 коммитов
+- ce73f7d fix(watch-party): auto-resume after pause + web sync lag
 - 7e995f9 fix(web): join room at owner's current position instead of from start
 - 56b34cb feat(web): replace native video controls with custom player UI
 - dde110f fix(web): use noop MediaSession handlers to suppress macOS Now Playing + add disablePictureInPicture
 - d4f7c07 fix(web): suppress macOS native player via MediaSession + fix sync threshold + viewers-only-local-control
-- fe95e42 fix(web): proxy VK/Rutube stream through server to fix IP-locked CDN URLs + HLS.js support
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
