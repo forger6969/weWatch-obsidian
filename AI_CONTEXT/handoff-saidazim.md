@@ -1,14 +1,14 @@
 ---
 type: handoff
-updated: 2026-06-16 18:07
+updated: 2026-06-16 18:16
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-16 18:07
+**Завершена:** 2026-06-16 18:16
 
 ## Последний коммит
-754a561 feat(seo): Uzbek localization + noindex English slugs + sitemap/robots fix
+d0059da fix(web): owner rapid stop/play no longer causes viewer chaos
 
 ## Незакоммиченных файлов
 430
@@ -17,11 +17,11 @@ updated: 2026-06-16 18:07
 
 
 ## Последние 5 коммитов
+- d0059da fix(web): owner rapid stop/play no longer causes viewer chaos
 - 754a561 feat(seo): Uzbek localization + noindex English slugs + sitemap/robots fix
 - 968f3af fix(content): add VK_COOKIES_JSON support for yt-dlp VK extraction
 - 236dd46 fix(web): i18n — remove all hardcoded Uzbek/English text from UI
 - 46b13f6 fix(web): owner never sends BUFFER_END — prevents spurious resumeRoom on every canplay
-- 71a45cb fix(web): 3 home page issues — mobile header wrap, nav skeleton, rooms error state+retry
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
