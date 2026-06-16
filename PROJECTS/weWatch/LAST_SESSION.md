@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-16 13:15
+updated: 2026-06-16 14:01
 developer: Saidazim
 ---
 
@@ -14,8 +14,8 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-16 13:15
-**Последний коммит:** `2ff95a3 fix(web): keep HLS.js loading during democratic pause to break 30s buffer loop`
+**Дата:** 2026-06-16 14:01
+**Последний коммит:** `7f6813f fix(web): always send BUFFER_END on canplay — restore original behavior`
 **Незакоммиченных файлов:** 430
 
 ---
@@ -40,11 +40,11 @@ developer: Saidazim
 
 ## Последние 5 коммитов
 
+- 7f6813f fix(web): always send BUFFER_END on canplay — restore original behavior
 - 2ff95a3 fix(web): keep HLS.js loading during democratic pause to break 30s buffer loop
 - ab31114 fix(watch-party): remove roomUserPaused, add ownerExplicitlyPausedRef on web
 - ce73f7d fix(watch-party): auto-resume after pause + web sync lag
 - 7e995f9 fix(web): join room at owner's current position instead of from start
-- 56b34cb feat(web): replace native video controls with custom player UI
 
 ---
 
@@ -68,4 +68,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-16 13:15 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-16 14:01 автоматически через update-last-session.sh*

@@ -1,14 +1,14 @@
 ---
 type: handoff
-updated: 2026-06-16 13:15
+updated: 2026-06-16 14:01
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-16 13:15
+**Завершена:** 2026-06-16 14:01
 
 ## Последний коммит
-2ff95a3 fix(web): keep HLS.js loading during democratic pause to break 30s buffer loop
+7f6813f fix(web): always send BUFFER_END on canplay — restore original behavior
 
 ## Незакоммиченных файлов
 430
@@ -17,11 +17,11 @@ updated: 2026-06-16 13:15
   - package-lock.json
 
 ## Последние 5 коммитов
+- 7f6813f fix(web): always send BUFFER_END on canplay — restore original behavior
 - 2ff95a3 fix(web): keep HLS.js loading during democratic pause to break 30s buffer loop
 - ab31114 fix(watch-party): remove roomUserPaused, add ownerExplicitlyPausedRef on web
 - ce73f7d fix(watch-party): auto-resume after pause + web sync lag
 - 7e995f9 fix(web): join room at owner's current position instead of from start
-- 56b34cb feat(web): replace native video controls with custom player UI
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
