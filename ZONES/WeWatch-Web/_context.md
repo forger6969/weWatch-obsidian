@@ -68,3 +68,17 @@ updated: 2026-06-14
 
 ### Pending
 - Railway deploy после всех фиксов
+
+---
+## 2026-06-16 — Фикс регрессии "видео не приходит"
+
+**Баг:** После деплоя ce73f7d у пользователя перестало приходить видео. currentTime=0 во всех PLAY/PAUSE событиях.
+
+**Корень:** `roomUserPaused` флаг на сервере застревал в `true`. Когда sync-effect вызывал `video.pause()` и 200ms `isRemoteAction` окно истекало ДО того как `onPause` event был доставлен, `handlePause` отправлял PAUSE socket event → `roomUserPaused=true` → `resumeRoom` блокировался навсегда → VIDEO_PLAY никогда не приходил.
+
+**Фикс (ab31114):**
+- Сервер: убран `roomUserPaused` Map полностью + `clearAllBuffering` из PAUSE handler (остался только `cancelTimeout`)
+- Web: добавлен `ownerExplicitlyPausedRef` в VideoPlayer — устанавливается ТОЛЬКО в `handlePlay`/`handlePause` при `!isRemoteAction`, checked в sync effect
+- Mobile: уже защищён через `intendedPlayingRef` + `ownerInitialSyncedRef`
+
+**Деплой:** web build-id="20260616-2", watch-part задеплоен
