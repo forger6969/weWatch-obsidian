@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-16 12:37
+updated: 2026-06-16 13:15
 developer: Saidazim
 ---
 
@@ -14,8 +14,8 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-16 12:37
-**Последний коммит:** `ab31114 fix(watch-party): remove roomUserPaused, add ownerExplicitlyPausedRef on web`
+**Дата:** 2026-06-16 13:15
+**Последний коммит:** `2ff95a3 fix(web): keep HLS.js loading during democratic pause to break 30s buffer loop`
 **Незакоммиченных файлов:** 430
 
 ---
@@ -40,11 +40,11 @@ developer: Saidazim
 
 ## Последние 5 коммитов
 
+- 2ff95a3 fix(web): keep HLS.js loading during democratic pause to break 30s buffer loop
 - ab31114 fix(watch-party): remove roomUserPaused, add ownerExplicitlyPausedRef on web
 - ce73f7d fix(watch-party): auto-resume after pause + web sync lag
 - 7e995f9 fix(web): join room at owner's current position instead of from start
 - 56b34cb feat(web): replace native video controls with custom player UI
-- dde110f fix(web): use noop MediaSession handlers to suppress macOS Now Playing + add disablePictureInPicture
 
 ---
 
@@ -68,4 +68,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-16 12:37 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-16 13:15 автоматически через update-last-session.sh*
