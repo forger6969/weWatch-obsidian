@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-16 18:25
+updated: 2026-06-16 18:27
 developer: Saidazim
 ---
 
@@ -14,8 +14,8 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-16 18:25
-**Последний коммит:** `d0059da fix(web): owner rapid stop/play no longer causes viewer chaos`
+**Дата:** 2026-06-16 18:27
+**Последний коммит:** `103848f fix(web): owner rapid stop/play no longer causes viewer chaos`
 **Незакоммиченных файлов:** 430
 
 ---
@@ -40,11 +40,11 @@ developer: Saidazim
 
 ## Последние 5 коммитов
 
-- d0059da fix(web): owner rapid stop/play no longer causes viewer chaos
+- 103848f fix(web): owner rapid stop/play no longer causes viewer chaos
+- b6daad8 feat(web): source picker dialog — platform grid in CreateRoomDialog
 - 754a561 feat(seo): Uzbek localization + noindex English slugs + sitemap/robots fix
 - 968f3af fix(content): add VK_COOKIES_JSON support for yt-dlp VK extraction
 - 236dd46 fix(web): i18n — remove all hardcoded Uzbek/English text from UI
-- 46b13f6 fix(web): owner never sends BUFFER_END — prevents spurious resumeRoom on every canplay
 
 ---
 
@@ -68,4 +68,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-16 18:25 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-16 18:27 автоматически через update-last-session.sh*
