@@ -1,14 +1,14 @@
 ---
 type: handoff
-updated: 2026-06-17 00:13
+updated: 2026-06-17 00:17
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-17 00:13
+**Завершена:** 2026-06-17 00:17
 
 ## Последний коммит
-996c85d test(load): v2 realistic VK video stress test + configurable auth rate limit
+d200fb7 perf(watch-party): async MongoDB writes in hot sync path — cut p99 latency
 
 ## Незакоммиченных файлов
 449
@@ -17,11 +17,11 @@ updated: 2026-06-17 00:13
   - tests/load-test/stress-test.mjs
 
 ## Последние 5 коммитов
+- d200fb7 perf(watch-party): async MongoDB writes in hot sync path — cut p99 latency
 - 996c85d test(load): v2 realistic VK video stress test + configurable auth rate limit
 - 5f416b1 fix(watch-party): make WS connection rate limit configurable via env
 - 43911c3 test(load): add stress test script + configurable rate limits via env
 - 48925f0 feat(web): redesign source picker — clipboard detect, popup open, bigger icons
-- 103848f fix(web): owner rapid stop/play no longer causes viewer chaos
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
