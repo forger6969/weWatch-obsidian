@@ -1,11 +1,11 @@
 ---
 type: handoff
-updated: 2026-06-16 14:28
+updated: 2026-06-16 14:34
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-16 14:28
+**Завершена:** 2026-06-16 14:34
 
 ## Последний коммит
 086b712 fix(web): owner never triggers democratic buffer pause
