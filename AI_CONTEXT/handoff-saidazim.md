@@ -1,27 +1,27 @@
 ---
 type: handoff
-updated: 2026-06-16 23:15
+updated: 2026-06-16 23:46
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-16 23:15
+**Завершена:** 2026-06-16 23:46
 
 ## Последний коммит
-103848f fix(web): owner rapid stop/play no longer causes viewer chaos
+996c85d test(load): v2 realistic VK video stress test + configurable auth rate limit
 
 ## Незакоммиченных файлов
-431
+442
 
 ## Изменённые файлы
 
 
 ## Последние 5 коммитов
+- 996c85d test(load): v2 realistic VK video stress test + configurable auth rate limit
+- 5f416b1 fix(watch-party): make WS connection rate limit configurable via env
+- 43911c3 test(load): add stress test script + configurable rate limits via env
+- 48925f0 feat(web): redesign source picker — clipboard detect, popup open, bigger icons
 - 103848f fix(web): owner rapid stop/play no longer causes viewer chaos
-- b6daad8 feat(web): source picker dialog — platform grid in CreateRoomDialog
-- 754a561 feat(seo): Uzbek localization + noindex English slugs + sitemap/robots fix
-- 968f3af fix(content): add VK_COOKIES_JSON support for yt-dlp VK extraction
-- 236dd46 fix(web): i18n — remove all hardcoded Uzbek/English text from UI
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
