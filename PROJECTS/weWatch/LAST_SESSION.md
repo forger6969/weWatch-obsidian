@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-16 14:01
+updated: 2026-06-16 14:28
 developer: Saidazim
 ---
 
@@ -14,9 +14,9 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-16 14:01
-**Последний коммит:** `7f6813f fix(web): always send BUFFER_END on canplay — restore original behavior`
-**Незакоммиченных файлов:** 430
+**Дата:** 2026-06-16 14:28
+**Последний коммит:** `086b712 fix(web): owner never triggers democratic buffer pause`
+**Незакоммиченных файлов:** 429
 
 ---
 
@@ -34,17 +34,17 @@ developer: Saidazim
 
 ## Изменённые файлы
 
-  - package-lock.json
+
 
 ---
 
 ## Последние 5 коммитов
 
+- 086b712 fix(web): owner never triggers democratic buffer pause
+- 9492d2a chore(web): add sharp devDependency for icon generation
+- a38e844 feat(web): replace CineSync favicon/icons with WeWatch W logo — transparent bg, all sizes + manifest theme fix
 - 7f6813f fix(web): always send BUFFER_END on canplay — restore original behavior
 - 2ff95a3 fix(web): keep HLS.js loading during democratic pause to break 30s buffer loop
-- ab31114 fix(watch-party): remove roomUserPaused, add ownerExplicitlyPausedRef on web
-- ce73f7d fix(watch-party): auto-resume after pause + web sync lag
-- 7e995f9 fix(web): join room at owner's current position instead of from start
 
 ---
 
@@ -68,4 +68,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-16 14:01 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-16 14:28 автоматически через update-last-session.sh*
