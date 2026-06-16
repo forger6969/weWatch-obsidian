@@ -1,7 +1,7 @@
 ---
 zone: WeWatch-Backend
 type: context
-updated: 2026-06-15
+updated: 2026-06-16
 ---
 
 # WeWatch-Backend Zone — Context
@@ -161,3 +161,5 @@ logger.info('msg', { userId });  // НЕ console.log
 <!-- session ended: 2026-06-14 20:33 -->
 
 <!-- session ended: 2026-06-15 13:56 -->
+
+<!-- session ended: 2026-06-16 16:52 -->
