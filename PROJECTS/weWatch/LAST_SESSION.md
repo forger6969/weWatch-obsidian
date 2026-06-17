@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-17 19:28
+updated: 2026-06-17 19:29
 developer: Saidazim
 ---
 
@@ -14,8 +14,8 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-17 19:28
-**Последний коммит:** `ee0e62f feat(web): admin restrictions — ban screen, maintenance banner, kick/error socket handlers`
+**Дата:** 2026-06-17 19:29
+**Последний коммит:** `977d8dc fix(admin): remove maintenanceGuard from admin service — admin must always be accessible`
 **Незакоммиченных файлов:** 449
 
 ---
@@ -40,11 +40,11 @@ developer: Saidazim
 
 ## Последние 5 коммитов
 
+- 977d8dc fix(admin): remove maintenanceGuard from admin service — admin must always be accessible
 - ee0e62f feat(web): admin restrictions — ban screen, maintenance banner, kick/error socket handlers
 - 60dc6f9 fix(sync): 4 sync bug fixes — resumeRoom, inflight key, heartbeat, pre-warm
 - ed7373e feat(video): universal URL support — any source via content extraction
 - 7b9f19d perf(web): pre-fetch VK extraction on URL input + faster HLS startup
-- f269751 perf(content,watch-party): eliminate VK video cold-start delay
 
 ---
 
@@ -68,4 +68,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-17 19:28 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-17 19:29 автоматически через update-last-session.sh*
