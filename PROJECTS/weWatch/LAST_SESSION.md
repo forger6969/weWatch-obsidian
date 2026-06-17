@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-17 20:44
+updated: 2026-06-17 22:02
 developer: Saidazim
 ---
 
@@ -14,8 +14,8 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-17 20:44
-**Последний коммит:** `8b6a4fe fix(auth): bypass maintenanceGuard for login/refresh — admins must be able to sign in during maintenance`
+**Дата:** 2026-06-17 22:02
+**Последний коммит:** `e9f7e78 task: add T-E139–T-E146 — web missing features audit for Emirhan`
 **Незакоммиченных файлов:** 449
 
 ---
@@ -40,11 +40,11 @@ developer: Saidazim
 
 ## Последние 5 коммитов
 
+- e9f7e78 task: add T-E139–T-E146 — web missing features audit for Emirhan
 - 8b6a4fe fix(auth): bypass maintenanceGuard for login/refresh — admins must be able to sign in during maintenance
 - 977d8dc fix(admin): remove maintenanceGuard from admin service — admin must always be accessible
 - ee0e62f feat(web): admin restrictions — ban screen, maintenance banner, kick/error socket handlers
 - 60dc6f9 fix(sync): 4 sync bug fixes — resumeRoom, inflight key, heartbeat, pre-warm
-- ed7373e feat(video): universal URL support — any source via content extraction
 
 ---
 
@@ -68,4 +68,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-17 20:44 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-17 22:02 автоматически через update-last-session.sh*

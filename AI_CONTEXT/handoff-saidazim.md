@@ -1,14 +1,14 @@
 ---
 type: handoff
-updated: 2026-06-17 20:44
+updated: 2026-06-17 22:02
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-17 20:44
+**Завершена:** 2026-06-17 22:02
 
 ## Последний коммит
-8b6a4fe fix(auth): bypass maintenanceGuard for login/refresh — admins must be able to sign in during maintenance
+e9f7e78 task: add T-E139–T-E146 — web missing features audit for Emirhan
 
 ## Незакоммиченных файлов
 449
@@ -17,11 +17,11 @@ updated: 2026-06-17 20:44
   - tests/load-test/stress-test.mjs
 
 ## Последние 5 коммитов
+- e9f7e78 task: add T-E139–T-E146 — web missing features audit for Emirhan
 - 8b6a4fe fix(auth): bypass maintenanceGuard for login/refresh — admins must be able to sign in during maintenance
 - 977d8dc fix(admin): remove maintenanceGuard from admin service — admin must always be accessible
 - ee0e62f feat(web): admin restrictions — ban screen, maintenance banner, kick/error socket handlers
 - 60dc6f9 fix(sync): 4 sync bug fixes — resumeRoom, inflight key, heartbeat, pre-warm
-- ed7373e feat(video): universal URL support — any source via content extraction
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
