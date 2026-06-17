@@ -1,11 +1,11 @@
 ---
 type: handoff
-updated: 2026-06-17 19:45
+updated: 2026-06-17 19:48
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-17 19:45
+**Завершена:** 2026-06-17 19:48
 
 ## Последний коммит
 8b6a4fe fix(auth): bypass maintenanceGuard for login/refresh — admins must be able to sign in during maintenance
