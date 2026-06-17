@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-18 00:55
+updated: 2026-06-18 00:56
 developer: Saidazim
 ---
 
@@ -14,9 +14,9 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-18 00:55
+**Дата:** 2026-06-18 00:56
 **Последний коммит:** `aee91a9 feat(mobile): wire Sentry user tracking in auth store`
-**Незакоммиченных файлов:** 449
+**Незакоммиченных файлов:** 454
 
 ---
 
@@ -34,6 +34,11 @@ developer: Saidazim
 
 ## Изменённые файлы
 
+  - apps/mobile/.gitignore
+  - apps/mobile/App.tsx
+  - apps/mobile/app.json
+  - apps/mobile/metro.config.js
+  - package-lock.json
   - tests/load-test/stress-test.mjs
 
 ---
@@ -68,4 +73,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-18 00:55 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-18 00:56 автоматически через update-last-session.sh*

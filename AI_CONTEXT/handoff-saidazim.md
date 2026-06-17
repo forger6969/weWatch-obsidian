@@ -1,19 +1,24 @@
 ---
 type: handoff
-updated: 2026-06-18 00:55
+updated: 2026-06-18 00:56
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-18 00:55
+**Завершена:** 2026-06-18 00:56
 
 ## Последний коммит
 aee91a9 feat(mobile): wire Sentry user tracking in auth store
 
 ## Незакоммиченных файлов
-449
+454
 
 ## Изменённые файлы
+  - apps/mobile/.gitignore
+  - apps/mobile/App.tsx
+  - apps/mobile/app.json
+  - apps/mobile/metro.config.js
+  - package-lock.json
   - tests/load-test/stress-test.mjs
 
 ## Последние 5 коммитов
