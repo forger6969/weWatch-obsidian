@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-17 16:19
+updated: 2026-06-17 18:09
 developer: Saidazim
 ---
 
@@ -14,8 +14,8 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-17 16:19
-**Последний коммит:** `ed7373e feat(video): universal URL support — any source via content extraction`
+**Дата:** 2026-06-17 18:09
+**Последний коммит:** `60dc6f9 fix(sync): 4 sync bug fixes — resumeRoom, inflight key, heartbeat, pre-warm`
 **Незакоммиченных файлов:** 449
 
 ---
@@ -40,11 +40,11 @@ developer: Saidazim
 
 ## Последние 5 коммитов
 
+- 60dc6f9 fix(sync): 4 sync bug fixes — resumeRoom, inflight key, heartbeat, pre-warm
 - ed7373e feat(video): universal URL support — any source via content extraction
 - 7b9f19d perf(web): pre-fetch VK extraction on URL input + faster HLS startup
 - f269751 perf(content,watch-party): eliminate VK video cold-start delay
 - 365e5ae fix(watch-party): add vk and rutube to Mongoose videoPlatform enum
-- 0d0eff3 fix(web): show real API error messages instead of swallowing them silently
 
 ---
 
@@ -68,4 +68,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-17 16:19 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-17 18:09 автоматически через update-last-session.sh*
