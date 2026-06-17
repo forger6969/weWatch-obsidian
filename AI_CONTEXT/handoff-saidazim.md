@@ -1,11 +1,11 @@
 ---
 type: handoff
-updated: 2026-06-18 00:53
+updated: 2026-06-18 00:55
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-18 00:53
+**Завершена:** 2026-06-18 00:55
 
 ## Последний коммит
 aee91a9 feat(mobile): wire Sentry user tracking in auth store
