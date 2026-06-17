@@ -1,14 +1,14 @@
 ---
 type: handoff
-updated: 2026-06-17 14:48
+updated: 2026-06-17 15:00
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-17 14:48
+**Завершена:** 2026-06-17 15:00
 
 ## Последний коммит
-0d0eff3 fix(web): show real API error messages instead of swallowing them silently
+365e5ae fix(watch-party): add vk and rutube to Mongoose videoPlatform enum
 
 ## Незакоммиченных файлов
 449
@@ -17,11 +17,11 @@ updated: 2026-06-17 14:48
   - tests/load-test/stress-test.mjs
 
 ## Последние 5 коммитов
+- 365e5ae fix(watch-party): add vk and rutube to Mongoose videoPlatform enum
 - 0d0eff3 fix(web): show real API error messages instead of swallowing them silently
 - d33147b fix(watch-party): add vk and rutube to VideoPlatform type and validator
 - d200fb7 perf(watch-party): async MongoDB writes in hot sync path — cut p99 latency
 - 996c85d test(load): v2 realistic VK video stress test + configurable auth rate limit
-- 5f416b1 fix(watch-party): make WS connection rate limit configurable via env
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
