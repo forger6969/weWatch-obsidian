@@ -1,11 +1,11 @@
 ---
 type: handoff
-updated: 2026-06-17 19:36
+updated: 2026-06-17 19:38
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-17 19:36
+**Завершена:** 2026-06-17 19:38
 
 ## Последний коммит
 977d8dc fix(admin): remove maintenanceGuard from admin service — admin must always be accessible
