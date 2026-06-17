@@ -1,11 +1,11 @@
 ---
 type: handoff
-updated: 2026-06-17 18:09
+updated: 2026-06-17 19:23
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-17 18:09
+**Завершена:** 2026-06-17 19:23
 
 ## Последний коммит
 60dc6f9 fix(sync): 4 sync bug fixes — resumeRoom, inflight key, heartbeat, pre-warm
