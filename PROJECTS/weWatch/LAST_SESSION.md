@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-17 15:27
+updated: 2026-06-17 15:48
 developer: Saidazim
 ---
 
@@ -14,8 +14,8 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-17 15:27
-**Последний коммит:** `365e5ae fix(watch-party): add vk and rutube to Mongoose videoPlatform enum`
+**Дата:** 2026-06-17 15:48
+**Последний коммит:** `f269751 perf(content,watch-party): eliminate VK video cold-start delay`
 **Незакоммиченных файлов:** 449
 
 ---
@@ -40,11 +40,11 @@ developer: Saidazim
 
 ## Последние 5 коммитов
 
+- f269751 perf(content,watch-party): eliminate VK video cold-start delay
 - 365e5ae fix(watch-party): add vk and rutube to Mongoose videoPlatform enum
 - 0d0eff3 fix(web): show real API error messages instead of swallowing them silently
 - d33147b fix(watch-party): add vk and rutube to VideoPlatform type and validator
 - d200fb7 perf(watch-party): async MongoDB writes in hot sync path — cut p99 latency
-- 996c85d test(load): v2 realistic VK video stress test + configurable auth rate limit
 
 ---
 
@@ -68,4 +68,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-17 15:27 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-17 15:48 автоматически через update-last-session.sh*
