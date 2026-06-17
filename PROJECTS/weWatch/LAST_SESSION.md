@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-17 19:38
+updated: 2026-06-17 19:45
 developer: Saidazim
 ---
 
@@ -14,8 +14,8 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-17 19:38
-**Последний коммит:** `977d8dc fix(admin): remove maintenanceGuard from admin service — admin must always be accessible`
+**Дата:** 2026-06-17 19:45
+**Последний коммит:** `8b6a4fe fix(auth): bypass maintenanceGuard for login/refresh — admins must be able to sign in during maintenance`
 **Незакоммиченных файлов:** 449
 
 ---
@@ -40,11 +40,11 @@ developer: Saidazim
 
 ## Последние 5 коммитов
 
+- 8b6a4fe fix(auth): bypass maintenanceGuard for login/refresh — admins must be able to sign in during maintenance
 - 977d8dc fix(admin): remove maintenanceGuard from admin service — admin must always be accessible
 - ee0e62f feat(web): admin restrictions — ban screen, maintenance banner, kick/error socket handlers
 - 60dc6f9 fix(sync): 4 sync bug fixes — resumeRoom, inflight key, heartbeat, pre-warm
 - ed7373e feat(video): universal URL support — any source via content extraction
-- 7b9f19d perf(web): pre-fetch VK extraction on URL input + faster HLS startup
 
 ---
 
@@ -68,4 +68,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-17 19:38 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-17 19:45 автоматически через update-last-session.sh*
