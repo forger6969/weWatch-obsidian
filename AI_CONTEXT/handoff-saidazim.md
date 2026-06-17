@@ -1,32 +1,29 @@
 ---
 type: handoff
-updated: 2026-06-18 00:56
+updated: 2026-06-18 00:59
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-18 00:56
+**Завершена:** 2026-06-18 00:59
 
 ## Последний коммит
-aee91a9 feat(mobile): wire Sentry user tracking in auth store
+d6725d4 feat(mobile): Sentry wizard integration — Session Replay, Feedback, Logs
 
 ## Незакоммиченных файлов
-454
+451
 
 ## Изменённые файлы
   - apps/mobile/.gitignore
-  - apps/mobile/App.tsx
-  - apps/mobile/app.json
-  - apps/mobile/metro.config.js
   - package-lock.json
   - tests/load-test/stress-test.mjs
 
 ## Последние 5 коммитов
+- d6725d4 feat(mobile): Sentry wizard integration — Session Replay, Feedback, Logs
 - aee91a9 feat(mobile): wire Sentry user tracking in auth store
 - af7143b feat(admin): add web platform support in error tracker + T-S107 mobile Sentry task
 - c57980c task: add T-E147 (Sentry web) + T-S106 (web errors in admin) — Sentry integration tasks
 - e9f7e78 task: add T-E139–T-E146 — web missing features audit for Emirhan
-- 8b6a4fe fix(auth): bypass maintenanceGuard for login/refresh — admins must be able to sign in during maintenance
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
