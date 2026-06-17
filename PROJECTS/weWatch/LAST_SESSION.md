@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-17 19:59
+updated: 2026-06-17 20:41
 developer: Saidazim
 ---
 
@@ -14,7 +14,7 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-17 19:59
+**Дата:** 2026-06-17 20:41
 **Последний коммит:** `8b6a4fe fix(auth): bypass maintenanceGuard for login/refresh — admins must be able to sign in during maintenance`
 **Незакоммиченных файлов:** 449
 
@@ -68,4 +68,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-17 19:59 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-17 20:41 автоматически через update-last-session.sh*
