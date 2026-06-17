@@ -1,11 +1,11 @@
 ---
 type: handoff
-updated: 2026-06-17 16:11
+updated: 2026-06-17 16:13
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-17 16:11
+**Завершена:** 2026-06-17 16:13
 
 ## Последний коммит
 7b9f19d perf(web): pre-fetch VK extraction on URL input + faster HLS startup
