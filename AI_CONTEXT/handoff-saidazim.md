@@ -1,14 +1,14 @@
 ---
 type: handoff
-updated: 2026-06-17 19:23
+updated: 2026-06-17 19:28
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-17 19:23
+**Завершена:** 2026-06-17 19:28
 
 ## Последний коммит
-60dc6f9 fix(sync): 4 sync bug fixes — resumeRoom, inflight key, heartbeat, pre-warm
+ee0e62f feat(web): admin restrictions — ban screen, maintenance banner, kick/error socket handlers
 
 ## Незакоммиченных файлов
 449
@@ -17,11 +17,11 @@ updated: 2026-06-17 19:23
   - tests/load-test/stress-test.mjs
 
 ## Последние 5 коммитов
+- ee0e62f feat(web): admin restrictions — ban screen, maintenance banner, kick/error socket handlers
 - 60dc6f9 fix(sync): 4 sync bug fixes — resumeRoom, inflight key, heartbeat, pre-warm
 - ed7373e feat(video): universal URL support — any source via content extraction
 - 7b9f19d perf(web): pre-fetch VK extraction on URL input + faster HLS startup
 - f269751 perf(content,watch-party): eliminate VK video cold-start delay
-- 365e5ae fix(watch-party): add vk and rutube to Mongoose videoPlatform enum
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
