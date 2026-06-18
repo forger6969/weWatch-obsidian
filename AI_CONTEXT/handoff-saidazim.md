@@ -1,14 +1,14 @@
 ---
 type: handoff
-updated: 2026-06-18 14:01
+updated: 2026-06-18 15:10
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-18 14:01
+**Завершена:** 2026-06-18 15:10
 
 ## Последний коммит
-df5fd97 fix(content): page.evaluate string — fix TS2584 document not found in build tsconfig
+b459fdc fix(mobile): setSupportMultipleWindows=false — prevent Google search links opening Chrome
 
 ## Незакоммиченных файлов
 449
@@ -17,11 +17,11 @@ df5fd97 fix(content): page.evaluate string — fix TS2584 document not found in 
   - tests/load-test/stress-test.mjs
 
 ## Последние 5 коммитов
+- b459fdc fix(mobile): setSupportMultipleWindows=false — prevent Google search links opening Chrome
 - df5fd97 fix(content): page.evaluate string — fix TS2584 document not found in build tsconfig
 - 1555629 feat(web): messages UI — match mobile design (bubbles, avatars, colors)
 - fa65f0d fix(content): Rutube direct API extractor — bypass yt-dlp geo-block
 - ed04563 feat(web): sidebar — Notifications/Settings/Support nested under Profile section
-- 1ad201f fix(web): close Google auth popup immediately on postMessage + Settings i18n
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]

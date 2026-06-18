@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-18 14:01
+updated: 2026-06-18 15:10
 developer: Saidazim
 ---
 
@@ -14,8 +14,8 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-18 14:01
-**Последний коммит:** `df5fd97 fix(content): page.evaluate string — fix TS2584 document not found in build tsconfig`
+**Дата:** 2026-06-18 15:10
+**Последний коммит:** `b459fdc fix(mobile): setSupportMultipleWindows=false — prevent Google search links opening Chrome`
 **Незакоммиченных файлов:** 449
 
 ---
@@ -40,11 +40,11 @@ developer: Saidazim
 
 ## Последние 5 коммитов
 
+- b459fdc fix(mobile): setSupportMultipleWindows=false — prevent Google search links opening Chrome
 - df5fd97 fix(content): page.evaluate string — fix TS2584 document not found in build tsconfig
 - 1555629 feat(web): messages UI — match mobile design (bubbles, avatars, colors)
 - fa65f0d fix(content): Rutube direct API extractor — bypass yt-dlp geo-block
 - ed04563 feat(web): sidebar — Notifications/Settings/Support nested under Profile section
-- 1ad201f fix(web): close Google auth popup immediately on postMessage + Settings i18n
 
 ---
 
@@ -68,4 +68,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-18 14:01 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-18 15:10 автоматически через update-last-session.sh*
