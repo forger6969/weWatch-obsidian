@@ -1,11 +1,11 @@
 ---
 type: handoff
-updated: 2026-06-18 18:10
+updated: 2026-06-18 19:00
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-18 18:10
+**Завершена:** 2026-06-18 19:00
 
 ## Последний коммит
 237453a fix(admin): support routes — add /conversations suffix for GET + POST messages alias
