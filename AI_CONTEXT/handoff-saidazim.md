@@ -1,14 +1,14 @@
 ---
 type: handoff
-updated: 2026-06-18 13:39
+updated: 2026-06-18 13:56
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-18 13:39
+**Завершена:** 2026-06-18 13:56
 
 ## Последний коммит
-e878691 fix(content): uzmovi.net detection + Playwright play trigger + remove skip-on-concurrency
+fa65f0d fix(content): Rutube direct API extractor — bypass yt-dlp geo-block
 
 ## Незакоммиченных файлов
 449
@@ -17,11 +17,11 @@ e878691 fix(content): uzmovi.net detection + Playwright play trigger + remove sk
   - tests/load-test/stress-test.mjs
 
 ## Последние 5 коммитов
+- fa65f0d fix(content): Rutube direct API extractor — bypass yt-dlp geo-block
+- ed04563 feat(web): sidebar — Notifications/Settings/Support nested under Profile section
+- 1ad201f fix(web): close Google auth popup immediately on postMessage + Settings i18n
 - e878691 fix(content): uzmovi.net detection + Playwright play trigger + remove skip-on-concurrency
 - ed37fbe chore: T-E139..T-E147 done — Tasks → Done.md archive
-- 9a6d651 feat(web): T-E143+T-E144+T-E145+T-E146 recent rooms, playlist, invite push, watch progress
-- c337ad1 feat(web): T-E147 Sentry @sentry/nextjs integration + global error boundary
-- c03f2ec feat(web): T-E142 support chat page /support
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
