@@ -1,14 +1,14 @@
 ---
 type: handoff
-updated: 2026-06-18 15:13
+updated: 2026-06-18 15:47
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-18 15:13
+**Завершена:** 2026-06-18 15:47
 
 ## Последний коммит
-b459fdc fix(mobile): setSupportMultipleWindows=false — prevent Google search links opening Chrome
+22b18ca fix(web): Rutube iframe embed — bypass Railway geo-block for Rutube API
 
 ## Незакоммиченных файлов
 449
@@ -17,11 +17,11 @@ b459fdc fix(mobile): setSupportMultipleWindows=false — prevent Google search l
   - tests/load-test/stress-test.mjs
 
 ## Последние 5 коммитов
+- 22b18ca fix(web): Rutube iframe embed — bypass Railway geo-block for Rutube API
 - b459fdc fix(mobile): setSupportMultipleWindows=false — prevent Google search links opening Chrome
 - df5fd97 fix(content): page.evaluate string — fix TS2584 document not found in build tsconfig
 - 1555629 feat(web): messages UI — match mobile design (bubbles, avatars, colors)
 - fa65f0d fix(content): Rutube direct API extractor — bypass yt-dlp geo-block
-- ed04563 feat(web): sidebar — Notifications/Settings/Support nested under Profile section
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
