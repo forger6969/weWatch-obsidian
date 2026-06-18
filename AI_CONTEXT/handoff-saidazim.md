@@ -1,11 +1,11 @@
 ---
 type: handoff
-updated: 2026-06-18 13:31
+updated: 2026-06-18 13:32
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-18 13:31
+**Завершена:** 2026-06-18 13:32
 
 ## Последний коммит
 e878691 fix(content): uzmovi.net detection + Playwright play trigger + remove skip-on-concurrency
