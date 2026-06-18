@@ -1,11 +1,11 @@
 ---
 type: handoff
-updated: 2026-06-18 15:10
+updated: 2026-06-18 15:13
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-18 15:10
+**Завершена:** 2026-06-18 15:13
 
 ## Последний коммит
 b459fdc fix(mobile): setSupportMultipleWindows=false — prevent Google search links opening Chrome
