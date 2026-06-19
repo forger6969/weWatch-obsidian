@@ -1,11 +1,11 @@
 ---
 type: handoff
-updated: 2026-06-19 16:46
+updated: 2026-06-19 16:49
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-19 16:46
+**Завершена:** 2026-06-19 16:49
 
 ## Последний коммит
 2dc5004 fix(web): one logo only — hide nav icon on desktop, deduplicate settings/logout

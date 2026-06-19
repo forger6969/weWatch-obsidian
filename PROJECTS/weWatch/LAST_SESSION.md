@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-19 16:46
+updated: 2026-06-19 16:49
 developer: Saidazim
 ---
 
@@ -14,7 +14,7 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-19 16:46
+**Дата:** 2026-06-19 16:49
 **Последний коммит:** `2dc5004 fix(web): one logo only — hide nav icon on desktop, deduplicate settings/logout`
 **Незакоммиченных файлов:** 450
 
@@ -68,4 +68,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-19 16:46 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-19 16:49 автоматически через update-last-session.sh*
