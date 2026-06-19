@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-19 15:34
+updated: 2026-06-19 15:37
 developer: Saidazim
 ---
 
@@ -14,8 +14,8 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-19 15:34
-**Последний коммит:** `c5c7981 feat(web): replace logos with new Figma SVG assets`
+**Дата:** 2026-06-19 15:37
+**Последний коммит:** `528a566 fix(web): dashboard design polish — glass cards + consistent styles`
 **Незакоммиченных файлов:** 450
 
 ---
@@ -40,11 +40,11 @@ developer: Saidazim
 
 ## Последние 5 коммитов
 
+- 528a566 fix(web): dashboard design polish — glass cards + consistent styles
+- 500f6d6 fix(web): replace hardcoded strings with i18n keys in dashboard
 - c5c7981 feat(web): replace logos with new Figma SVG assets
 - 41d7a2d chore(web): bump build-id to force Railway rebuild without Docker cache
 - a328021 fix(content): genericExtractor — parse data-player-src for AsilMedia and similar CIS sites
-- f9b439d fix(admin): support routes — add /conversations suffix for GET + POST messages alias
-- 08e5259 fix(web): Rutube iframe embed — bypass Railway geo-block for Rutube API
 
 ---
 
@@ -68,4 +68,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-19 15:34 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-19 15:37 автоматически через update-last-session.sh*
