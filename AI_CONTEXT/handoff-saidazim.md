@@ -1,27 +1,27 @@
 ---
 type: handoff
-updated: 2026-06-18 19:00
+updated: 2026-06-19 14:41
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-18 19:00
+**Завершена:** 2026-06-19 14:41
 
 ## Последний коммит
-237453a fix(admin): support routes — add /conversations suffix for GET + POST messages alias
+a328021 fix(content): genericExtractor — parse data-player-src for AsilMedia and similar CIS sites
 
 ## Незакоммиченных файлов
-449
+450
 
 ## Изменённые файлы
   - tests/load-test/stress-test.mjs
 
 ## Последние 5 коммитов
-- 237453a fix(admin): support routes — add /conversations suffix for GET + POST messages alias
-- 22b18ca fix(web): Rutube iframe embed — bypass Railway geo-block for Rutube API
-- b459fdc fix(mobile): setSupportMultipleWindows=false — prevent Google search links opening Chrome
-- df5fd97 fix(content): page.evaluate string — fix TS2584 document not found in build tsconfig
-- 1555629 feat(web): messages UI — match mobile design (bubbles, avatars, colors)
+- a328021 fix(content): genericExtractor — parse data-player-src for AsilMedia and similar CIS sites
+- f9b439d fix(admin): support routes — add /conversations suffix for GET + POST messages alias
+- 08e5259 fix(web): Rutube iframe embed — bypass Railway geo-block for Rutube API
+- e8b8c2c fix(mobile): setSupportMultipleWindows=false — prevent Google search links opening Chrome
+- 8145003 fix(web): Google auth — loading screen + aggressive popup close
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
