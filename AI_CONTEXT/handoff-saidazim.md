@@ -1,11 +1,11 @@
 ---
 type: handoff
-updated: 2026-06-19 14:41
+updated: 2026-06-19 15:02
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-19 14:41
+**Завершена:** 2026-06-19 15:02
 
 ## Последний коммит
 a328021 fix(content): genericExtractor — parse data-player-src for AsilMedia and similar CIS sites
