@@ -1,11 +1,11 @@
 ---
 type: handoff
-updated: 2026-06-19 19:26
+updated: 2026-06-19 19:28
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-19 19:26
+**Завершена:** 2026-06-19 19:28
 
 ## Последний коммит
 85a16ef feat(web): move WeWatch logo to nav header, remove from sidebar top
