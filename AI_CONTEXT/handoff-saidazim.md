@@ -1,11 +1,11 @@
 ---
 type: handoff
-updated: 2026-06-19 21:54
+updated: 2026-06-19 22:00
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-19 21:54
+**Завершена:** 2026-06-19 22:00
 
 ## Последний коммит
 f9787b7 feat(web): support chat — Socket.io real-time instead of 4s polling
