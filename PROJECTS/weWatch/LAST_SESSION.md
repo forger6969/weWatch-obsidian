@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-19 16:33
+updated: 2026-06-19 16:46
 developer: Saidazim
 ---
 
@@ -14,8 +14,8 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-19 16:33
-**Последний коммит:** `8ad5641 feat(web): production design — solid bg, sidebar brand+user footer, greeting, profile banner`
+**Дата:** 2026-06-19 16:46
+**Последний коммит:** `2dc5004 fix(web): one logo only — hide nav icon on desktop, deduplicate settings/logout`
 **Незакоммиченных файлов:** 450
 
 ---
@@ -40,11 +40,11 @@ developer: Saidazim
 
 ## Последние 5 коммитов
 
+- 2dc5004 fix(web): one logo only — hide nav icon on desktop, deduplicate settings/logout
 - 8ad5641 feat(web): production design — solid bg, sidebar brand+user footer, greeting, profile banner
 - 7526262 fix(web): support chat — senderRole instead of isFromUser, score field for rating, polling every 4s
 - 08c80dc fix(web): remove W MENU brand row from desktop sidebar
 - 7929fa9 feat(web): total dashboard redesign — sections, depth, brand
-- 5350ec8 feat(web): dashboard visual redesign — professional depth, not AI-slop
 
 ---
 
@@ -68,4 +68,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-19 16:33 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-19 16:46 автоматически через update-last-session.sh*
