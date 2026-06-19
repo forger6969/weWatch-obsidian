@@ -1,14 +1,14 @@
 ---
 type: handoff
-updated: 2026-06-19 15:11
+updated: 2026-06-19 15:14
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-19 15:11
+**Завершена:** 2026-06-19 15:14
 
 ## Последний коммит
-a328021 fix(content): genericExtractor — parse data-player-src for AsilMedia and similar CIS sites
+41d7a2d chore(web): bump build-id to force Railway rebuild without Docker cache
 
 ## Незакоммиченных файлов
 450
@@ -17,11 +17,11 @@ a328021 fix(content): genericExtractor — parse data-player-src for AsilMedia a
   - tests/load-test/stress-test.mjs
 
 ## Последние 5 коммитов
+- 41d7a2d chore(web): bump build-id to force Railway rebuild without Docker cache
 - a328021 fix(content): genericExtractor — parse data-player-src for AsilMedia and similar CIS sites
 - f9b439d fix(admin): support routes — add /conversations suffix for GET + POST messages alias
 - 08e5259 fix(web): Rutube iframe embed — bypass Railway geo-block for Rutube API
 - e8b8c2c fix(mobile): setSupportMultipleWindows=false — prevent Google search links opening Chrome
-- 8145003 fix(web): Google auth — loading screen + aggressive popup close
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
