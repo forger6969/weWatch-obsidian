@@ -1,11 +1,11 @@
 ---
 type: handoff
-updated: 2026-06-19 16:26
+updated: 2026-06-19 16:30
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-19 16:26
+**Завершена:** 2026-06-19 16:30
 
 ## Последний коммит
 7526262 fix(web): support chat — senderRole instead of isFromUser, score field for rating, polling every 4s
