@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-19 19:28
+updated: 2026-06-19 19:36
 developer: Saidazim
 ---
 
@@ -14,8 +14,8 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-19 19:28
-**Последний коммит:** `85a16ef feat(web): move WeWatch logo to nav header, remove from sidebar top`
+**Дата:** 2026-06-19 19:36
+**Последний коммит:** `f9787b7 feat(web): support chat — Socket.io real-time instead of 4s polling`
 **Незакоммиченных файлов:** 451
 
 ---
@@ -40,11 +40,11 @@ developer: Saidazim
 
 ## Последние 5 коммитов
 
+- f9787b7 feat(web): support chat — Socket.io real-time instead of 4s polling
 - 85a16ef feat(web): move WeWatch logo to nav header, remove from sidebar top
 - 2dc5004 fix(web): one logo only — hide nav icon on desktop, deduplicate settings/logout
 - 8ad5641 feat(web): production design — solid bg, sidebar brand+user footer, greeting, profile banner
 - 7526262 fix(web): support chat — senderRole instead of isFromUser, score field for rating, polling every 4s
-- 08c80dc fix(web): remove W MENU brand row from desktop sidebar
 
 ---
 
@@ -68,4 +68,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-19 19:28 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-19 19:36 автоматически через update-last-session.sh*
