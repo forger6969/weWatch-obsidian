@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-19 15:38
+updated: 2026-06-19 15:49
 developer: Saidazim
 ---
 
@@ -14,8 +14,8 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-19 15:38
-**Последний коммит:** `528a566 fix(web): dashboard design polish — glass cards + consistent styles`
+**Дата:** 2026-06-19 15:49
+**Последний коммит:** `5350ec8 feat(web): dashboard visual redesign — professional depth, not AI-slop`
 **Незакоммиченных файлов:** 450
 
 ---
@@ -40,11 +40,11 @@ developer: Saidazim
 
 ## Последние 5 коммитов
 
+- 5350ec8 feat(web): dashboard visual redesign — professional depth, not AI-slop
 - 528a566 fix(web): dashboard design polish — glass cards + consistent styles
 - 500f6d6 fix(web): replace hardcoded strings with i18n keys in dashboard
 - c5c7981 feat(web): replace logos with new Figma SVG assets
 - 41d7a2d chore(web): bump build-id to force Railway rebuild without Docker cache
-- a328021 fix(content): genericExtractor — parse data-player-src for AsilMedia and similar CIS sites
 
 ---
 
@@ -68,4 +68,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-19 15:38 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-19 15:49 автоматически через update-last-session.sh*
