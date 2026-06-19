@@ -1,14 +1,14 @@
 ---
 type: handoff
-updated: 2026-06-19 16:21
+updated: 2026-06-19 16:24
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-19 16:21
+**Завершена:** 2026-06-19 16:24
 
 ## Последний коммит
-08c80dc fix(web): remove W MENU brand row from desktop sidebar
+7526262 fix(web): support chat — senderRole instead of isFromUser, score field for rating, polling every 4s
 
 ## Незакоммиченных файлов
 450
@@ -17,11 +17,11 @@ updated: 2026-06-19 16:21
   - tests/load-test/stress-test.mjs
 
 ## Последние 5 коммитов
+- 7526262 fix(web): support chat — senderRole instead of isFromUser, score field for rating, polling every 4s
 - 08c80dc fix(web): remove W MENU brand row from desktop sidebar
 - 7929fa9 feat(web): total dashboard redesign — sections, depth, brand
 - 5350ec8 feat(web): dashboard visual redesign — professional depth, not AI-slop
 - 528a566 fix(web): dashboard design polish — glass cards + consistent styles
-- 500f6d6 fix(web): replace hardcoded strings with i18n keys in dashboard
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]

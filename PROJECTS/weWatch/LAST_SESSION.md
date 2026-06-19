@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-19 16:21
+updated: 2026-06-19 16:24
 developer: Saidazim
 ---
 
@@ -14,8 +14,8 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-19 16:21
-**Последний коммит:** `08c80dc fix(web): remove W MENU brand row from desktop sidebar`
+**Дата:** 2026-06-19 16:24
+**Последний коммит:** `7526262 fix(web): support chat — senderRole instead of isFromUser, score field for rating, polling every 4s`
 **Незакоммиченных файлов:** 450
 
 ---
@@ -40,11 +40,11 @@ developer: Saidazim
 
 ## Последние 5 коммитов
 
+- 7526262 fix(web): support chat — senderRole instead of isFromUser, score field for rating, polling every 4s
 - 08c80dc fix(web): remove W MENU brand row from desktop sidebar
 - 7929fa9 feat(web): total dashboard redesign — sections, depth, brand
 - 5350ec8 feat(web): dashboard visual redesign — professional depth, not AI-slop
 - 528a566 fix(web): dashboard design polish — glass cards + consistent styles
-- 500f6d6 fix(web): replace hardcoded strings with i18n keys in dashboard
 
 ---
 
@@ -68,4 +68,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-19 16:21 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-19 16:24 автоматически через update-last-session.sh*
