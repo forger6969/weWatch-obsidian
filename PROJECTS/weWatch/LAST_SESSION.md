@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-20 15:06
+updated: 2026-06-20 15:09
 developer: Saidazim
 ---
 
@@ -14,7 +14,7 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-20 15:06
+**Дата:** 2026-06-20 15:09
 **Последний коммит:** `ae1d8a1 fix(mobile): use backend extraction for VK/Rutube instead of CDN sniffing`
 **Незакоммиченных файлов:** 452
 
@@ -69,4 +69,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-20 15:06 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-20 15:09 автоматически через update-last-session.sh*
