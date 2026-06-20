@@ -1,11 +1,11 @@
 ---
 type: handoff
-updated: 2026-06-20 15:05
+updated: 2026-06-20 15:06
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-20 15:05
+**Завершена:** 2026-06-20 15:06
 
 ## Последний коммит
 ae1d8a1 fix(mobile): use backend extraction for VK/Rutube instead of CDN sniffing
