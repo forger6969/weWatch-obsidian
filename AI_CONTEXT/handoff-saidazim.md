@@ -1,14 +1,14 @@
 ---
 type: handoff
-updated: 2026-06-20 23:27
+updated: 2026-06-20 23:34
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-20 23:27
+**Завершена:** 2026-06-20 23:34
 
 ## Последний коммит
-9ade736 feat(web/glass): Profile + Notifications glass redesign
+1c3e8dd fix(web/glass): violet-tinted borders, stronger gradient — removes harsh white borders
 
 ## Незакоммиченных файлов
 454
@@ -20,11 +20,11 @@ updated: 2026-06-20 23:27
   - tests/load-test/stress-test.mjs
 
 ## Последние 5 коммитов
+- 1c3e8dd fix(web/glass): violet-tinted borders, stronger gradient — removes harsh white borders
 - 9ade736 feat(web/glass): Profile + Notifications glass redesign
 - 81bf473 feat(web/glass): Settings + Messages glass redesign
 - 2c08499 feat(web/glass): Home + Friends pages full glass redesign
 - fc0a326 fix(web/glass): inline background gradient — fixes invisible gradient behind solid dark div
-- ab1c30d fix(web): force-dynamic root layout — prevent Next.js/CDN from caching HTML pages after deploy
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
