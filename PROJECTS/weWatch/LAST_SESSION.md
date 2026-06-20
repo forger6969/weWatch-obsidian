@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-20 11:50
+updated: 2026-06-20 13:32
 developer: Saidazim
 ---
 
@@ -14,7 +14,7 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-20 11:50
+**Дата:** 2026-06-20 13:32
 **Последний коммит:** `a334c3e feat(web): room thumbnail+title from oEmbed, improved video player controls`
 **Незакоммиченных файлов:** 451
 
@@ -68,4 +68,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-20 11:50 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-20 13:32 автоматически через update-last-session.sh*

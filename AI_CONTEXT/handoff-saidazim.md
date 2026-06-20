@@ -1,11 +1,11 @@
 ---
 type: handoff
-updated: 2026-06-20 11:50
+updated: 2026-06-20 13:32
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-20 11:50
+**Завершена:** 2026-06-20 13:32
 
 ## Последний коммит
 a334c3e feat(web): room thumbnail+title from oEmbed, improved video player controls
