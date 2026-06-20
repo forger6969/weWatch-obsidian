@@ -1,11 +1,11 @@
 ---
 type: handoff
-updated: 2026-06-20 23:18
+updated: 2026-06-20 23:25
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-20 23:18
+**Завершена:** 2026-06-20 23:25
 
 ## Последний коммит
 9ade736 feat(web/glass): Profile + Notifications glass redesign
