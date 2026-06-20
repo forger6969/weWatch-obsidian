@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-20 21:57
+updated: 2026-06-20 23:10
 developer: Saidazim
 ---
 
@@ -14,8 +14,8 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-20 21:57
-**Последний коммит:** `ab1c30d fix(web): force-dynamic root layout — prevent Next.js/CDN from caching HTML pages after deploy`
+**Дата:** 2026-06-20 23:10
+**Последний коммит:** `fc0a326 fix(web/glass): inline background gradient — fixes invisible gradient behind solid dark div`
 **Незакоммиченных файлов:** 454
 
 ---
@@ -43,11 +43,11 @@ developer: Saidazim
 
 ## Последние 5 коммитов
 
+- fc0a326 fix(web/glass): inline background gradient — fixes invisible gradient behind solid dark div
 - ab1c30d fix(web): force-dynamic root layout — prevent Next.js/CDN from caching HTML pages after deploy
 - e5343ae fix(web): disable CDN page caching — s-maxage=31536000 was causing stale HTML after deploy
 - 8b4a228 feat(web/glass): iOS 26 Liquid Glass — specular highlights, gradient borders, 32% violet ambient
 - 6f6ff8a fix(web/glass): stronger background gradient + more opaque glass surfaces — glass effect now visible
-- 1f12c06 feat(web/glass): pages glass — auth card, profile card, notifications, settings, dialogs
 
 ---
 
@@ -71,4 +71,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-20 21:57 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-20 23:10 автоматически через update-last-session.sh*

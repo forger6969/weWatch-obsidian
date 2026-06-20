@@ -1,14 +1,14 @@
 ---
 type: handoff
-updated: 2026-06-20 21:57
+updated: 2026-06-20 23:10
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-20 21:57
+**Завершена:** 2026-06-20 23:10
 
 ## Последний коммит
-ab1c30d fix(web): force-dynamic root layout — prevent Next.js/CDN from caching HTML pages after deploy
+fc0a326 fix(web/glass): inline background gradient — fixes invisible gradient behind solid dark div
 
 ## Незакоммиченных файлов
 454
@@ -20,11 +20,11 @@ ab1c30d fix(web): force-dynamic root layout — prevent Next.js/CDN from caching
   - tests/load-test/stress-test.mjs
 
 ## Последние 5 коммитов
+- fc0a326 fix(web/glass): inline background gradient — fixes invisible gradient behind solid dark div
 - ab1c30d fix(web): force-dynamic root layout — prevent Next.js/CDN from caching HTML pages after deploy
 - e5343ae fix(web): disable CDN page caching — s-maxage=31536000 was causing stale HTML after deploy
 - 8b4a228 feat(web/glass): iOS 26 Liquid Glass — specular highlights, gradient borders, 32% violet ambient
 - 6f6ff8a fix(web/glass): stronger background gradient + more opaque glass surfaces — glass effect now visible
-- 1f12c06 feat(web/glass): pages glass — auth card, profile card, notifications, settings, dialogs
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
