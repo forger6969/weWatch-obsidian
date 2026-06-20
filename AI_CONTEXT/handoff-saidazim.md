@@ -1,14 +1,14 @@
 ---
 type: handoff
-updated: 2026-06-20 21:38
+updated: 2026-06-20 21:57
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-20 21:38
+**Завершена:** 2026-06-20 21:57
 
 ## Последний коммит
-8b4a228 feat(web/glass): iOS 26 Liquid Glass — specular highlights, gradient borders, 32% violet ambient
+ab1c30d fix(web): force-dynamic root layout — prevent Next.js/CDN from caching HTML pages after deploy
 
 ## Незакоммиченных файлов
 454
@@ -20,11 +20,11 @@ updated: 2026-06-20 21:38
   - tests/load-test/stress-test.mjs
 
 ## Последние 5 коммитов
+- ab1c30d fix(web): force-dynamic root layout — prevent Next.js/CDN from caching HTML pages after deploy
+- e5343ae fix(web): disable CDN page caching — s-maxage=31536000 was causing stale HTML after deploy
 - 8b4a228 feat(web/glass): iOS 26 Liquid Glass — specular highlights, gradient borders, 32% violet ambient
 - 6f6ff8a fix(web/glass): stronger background gradient + more opaque glass surfaces — glass effect now visible
 - 1f12c06 feat(web/glass): pages glass — auth card, profile card, notifications, settings, dialogs
-- 2748392 feat(web/glass): room interior glass — translucent sidebar, glass inputs, glass dialogs
-- 6f702ef feat(web/glass): foundation — glass .card/.glass utilities, glass nav/sidebar backdrop-blur
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
