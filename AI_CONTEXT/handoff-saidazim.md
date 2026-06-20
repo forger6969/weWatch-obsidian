@@ -1,21 +1,22 @@
 ---
 type: handoff
-updated: 2026-06-20 23:11
+updated: 2026-06-20 23:16
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-20 23:11
+**Завершена:** 2026-06-20 23:16
 
 ## Последний коммит
 fc0a326 fix(web/glass): inline background gradient — fixes invisible gradient behind solid dark div
 
 ## Незакоммиченных файлов
-454
+455
 
 ## Изменённые файлы
   - .claude/agents/blogy-agent.md
   - apps/web/package.json
+  - apps/web/src/app/(app)/home/HomeContent.tsx
   - package-lock.json
   - tests/load-test/stress-test.mjs
 

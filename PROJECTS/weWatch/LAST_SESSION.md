@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-20 23:11
+updated: 2026-06-20 23:16
 developer: Saidazim
 ---
 
@@ -14,9 +14,9 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-20 23:11
+**Дата:** 2026-06-20 23:16
 **Последний коммит:** `fc0a326 fix(web/glass): inline background gradient — fixes invisible gradient behind solid dark div`
-**Незакоммиченных файлов:** 454
+**Незакоммиченных файлов:** 455
 
 ---
 
@@ -36,6 +36,7 @@ developer: Saidazim
 
   - .claude/agents/blogy-agent.md
   - apps/web/package.json
+  - apps/web/src/app/(app)/home/HomeContent.tsx
   - package-lock.json
   - tests/load-test/stress-test.mjs
 
@@ -71,4 +72,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-20 23:11 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-20 23:16 автоматически через update-last-session.sh*
