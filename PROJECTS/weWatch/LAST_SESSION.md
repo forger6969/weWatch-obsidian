@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-20 23:17
+updated: 2026-06-20 23:18
 developer: Saidazim
 ---
 
@@ -14,9 +14,9 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-20 23:17
-**Последний коммит:** `81bf473 feat(web/glass): Settings + Messages glass redesign`
-**Незакоммиченных файлов:** 457
+**Дата:** 2026-06-20 23:18
+**Последний коммит:** `9ade736 feat(web/glass): Profile + Notifications glass redesign`
+**Незакоммиченных файлов:** 454
 
 ---
 
@@ -36,9 +36,6 @@ developer: Saidazim
 
   - .claude/agents/blogy-agent.md
   - apps/web/package.json
-  - apps/web/src/app/(app)/profile/ProfileContent.tsx
-  - apps/web/src/components/profile/ProfileCard.tsx
-  - apps/web/src/components/profile/StatsGrid.tsx
   - package-lock.json
   - tests/load-test/stress-test.mjs
 
@@ -46,11 +43,11 @@ developer: Saidazim
 
 ## Последние 5 коммитов
 
+- 9ade736 feat(web/glass): Profile + Notifications glass redesign
 - 81bf473 feat(web/glass): Settings + Messages glass redesign
 - 2c08499 feat(web/glass): Home + Friends pages full glass redesign
 - fc0a326 fix(web/glass): inline background gradient — fixes invisible gradient behind solid dark div
 - ab1c30d fix(web): force-dynamic root layout — prevent Next.js/CDN from caching HTML pages after deploy
-- e5343ae fix(web): disable CDN page caching — s-maxage=31536000 was causing stale HTML after deploy
 
 ---
 
@@ -74,4 +71,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-20 23:17 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-20 23:18 автоматически через update-last-session.sh*
