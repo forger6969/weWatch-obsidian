@@ -1,14 +1,14 @@
 ---
 type: handoff
-updated: 2026-06-20 16:46
+updated: 2026-06-20 16:56
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-20 16:46
+**Завершена:** 2026-06-20 16:56
 
 ## Последний коммит
-d2c4e7d feat(web/room): Twitch-style inline chat, clean section headers — remove AI-sloppy decorative elements
+653ea1d feat(web): add violet accents — active nav, logo, stats, auth card, profile banner
 
 ## Незакоммиченных файлов
 452
@@ -18,11 +18,11 @@ d2c4e7d feat(web/room): Twitch-style inline chat, clean section headers — remo
   - tests/load-test/stress-test.mjs
 
 ## Последние 5 коммитов
+- 653ea1d feat(web): add violet accents — active nav, logo, stats, auth card, profile banner
 - d2c4e7d feat(web/room): Twitch-style inline chat, clean section headers — remove AI-sloppy decorative elements
 - 7b28d0b feat(web/pages): profile/friends/notifications redesign — remove fake banner, flat notif list, consistent typography
 - 1db7b8a feat(web/auth): professional auth redesign — clean Vercel-style, remove blur orb + AI hex colors
 - 7fbf4de feat(web/chrome): professional nav/sidebar redesign + clean support page
-- 4fd69ef chore: auto-save zone context [session-stop]
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
