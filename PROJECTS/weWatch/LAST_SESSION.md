@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-20 16:56
+updated: 2026-06-20 21:05
 developer: Saidazim
 ---
 
@@ -14,9 +14,9 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-20 16:56
-**Последний коммит:** `653ea1d feat(web): add violet accents — active nav, logo, stats, auth card, profile banner`
-**Незакоммиченных файлов:** 452
+**Дата:** 2026-06-20 21:05
+**Последний коммит:** `6f702ef feat(web/glass): foundation — glass .card/.glass utilities, glass nav/sidebar backdrop-blur`
+**Незакоммиченных файлов:** 454
 
 ---
 
@@ -35,17 +35,19 @@ developer: Saidazim
 ## Изменённые файлы
 
   - .claude/agents/blogy-agent.md
+  - apps/web/src/app/(app)/room/[id]/RoomContent.tsx
+  - apps/web/src/components/rooms/RoomCard.tsx
   - tests/load-test/stress-test.mjs
 
 ---
 
 ## Последние 5 коммитов
 
+- 6f702ef feat(web/glass): foundation — glass .card/.glass utilities, glass nav/sidebar backdrop-blur
 - 653ea1d feat(web): add violet accents — active nav, logo, stats, auth card, profile banner
 - d2c4e7d feat(web/room): Twitch-style inline chat, clean section headers — remove AI-sloppy decorative elements
 - 7b28d0b feat(web/pages): profile/friends/notifications redesign — remove fake banner, flat notif list, consistent typography
 - 1db7b8a feat(web/auth): professional auth redesign — clean Vercel-style, remove blur orb + AI hex colors
-- 7fbf4de feat(web/chrome): professional nav/sidebar redesign + clean support page
 
 ---
 
@@ -69,4 +71,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-20 16:56 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-20 21:05 автоматически через update-last-session.sh*
