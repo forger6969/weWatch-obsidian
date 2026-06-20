@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-20 21:32
+updated: 2026-06-20 21:38
 developer: Saidazim
 ---
 
@@ -14,8 +14,8 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-20 21:32
-**Последний коммит:** `6f6ff8a fix(web/glass): stronger background gradient + more opaque glass surfaces — glass effect now visible`
+**Дата:** 2026-06-20 21:38
+**Последний коммит:** `8b4a228 feat(web/glass): iOS 26 Liquid Glass — specular highlights, gradient borders, 32% violet ambient`
 **Незакоммиченных файлов:** 454
 
 ---
@@ -43,11 +43,11 @@ developer: Saidazim
 
 ## Последние 5 коммитов
 
+- 8b4a228 feat(web/glass): iOS 26 Liquid Glass — specular highlights, gradient borders, 32% violet ambient
 - 6f6ff8a fix(web/glass): stronger background gradient + more opaque glass surfaces — glass effect now visible
 - 1f12c06 feat(web/glass): pages glass — auth card, profile card, notifications, settings, dialogs
 - 2748392 feat(web/glass): room interior glass — translucent sidebar, glass inputs, glass dialogs
 - 6f702ef feat(web/glass): foundation — glass .card/.glass utilities, glass nav/sidebar backdrop-blur
-- 653ea1d feat(web): add violet accents — active nav, logo, stats, auth card, profile banner
 
 ---
 
@@ -71,4 +71,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-20 21:32 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-20 21:38 автоматически через update-last-session.sh*
