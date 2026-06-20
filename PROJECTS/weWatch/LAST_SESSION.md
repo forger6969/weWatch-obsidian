@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-20 15:09
+updated: 2026-06-20 15:12
 developer: Saidazim
 ---
 
@@ -14,9 +14,9 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-20 15:09
-**Последний коммит:** `ae1d8a1 fix(mobile): use backend extraction for VK/Rutube instead of CDN sniffing`
-**Незакоммиченных файлов:** 455
+**Дата:** 2026-06-20 15:12
+**Последний коммит:** `6ff1b65 feat(web): redesign — remove AI-sloppy style, Discord-style chat, underline tabs, clean stats`
+**Незакоммиченных файлов:** 453
 
 ---
 
@@ -36,19 +36,17 @@ developer: Saidazim
 
   - .claude/agents/blogy-agent.md
   - CLAUDE.md
-  - apps/web/src/components/party/ChatPanel.tsx
-  - apps/web/src/components/party/MemberList.tsx
   - tests/load-test/stress-test.mjs
 
 ---
 
 ## Последние 5 коммитов
 
+- 6ff1b65 feat(web): redesign — remove AI-sloppy style, Discord-style chat, underline tabs, clean stats
 - ae1d8a1 fix(mobile): use backend extraction for VK/Rutube instead of CDN sniffing
 - 03f88a8 fix(web): extract Rutube via content service instead of iframe embed
 - a258b58 feat(skills): add Emil Kowalski + motion design skills, fix RoomCard transitions
 - a334c3e feat(web): room thumbnail+title from oEmbed, improved video player controls
-- 98a6891 feat(web): redesign — Twitch-style room cards, stats bar, dual ambient orbs
 
 ---
 
@@ -72,4 +70,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-20 15:09 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-20 15:12 автоматически через update-last-session.sh*
