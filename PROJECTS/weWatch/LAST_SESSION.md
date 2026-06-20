@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-20 21:07
+updated: 2026-06-20 21:27
 developer: Saidazim
 ---
 
@@ -14,9 +14,9 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-20 21:07
+**Дата:** 2026-06-20 21:27
 **Последний коммит:** `1f12c06 feat(web/glass): pages glass — auth card, profile card, notifications, settings, dialogs`
-**Незакоммиченных файлов:** 452
+**Незакоммиченных файлов:** 454
 
 ---
 
@@ -35,6 +35,8 @@ developer: Saidazim
 ## Изменённые файлы
 
   - .claude/agents/blogy-agent.md
+  - apps/web/package.json
+  - package-lock.json
   - tests/load-test/stress-test.mjs
 
 ---
@@ -69,4 +71,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-20 21:07 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-20 21:27 автоматически через update-last-session.sh*

@@ -1,20 +1,22 @@
 ---
 type: handoff
-updated: 2026-06-20 21:07
+updated: 2026-06-20 21:27
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-20 21:07
+**Завершена:** 2026-06-20 21:27
 
 ## Последний коммит
 1f12c06 feat(web/glass): pages glass — auth card, profile card, notifications, settings, dialogs
 
 ## Незакоммиченных файлов
-452
+454
 
 ## Изменённые файлы
   - .claude/agents/blogy-agent.md
+  - apps/web/package.json
+  - package-lock.json
   - tests/load-test/stress-test.mjs
 
 ## Последние 5 коммитов
