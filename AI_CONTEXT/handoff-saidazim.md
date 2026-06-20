@@ -1,32 +1,28 @@
 ---
 type: handoff
-updated: 2026-06-20 21:06
+updated: 2026-06-20 21:07
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-20 21:06
+**Завершена:** 2026-06-20 21:07
 
 ## Последний коммит
-2748392 feat(web/glass): room interior glass — translucent sidebar, glass inputs, glass dialogs
+1f12c06 feat(web/glass): pages glass — auth card, profile card, notifications, settings, dialogs
 
 ## Незакоммиченных файлов
-456
+452
 
 ## Изменённые файлы
   - .claude/agents/blogy-agent.md
-  - apps/web/src/app/(app)/friends/FriendsContent.tsx
-  - apps/web/src/app/(app)/notifications/NotificationsContent.tsx
-  - apps/web/src/app/(auth)/layout.tsx
-  - apps/web/src/components/profile/ProfileCard.tsx
   - tests/load-test/stress-test.mjs
 
 ## Последние 5 коммитов
+- 1f12c06 feat(web/glass): pages glass — auth card, profile card, notifications, settings, dialogs
 - 2748392 feat(web/glass): room interior glass — translucent sidebar, glass inputs, glass dialogs
 - 6f702ef feat(web/glass): foundation — glass .card/.glass utilities, glass nav/sidebar backdrop-blur
 - 653ea1d feat(web): add violet accents — active nav, logo, stats, auth card, profile banner
 - d2c4e7d feat(web/room): Twitch-style inline chat, clean section headers — remove AI-sloppy decorative elements
-- 7b28d0b feat(web/pages): profile/friends/notifications redesign — remove fake banner, flat notif list, consistent typography
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
