@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-20 23:16
+updated: 2026-06-20 23:17
 developer: Saidazim
 ---
 
@@ -14,9 +14,9 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-20 23:16
-**Последний коммит:** `fc0a326 fix(web/glass): inline background gradient — fixes invisible gradient behind solid dark div`
-**Незакоммиченных файлов:** 455
+**Дата:** 2026-06-20 23:17
+**Последний коммит:** `2c08499 feat(web/glass): Home + Friends pages full glass redesign`
+**Незакоммиченных файлов:** 460
 
 ---
 
@@ -36,7 +36,12 @@ developer: Saidazim
 
   - .claude/agents/blogy-agent.md
   - apps/web/package.json
-  - apps/web/src/app/(app)/home/HomeContent.tsx
+  - apps/web/src/app/(app)/messages/MessagesContent.tsx
+  - apps/web/src/app/(app)/profile/ProfileContent.tsx
+  - apps/web/src/app/(app)/settings/SettingsContent.tsx
+  - apps/web/src/components/messages/ChatWindow.tsx
+  - apps/web/src/components/messages/ConversationList.tsx
+  - apps/web/src/components/profile/ProfileCard.tsx
   - package-lock.json
   - tests/load-test/stress-test.mjs
 
@@ -44,11 +49,11 @@ developer: Saidazim
 
 ## Последние 5 коммитов
 
+- 2c08499 feat(web/glass): Home + Friends pages full glass redesign
 - fc0a326 fix(web/glass): inline background gradient — fixes invisible gradient behind solid dark div
 - ab1c30d fix(web): force-dynamic root layout — prevent Next.js/CDN from caching HTML pages after deploy
 - e5343ae fix(web): disable CDN page caching — s-maxage=31536000 was causing stale HTML after deploy
 - 8b4a228 feat(web/glass): iOS 26 Liquid Glass — specular highlights, gradient borders, 32% violet ambient
-- 6f6ff8a fix(web/glass): stronger background gradient + more opaque glass surfaces — glass effect now visible
 
 ---
 
@@ -72,4 +77,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-20 23:16 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-20 23:17 автоматически через update-last-session.sh*
