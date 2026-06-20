@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-20 13:32
+updated: 2026-06-20 14:38
 developer: Saidazim
 ---
 
@@ -14,8 +14,8 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-20 13:32
-**Последний коммит:** `a334c3e feat(web): room thumbnail+title from oEmbed, improved video player controls`
+**Дата:** 2026-06-20 14:38
+**Последний коммит:** `a258b58 feat(skills): add Emil Kowalski + motion design skills, fix RoomCard transitions`
 **Незакоммиченных файлов:** 451
 
 ---
@@ -40,11 +40,11 @@ developer: Saidazim
 
 ## Последние 5 коммитов
 
+- a258b58 feat(skills): add Emil Kowalski + motion design skills, fix RoomCard transitions
 - a334c3e feat(web): room thumbnail+title from oEmbed, improved video player controls
 - 98a6891 feat(web): redesign — Twitch-style room cards, stats bar, dual ambient orbs
 - f9787b7 feat(web): support chat — Socket.io real-time instead of 4s polling
 - 85a16ef feat(web): move WeWatch logo to nav header, remove from sidebar top
-- 2dc5004 fix(web): one logo only — hide nav icon on desktop, deduplicate settings/logout
 
 ---
 
@@ -68,4 +68,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-20 13:32 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-20 14:38 автоматически через update-last-session.sh*

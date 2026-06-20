@@ -1,14 +1,14 @@
 ---
 type: handoff
-updated: 2026-06-20 13:32
+updated: 2026-06-20 14:38
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-20 13:32
+**Завершена:** 2026-06-20 14:38
 
 ## Последний коммит
-a334c3e feat(web): room thumbnail+title from oEmbed, improved video player controls
+a258b58 feat(skills): add Emil Kowalski + motion design skills, fix RoomCard transitions
 
 ## Незакоммиченных файлов
 451
@@ -17,11 +17,11 @@ a334c3e feat(web): room thumbnail+title from oEmbed, improved video player contr
   - tests/load-test/stress-test.mjs
 
 ## Последние 5 коммитов
+- a258b58 feat(skills): add Emil Kowalski + motion design skills, fix RoomCard transitions
 - a334c3e feat(web): room thumbnail+title from oEmbed, improved video player controls
 - 98a6891 feat(web): redesign — Twitch-style room cards, stats bar, dual ambient orbs
 - f9787b7 feat(web): support chat — Socket.io real-time instead of 4s polling
 - 85a16ef feat(web): move WeWatch logo to nav header, remove from sidebar top
-- 2dc5004 fix(web): one logo only — hide nav icon on desktop, deduplicate settings/logout
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
