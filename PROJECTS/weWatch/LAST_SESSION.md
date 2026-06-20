@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-20 16:44
+updated: 2026-06-20 16:46
 developer: Saidazim
 ---
 
@@ -14,9 +14,9 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-20 16:44
-**Последний коммит:** `4fd69ef chore: auto-save zone context [session-stop]`
-**Незакоммиченных файлов:** 460
+**Дата:** 2026-06-20 16:46
+**Последний коммит:** `7b28d0b feat(web/pages): profile/friends/notifications redesign — remove fake banner, flat notif list, consistent typography`
+**Незакоммиченных файлов:** 454
 
 ---
 
@@ -35,25 +35,19 @@ developer: Saidazim
 ## Изменённые файлы
 
   - .claude/agents/blogy-agent.md
-  - apps/web/src/app/(app)/profile/ProfileContent.tsx
-  - apps/web/src/app/(app)/support/SupportContent.tsx
-  - apps/web/src/app/(auth)/layout.tsx
-  - apps/web/src/app/(auth)/login/LoginForm.tsx
-  - apps/web/src/app/(auth)/register/RegisterForm.tsx
-  - apps/web/src/components/common/AppNav.tsx
-  - apps/web/src/components/common/AppSidebar.tsx
-  - apps/web/src/components/profile/ProfileCard.tsx
+  - apps/web/src/components/party/ChatPanel.tsx
+  - apps/web/src/components/party/MemberList.tsx
   - tests/load-test/stress-test.mjs
 
 ---
 
 ## Последние 5 коммитов
 
+- 7b28d0b feat(web/pages): profile/friends/notifications redesign — remove fake banner, flat notif list, consistent typography
+- 1db7b8a feat(web/auth): professional auth redesign — clean Vercel-style, remove blur orb + AI hex colors
+- 7fbf4de feat(web/chrome): professional nav/sidebar redesign + clean support page
 - 4fd69ef chore: auto-save zone context [session-stop]
 - d0e529f feat(web): full redesign — remove AI-sloppy patterns across all pages
-- 6ff1b65 feat(web): redesign — remove AI-sloppy style, Discord-style chat, underline tabs, clean stats
-- ae1d8a1 fix(mobile): use backend extraction for VK/Rutube instead of CDN sniffing
-- 03f88a8 fix(web): extract Rutube via content service instead of iframe embed
 
 ---
 
@@ -77,4 +71,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-20 16:44 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-20 16:46 автоматически через update-last-session.sh*
