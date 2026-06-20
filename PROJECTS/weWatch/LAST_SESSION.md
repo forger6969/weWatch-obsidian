@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-20 14:56
+updated: 2026-06-20 15:05
 developer: Saidazim
 ---
 
@@ -14,9 +14,9 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-20 14:56
+**Дата:** 2026-06-20 15:05
 **Последний коммит:** `ae1d8a1 fix(mobile): use backend extraction for VK/Rutube instead of CDN sniffing`
-**Незакоммиченных файлов:** 451
+**Незакоммиченных файлов:** 452
 
 ---
 
@@ -34,6 +34,7 @@ developer: Saidazim
 
 ## Изменённые файлы
 
+  - CLAUDE.md
   - tests/load-test/stress-test.mjs
 
 ---
@@ -68,4 +69,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-20 14:56 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-20 15:05 автоматически через update-last-session.sh*

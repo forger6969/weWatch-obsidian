@@ -1,19 +1,20 @@
 ---
 type: handoff
-updated: 2026-06-20 14:56
+updated: 2026-06-20 15:05
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-20 14:56
+**Завершена:** 2026-06-20 15:05
 
 ## Последний коммит
 ae1d8a1 fix(mobile): use backend extraction for VK/Rutube instead of CDN sniffing
 
 ## Незакоммиченных файлов
-451
+452
 
 ## Изменённые файлы
+  - CLAUDE.md
   - tests/load-test/stress-test.mjs
 
 ## Последние 5 коммитов
