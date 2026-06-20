@@ -11,10 +11,13 @@ updated: 2026-06-20 15:09
 ae1d8a1 fix(mobile): use backend extraction for VK/Rutube instead of CDN sniffing
 
 ## Незакоммиченных файлов
-452
+455
 
 ## Изменённые файлы
+  - .claude/agents/blogy-agent.md
   - CLAUDE.md
+  - apps/web/src/components/party/ChatPanel.tsx
+  - apps/web/src/components/party/MemberList.tsx
   - tests/load-test/stress-test.mjs
 
 ## Последние 5 коммитов

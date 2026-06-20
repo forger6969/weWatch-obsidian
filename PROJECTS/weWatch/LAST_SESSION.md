@@ -16,7 +16,7 @@ developer: Saidazim
 
 **Дата:** 2026-06-20 15:09
 **Последний коммит:** `ae1d8a1 fix(mobile): use backend extraction for VK/Rutube instead of CDN sniffing`
-**Незакоммиченных файлов:** 452
+**Незакоммиченных файлов:** 455
 
 ---
 
@@ -34,7 +34,10 @@ developer: Saidazim
 
 ## Изменённые файлы
 
+  - .claude/agents/blogy-agent.md
   - CLAUDE.md
+  - apps/web/src/components/party/ChatPanel.tsx
+  - apps/web/src/components/party/MemberList.tsx
   - tests/load-test/stress-test.mjs
 
 ---
