@@ -1,11 +1,11 @@
 ---
 type: handoff
-updated: 2026-06-21 23:39
+updated: 2026-06-21 23:43
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-21 23:39
+**Завершена:** 2026-06-21 23:43
 
 ## Последний коммит
 1c3e8dd fix(web/glass): violet-tinted borders, stronger gradient — removes harsh white borders
