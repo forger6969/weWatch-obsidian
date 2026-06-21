@@ -1,20 +1,22 @@
 ---
 type: handoff
-updated: 2026-06-21 23:43
+updated: 2026-06-21 23:46
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-21 23:43
+**Завершена:** 2026-06-21 23:46
 
 ## Последний коммит
 1c3e8dd fix(web/glass): violet-tinted borders, stronger gradient — removes harsh white borders
 
 ## Незакоммиченных файлов
-454
+456
 
 ## Изменённые файлы
   - .claude/agents/blogy-agent.md
+  - .claude/scripts/obsidian-session-stop.sh
+  - .claude/scripts/session-stop.sh
   - apps/web/package.json
   - package-lock.json
   - tests/load-test/stress-test.mjs

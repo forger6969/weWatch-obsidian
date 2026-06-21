@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-21 23:43
+updated: 2026-06-21 23:46
 developer: Saidazim
 ---
 
@@ -14,9 +14,9 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-21 23:43
+**Дата:** 2026-06-21 23:46
 **Последний коммит:** `1c3e8dd fix(web/glass): violet-tinted borders, stronger gradient — removes harsh white borders`
-**Незакоммиченных файлов:** 454
+**Незакоммиченных файлов:** 456
 
 ---
 
@@ -35,6 +35,8 @@ developer: Saidazim
 ## Изменённые файлы
 
   - .claude/agents/blogy-agent.md
+  - .claude/scripts/obsidian-session-stop.sh
+  - .claude/scripts/session-stop.sh
   - apps/web/package.json
   - package-lock.json
   - tests/load-test/stress-test.mjs
@@ -71,4 +73,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-21 23:43 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-21 23:46 автоматически через update-last-session.sh*
