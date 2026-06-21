@@ -39,12 +39,6 @@ updated: 2026-06-14
 [[../../PROJECTS/weWatch/00-weWatch-Overview|WeWatch Overview]]
 [[../../AI_CONTEXT/agents-hub|Agents Hub]]
 
-<!-- session ended: 2026-05-27 02:52 -->
-
-<!-- session ended: 2026-06-12 20:40 -->
-
-<!-- session ended: 2026-06-14 15:48 -->
-
 ## Сессия 2026-06-15/16 — VideoPlayer sync overhaul
 
 ### Что сделано
