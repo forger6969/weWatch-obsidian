@@ -1,7 +1,7 @@
 ---
 zone: Telegram
 type: context
-updated: 2026-06-21
+updated: 2026-06-22
 ---
 
 # Telegram Zone — Context
