@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-23 21:06
+updated: 2026-06-23 23:05
 developer: Saidazim
 ---
 
@@ -14,9 +14,9 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-23 21:06
+**Дата:** 2026-06-23 23:05
 **Последний коммит:** `899e384 feat(web): add Yandex Metrica analytics support`
-**Незакоммиченных файлов:** 456
+**Незакоммиченных файлов:** 458
 
 ---
 
@@ -38,6 +38,7 @@ developer: Saidazim
   - .claude/scripts/obsidian-session-stop.sh
   - .claude/scripts/session-stop.sh
   - apps/web/package.json
+  - marketing/instagram/src/Root.tsx
   - package-lock.json
   - tests/load-test/stress-test.mjs
 
@@ -73,4 +74,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-23 21:06 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-23 23:05 автоматически через update-last-session.sh*

@@ -1,23 +1,24 @@
 ---
 type: handoff
-updated: 2026-06-23 21:06
+updated: 2026-06-23 23:05
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-23 21:06
+**Завершена:** 2026-06-23 23:05
 
 ## Последний коммит
 899e384 feat(web): add Yandex Metrica analytics support
 
 ## Незакоммиченных файлов
-456
+458
 
 ## Изменённые файлы
   - .claude/agents/blogy-agent.md
   - .claude/scripts/obsidian-session-stop.sh
   - .claude/scripts/session-stop.sh
   - apps/web/package.json
+  - marketing/instagram/src/Root.tsx
   - package-lock.json
   - tests/load-test/stress-test.mjs
 
