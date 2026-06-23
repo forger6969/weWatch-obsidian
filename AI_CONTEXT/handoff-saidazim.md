@@ -1,14 +1,14 @@
 ---
 type: handoff
-updated: 2026-06-23 11:04
+updated: 2026-06-23 12:15
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-23 11:04
+**Завершена:** 2026-06-23 12:15
 
 ## Последний коммит
-771d960 fix(web/glass): restore purple gradient via body background-attachment:fixed
+c572ec6 fix(content): VK video — force HLS format to avoid 27s preview clip
 
 ## Незакоммиченных файлов
 456
@@ -22,11 +22,11 @@ updated: 2026-06-23 11:04
   - tests/load-test/stress-test.mjs
 
 ## Последние 5 коммитов
+- c572ec6 fix(content): VK video — force HLS format to avoid 27s preview clip
 - 771d960 fix(web/glass): restore purple gradient via body background-attachment:fixed
 - 44257fc fix(web/glass): violet-tinted borders, stronger gradient — removes harsh white borders
 - 9572860 feat(web/glass): Profile + Notifications glass redesign
 - 525381f feat(web/glass): Settings + Messages glass redesign
-- f420103 feat(web/glass): Home + Friends pages full glass redesign
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
