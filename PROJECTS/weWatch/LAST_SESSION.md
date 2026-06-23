@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-23 10:23
+updated: 2026-06-23 10:29
 developer: Saidazim
 ---
 
@@ -14,8 +14,8 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-23 10:23
-**Последний коммит:** `1c3e8dd fix(web/glass): violet-tinted borders, stronger gradient — removes harsh white borders`
+**Дата:** 2026-06-23 10:29
+**Последний коммит:** `771d960 fix(web/glass): restore purple gradient via body background-attachment:fixed`
 **Незакоммиченных файлов:** 456
 
 ---
@@ -45,11 +45,11 @@ developer: Saidazim
 
 ## Последние 5 коммитов
 
-- 1c3e8dd fix(web/glass): violet-tinted borders, stronger gradient — removes harsh white borders
-- 9ade736 feat(web/glass): Profile + Notifications glass redesign
-- 81bf473 feat(web/glass): Settings + Messages glass redesign
-- 2c08499 feat(web/glass): Home + Friends pages full glass redesign
-- fc0a326 fix(web/glass): inline background gradient — fixes invisible gradient behind solid dark div
+- 771d960 fix(web/glass): restore purple gradient via body background-attachment:fixed
+- 44257fc fix(web/glass): violet-tinted borders, stronger gradient — removes harsh white borders
+- 9572860 feat(web/glass): Profile + Notifications glass redesign
+- 525381f feat(web/glass): Settings + Messages glass redesign
+- f420103 feat(web/glass): Home + Friends pages full glass redesign
 
 ---
 
@@ -73,4 +73,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-23 10:23 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-23 10:29 автоматически через update-last-session.sh*
