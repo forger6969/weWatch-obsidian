@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-23 12:34
+updated: 2026-06-23 13:17
 developer: Saidazim
 ---
 
@@ -14,8 +14,8 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-23 12:34
-**Последний коммит:** `6c166ce fix(content+web): VK full video — fix isVkAdStream + proxy timeout`
+**Дата:** 2026-06-23 13:17
+**Последний коммит:** `899e384 feat(web): add Yandex Metrica analytics support`
 **Незакоммиченных файлов:** 456
 
 ---
@@ -45,11 +45,11 @@ developer: Saidazim
 
 ## Последние 5 коммитов
 
+- 899e384 feat(web): add Yandex Metrica analytics support
 - 6c166ce fix(content+web): VK full video — fix isVkAdStream + proxy timeout
 - c572ec6 fix(content): VK video — force HLS format to avoid 27s preview clip
 - 771d960 fix(web/glass): restore purple gradient via body background-attachment:fixed
 - 44257fc fix(web/glass): violet-tinted borders, stronger gradient — removes harsh white borders
-- 9572860 feat(web/glass): Profile + Notifications glass redesign
 
 ---
 
@@ -73,4 +73,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-23 12:34 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-23 13:17 автоматически через update-last-session.sh*
