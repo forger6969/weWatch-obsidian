@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-25 01:27
+updated: 2026-06-25 01:37
 developer: Saidazim
 ---
 
@@ -14,8 +14,8 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-25 01:27
-**Последний коммит:** `75cbdb0 fix(mobile/android): fix VK iframe fallback — restore retry screen when CDN sniff has URL`
+**Дата:** 2026-06-25 01:37
+**Последний коммит:** `de9cbbe fix(mobile): remove unavailable Sentry integrations — fix startup crash`
 **Незакоммиченных файлов:** 462
 
 ---
@@ -46,11 +46,11 @@ developer: Saidazim
 
 ## Последние 5 коммитов
 
+- de9cbbe fix(mobile): remove unavailable Sentry integrations — fix startup crash
 - 75cbdb0 fix(mobile/android): fix VK iframe fallback — restore retry screen when CDN sniff has URL
 - 899e384 feat(web): add Yandex Metrica analytics support
 - 6c166ce fix(content+web): VK full video — fix isVkAdStream + proxy timeout
 - c572ec6 fix(content): VK video — force HLS format to avoid 27s preview clip
-- 771d960 fix(web/glass): restore purple gradient via body background-attachment:fixed
 
 ---
 
@@ -74,4 +74,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-25 01:27 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-25 01:37 автоматически через update-last-session.sh*

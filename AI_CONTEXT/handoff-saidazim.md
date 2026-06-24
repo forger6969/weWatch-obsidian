@@ -1,14 +1,14 @@
 ---
 type: handoff
-updated: 2026-06-25 01:27
+updated: 2026-06-25 01:37
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-25 01:27
+**Завершена:** 2026-06-25 01:37
 
 ## Последний коммит
-75cbdb0 fix(mobile/android): fix VK iframe fallback — restore retry screen when CDN sniff has URL
+de9cbbe fix(mobile): remove unavailable Sentry integrations — fix startup crash
 
 ## Незакоммиченных файлов
 462
@@ -23,11 +23,11 @@ updated: 2026-06-25 01:27
   - tests/load-test/stress-test.mjs
 
 ## Последние 5 коммитов
+- de9cbbe fix(mobile): remove unavailable Sentry integrations — fix startup crash
 - 75cbdb0 fix(mobile/android): fix VK iframe fallback — restore retry screen when CDN sniff has URL
 - 899e384 feat(web): add Yandex Metrica analytics support
 - 6c166ce fix(content+web): VK full video — fix isVkAdStream + proxy timeout
 - c572ec6 fix(content): VK video — force HLS format to avoid 27s preview clip
-- 771d960 fix(web/glass): restore purple gradient via body background-attachment:fixed
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
