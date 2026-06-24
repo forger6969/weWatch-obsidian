@@ -1,11 +1,11 @@
 ---
 type: handoff
-updated: 2026-06-25 01:38
+updated: 2026-06-25 01:47
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-25 01:38
+**Завершена:** 2026-06-25 01:47
 
 ## Последний коммит
 de9cbbe fix(mobile): remove unavailable Sentry integrations — fix startup crash
