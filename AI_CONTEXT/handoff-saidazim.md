@@ -1,11 +1,11 @@
 ---
 type: handoff
-updated: 2026-06-25 01:02
+updated: 2026-06-25 01:03
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-25 01:02
+**Завершена:** 2026-06-25 01:03
 
 ## Последний коммит
 75cbdb0 fix(mobile/android): fix VK iframe fallback — restore retry screen when CDN sniff has URL
