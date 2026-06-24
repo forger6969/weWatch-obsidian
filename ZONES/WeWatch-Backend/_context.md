@@ -1,7 +1,7 @@
 ---
 zone: WeWatch-Backend
 type: context
-updated: 2026-06-23
+updated: 2026-06-24
 ---
 
 # WeWatch-Backend Zone — Context
