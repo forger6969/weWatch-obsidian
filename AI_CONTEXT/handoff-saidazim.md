@@ -1,11 +1,11 @@
 ---
 type: handoff
-updated: 2026-06-25 22:33
+updated: 2026-06-25 22:45
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-25 22:33
+**Завершена:** 2026-06-25 22:45
 
 ## Последний коммит
 ce7623d fix(android): dontwarn KeepAwakeManager for R8 minification
