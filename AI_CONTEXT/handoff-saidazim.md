@@ -1,22 +1,23 @@
 ---
 type: handoff
-updated: 2026-06-25 13:59
+updated: 2026-06-25 14:03
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-25 13:59
+**Завершена:** 2026-06-25 14:03
 
 ## Последний коммит
 d3e4b19 fix(mobile/android): VK CDN sniffing — always-on + broader patterns + polling
 
 ## Незакоммиченных файлов
-463
+464
 
 ## Изменённые файлы
   - .claude/agents/blogy-agent.md
   - .claude/scripts/obsidian-session-stop.sh
   - .claude/scripts/session-stop.sh
+  - apps/mobile/src/components/video/UniversalPlayer.tsx
   - apps/web/package.json
   - marketing/instagram/src/Root.tsx
   - tests/load-test/stress-test.mjs

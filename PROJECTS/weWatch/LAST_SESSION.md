@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-25 13:59
+updated: 2026-06-25 14:03
 developer: Saidazim
 ---
 
@@ -14,9 +14,9 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-25 13:59
+**Дата:** 2026-06-25 14:03
 **Последний коммит:** `d3e4b19 fix(mobile/android): VK CDN sniffing — always-on + broader patterns + polling`
-**Незакоммиченных файлов:** 463
+**Незакоммиченных файлов:** 464
 
 ---
 
@@ -37,6 +37,7 @@ developer: Saidazim
   - .claude/agents/blogy-agent.md
   - .claude/scripts/obsidian-session-stop.sh
   - .claude/scripts/session-stop.sh
+  - apps/mobile/src/components/video/UniversalPlayer.tsx
   - apps/web/package.json
   - marketing/instagram/src/Root.tsx
   - tests/load-test/stress-test.mjs
@@ -73,4 +74,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-25 13:59 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-25 14:03 автоматически через update-last-session.sh*
