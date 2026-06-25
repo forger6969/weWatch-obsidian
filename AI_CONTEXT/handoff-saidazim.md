@@ -1,32 +1,27 @@
 ---
 type: handoff
-updated: 2026-06-25 14:04
+updated: 2026-06-25 14:11
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-25 14:04
+**Завершена:** 2026-06-25 14:11
 
 ## Последний коммит
-90a849f fix(mobile/android): restore Rave method — VK/Rutube open full site not iframe
+9905877 chore: restore web+admin-ui from backup — mobile/backend stay at stable/sync-fix-2026-06-16
 
 ## Незакоммиченных файлов
-463
+413
 
 ## Изменённые файлы
-  - .claude/agents/blogy-agent.md
-  - .claude/scripts/obsidian-session-stop.sh
-  - .claude/scripts/session-stop.sh
-  - apps/web/package.json
-  - marketing/instagram/src/Root.tsx
-  - tests/load-test/stress-test.mjs
+
 
 ## Последние 5 коммитов
-- 90a849f fix(mobile/android): restore Rave method — VK/Rutube open full site not iframe
-- d3e4b19 fix(mobile/android): VK CDN sniffing — always-on + broader patterns + polling
-- 76cca47 chore(mobile): remove stale expo-av buildFromSource entry — expo-av uninstalled
-- 617e572 fix(mobile/android): CDN sniffing fallback after backend extraction+proxy failure
-- 55c4eca fix(mobile/android): remove expo-av — fixes LazyKType crash on Android
+- 9905877 chore: restore web+admin-ui from backup — mobile/backend stay at stable/sync-fix-2026-06-16
+- 103848f fix(web): owner rapid stop/play no longer causes viewer chaos
+- b6daad8 feat(web): source picker dialog — platform grid in CreateRoomDialog
+- 754a561 feat(seo): Uzbek localization + noindex English slugs + sitemap/robots fix
+- 968f3af fix(content): add VK_COOKIES_JSON support for yt-dlp VK extraction
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
