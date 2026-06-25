@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-25 13:27
+updated: 2026-06-25 13:33
 developer: Saidazim
 ---
 
@@ -14,8 +14,8 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-25 13:27
-**Последний коммит:** `617e572 fix(mobile/android): CDN sniffing fallback after backend extraction+proxy failure`
+**Дата:** 2026-06-25 13:33
+**Последний коммит:** `76cca47 chore(mobile): remove stale expo-av buildFromSource entry — expo-av uninstalled`
 **Незакоммиченных файлов:** 462
 
 ---
@@ -45,11 +45,11 @@ developer: Saidazim
 
 ## Последние 5 коммитов
 
+- 76cca47 chore(mobile): remove stale expo-av buildFromSource entry — expo-av uninstalled
 - 617e572 fix(mobile/android): CDN sniffing fallback after backend extraction+proxy failure
 - 55c4eca fix(mobile/android): remove expo-av — fixes LazyKType crash on Android
 - ec52ef0 fix(mobile): remove Sentry native integration — fix EAS cloud build
 - de9cbbe fix(mobile): remove unavailable Sentry integrations — fix startup crash
-- 75cbdb0 fix(mobile/android): fix VK iframe fallback — restore retry screen when CDN sniff has URL
 
 ---
 
@@ -73,4 +73,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-25 13:27 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-25 13:33 автоматически через update-last-session.sh*
