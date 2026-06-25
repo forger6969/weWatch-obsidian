@@ -1,11 +1,11 @@
 ---
 type: handoff
-updated: 2026-06-25 20:29
+updated: 2026-06-25 20:35
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-25 20:29
+**Завершена:** 2026-06-25 20:35
 
 ## Последний коммит
 2b3f110 fix(mobile/android): okcdn.ru CDN domains + Android iframe guard
