@@ -1,14 +1,14 @@
 ---
 type: handoff
-updated: 2026-06-25 13:02
+updated: 2026-06-25 13:23
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-25 13:02
+**Завершена:** 2026-06-25 13:23
 
 ## Последний коммит
-55c4eca fix(mobile/android): remove expo-av — fixes LazyKType crash on Android
+617e572 fix(mobile/android): CDN sniffing fallback after backend extraction+proxy failure
 
 ## Незакоммиченных файлов
 462
@@ -22,11 +22,11 @@ updated: 2026-06-25 13:02
   - tests/load-test/stress-test.mjs
 
 ## Последние 5 коммитов
+- 617e572 fix(mobile/android): CDN sniffing fallback after backend extraction+proxy failure
 - 55c4eca fix(mobile/android): remove expo-av — fixes LazyKType crash on Android
 - ec52ef0 fix(mobile): remove Sentry native integration — fix EAS cloud build
 - de9cbbe fix(mobile): remove unavailable Sentry integrations — fix startup crash
 - 75cbdb0 fix(mobile/android): fix VK iframe fallback — restore retry screen when CDN sniff has URL
-- 899e384 feat(web): add Yandex Metrica analytics support
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
