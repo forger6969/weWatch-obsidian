@@ -1,11 +1,11 @@
 ---
 type: handoff
-updated: 2026-06-25 13:23
+updated: 2026-06-25 13:27
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-25 13:23
+**Завершена:** 2026-06-25 13:27
 
 ## Последний коммит
 617e572 fix(mobile/android): CDN sniffing fallback after backend extraction+proxy failure
