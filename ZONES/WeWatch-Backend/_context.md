@@ -71,3 +71,4 @@ logger.info('msg', { userId });  // НЕ console.log
 [[../../PROJECTS/weWatch/ARCHITECTURE|Architecture]]
 [[../../PROJECTS/weWatch/decisions/2026-05-23-migration-единая-бд-cinesync-для-всех-сервисов|Decision: cinesync migration]]
 [[../../AI_CONTEXT/agents-hub|Agents Hub]]
+<!-- session ended: 2026-06-25 14:20 -->
