@@ -1,11 +1,11 @@
 ---
 type: handoff
-updated: 2026-06-25 12:20
+updated: 2026-06-25 12:25
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-25 12:20
+**Завершена:** 2026-06-25 12:25
 
 ## Последний коммит
 ec52ef0 fix(mobile): remove Sentry native integration — fix EAS cloud build
