@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-25 12:15
+updated: 2026-06-25 12:20
 developer: Saidazim
 ---
 
@@ -14,9 +14,9 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-25 12:15
+**Дата:** 2026-06-25 12:20
 **Последний коммит:** `ec52ef0 fix(mobile): remove Sentry native integration — fix EAS cloud build`
-**Незакоммиченных файлов:** 462
+**Незакоммиченных файлов:** 463
 
 ---
 
@@ -74,4 +74,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-25 12:15 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-25 12:20 автоматически через update-last-session.sh*
