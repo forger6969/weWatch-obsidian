@@ -1,34 +1,32 @@
 ---
 type: handoff
-updated: 2026-06-25 13:58
+updated: 2026-06-25 13:59
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-25 13:58
+**Завершена:** 2026-06-25 13:59
 
 ## Последний коммит
-76cca47 chore(mobile): remove stale expo-av buildFromSource entry — expo-av uninstalled
+d3e4b19 fix(mobile/android): VK CDN sniffing — always-on + broader patterns + polling
 
 ## Незакоммиченных файлов
-466
+463
 
 ## Изменённые файлы
   - .claude/agents/blogy-agent.md
   - .claude/scripts/obsidian-session-stop.sh
   - .claude/scripts/session-stop.sh
-  - apps/mobile/src/components/video/UniversalPlayer.tsx
-  - apps/mobile/src/hooks/useWatchPartyRoom.ts
-  - apps/mobile/src/utils/webViewScripts.ts
   - apps/web/package.json
   - marketing/instagram/src/Root.tsx
+  - tests/load-test/stress-test.mjs
 
 ## Последние 5 коммитов
+- d3e4b19 fix(mobile/android): VK CDN sniffing — always-on + broader patterns + polling
 - 76cca47 chore(mobile): remove stale expo-av buildFromSource entry — expo-av uninstalled
 - 617e572 fix(mobile/android): CDN sniffing fallback after backend extraction+proxy failure
 - 55c4eca fix(mobile/android): remove expo-av — fixes LazyKType crash on Android
 - ec52ef0 fix(mobile): remove Sentry native integration — fix EAS cloud build
-- de9cbbe fix(mobile): remove unavailable Sentry integrations — fix startup crash
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
