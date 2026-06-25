@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-25 12:32
+updated: 2026-06-25 13:02
 developer: Saidazim
 ---
 
@@ -14,9 +14,9 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-25 12:32
-**Последний коммит:** `ec52ef0 fix(mobile): remove Sentry native integration — fix EAS cloud build`
-**Незакоммиченных файлов:** 463
+**Дата:** 2026-06-25 13:02
+**Последний коммит:** `55c4eca fix(mobile/android): remove expo-av — fixes LazyKType crash on Android`
+**Незакоммиченных файлов:** 462
 
 ---
 
@@ -39,18 +39,17 @@ developer: Saidazim
   - .claude/scripts/session-stop.sh
   - apps/web/package.json
   - marketing/instagram/src/Root.tsx
-  - package-lock.json
   - tests/load-test/stress-test.mjs
 
 ---
 
 ## Последние 5 коммитов
 
+- 55c4eca fix(mobile/android): remove expo-av — fixes LazyKType crash on Android
 - ec52ef0 fix(mobile): remove Sentry native integration — fix EAS cloud build
 - de9cbbe fix(mobile): remove unavailable Sentry integrations — fix startup crash
 - 75cbdb0 fix(mobile/android): fix VK iframe fallback — restore retry screen when CDN sniff has URL
 - 899e384 feat(web): add Yandex Metrica analytics support
-- 6c166ce fix(content+web): VK full video — fix isVkAdStream + proxy timeout
 
 ---
 
@@ -74,4 +73,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-25 12:32 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-25 13:02 автоматически через update-last-session.sh*
