@@ -1,29 +1,27 @@
 ---
 type: handoff
-updated: 2026-06-25 19:45
+updated: 2026-06-25 20:19
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-25 19:45
+**Завершена:** 2026-06-25 20:19
 
 ## Последний коммит
-9905877 chore: restore web+admin-ui from backup — mobile/backend stay at stable/sync-fix-2026-06-16
+2b3f110 fix(mobile/android): okcdn.ru CDN domains + Android iframe guard
 
 ## Незакоммиченных файлов
-416
+414
 
 ## Изменённые файлы
-  - apps/mobile/src/components/video/UniversalPlayer.tsx
-  - apps/mobile/src/utils/webViewScripts.ts
   - package-lock.json
 
 ## Последние 5 коммитов
+- 2b3f110 fix(mobile/android): okcdn.ru CDN domains + Android iframe guard
 - 9905877 chore: restore web+admin-ui from backup — mobile/backend stay at stable/sync-fix-2026-06-16
 - 103848f fix(web): owner rapid stop/play no longer causes viewer chaos
 - b6daad8 feat(web): source picker dialog — platform grid in CreateRoomDialog
 - 754a561 feat(seo): Uzbek localization + noindex English slugs + sitemap/robots fix
-- 968f3af fix(content): add VK_COOKIES_JSON support for yt-dlp VK extraction
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
