@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-25 20:39
+updated: 2026-06-25 20:43
 developer: Saidazim
 ---
 
@@ -14,8 +14,8 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-25 20:39
-**Последний коммит:** `2b3f110 fix(mobile/android): okcdn.ru CDN domains + Android iframe guard`
+**Дата:** 2026-06-25 20:43
+**Последний коммит:** `ce7623d fix(android): dontwarn KeepAwakeManager for R8 minification`
 **Незакоммиченных файлов:** 414
 
 ---
@@ -40,11 +40,11 @@ developer: Saidazim
 
 ## Последние 5 коммитов
 
+- ce7623d fix(android): dontwarn KeepAwakeManager for R8 minification
 - 2b3f110 fix(mobile/android): okcdn.ru CDN domains + Android iframe guard
 - 9905877 chore: restore web+admin-ui from backup — mobile/backend stay at stable/sync-fix-2026-06-16
 - 103848f fix(web): owner rapid stop/play no longer causes viewer chaos
 - b6daad8 feat(web): source picker dialog — platform grid in CreateRoomDialog
-- 754a561 feat(seo): Uzbek localization + noindex English slugs + sitemap/robots fix
 
 ---
 
@@ -68,4 +68,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-25 20:39 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-25 20:43 автоматически через update-last-session.sh*
