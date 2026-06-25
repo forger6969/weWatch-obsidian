@@ -1,11 +1,11 @@
 ---
 type: handoff
-updated: 2026-06-25 16:51
+updated: 2026-06-25 17:04
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-25 16:51
+**Завершена:** 2026-06-25 17:04
 
 ## Последний коммит
 9905877 chore: restore web+admin-ui from backup — mobile/backend stay at stable/sync-fix-2026-06-16
