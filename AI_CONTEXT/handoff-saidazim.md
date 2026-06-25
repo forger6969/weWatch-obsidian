@@ -1,11 +1,11 @@
 ---
 type: handoff
-updated: 2026-06-25 13:55
+updated: 2026-06-25 13:58
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-25 13:55
+**Завершена:** 2026-06-25 13:58
 
 ## Последний коммит
 76cca47 chore(mobile): remove stale expo-av buildFromSource entry — expo-av uninstalled
