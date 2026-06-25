@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-25 23:29
+updated: 2026-06-25 23:32
 developer: Saidazim
 ---
 
@@ -14,8 +14,8 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-25 23:29
-**Последний коммит:** `3713da9 fix(mobile): guard expo-notifications behind isExpoGo — Expo Go SDK 53 compat`
+**Дата:** 2026-06-25 23:32
+**Последний коммит:** `3048bc7 fix(mobile): useLastNotificationResponseSafe — guard Expo Go SDK 53 crash`
 **Незакоммиченных файлов:** 414
 
 ---
@@ -40,11 +40,11 @@ developer: Saidazim
 
 ## Последние 5 коммитов
 
+- 3048bc7 fix(mobile): useLastNotificationResponseSafe — guard Expo Go SDK 53 crash
 - 3713da9 fix(mobile): guard expo-notifications behind isExpoGo — Expo Go SDK 53 compat
 - 0ae0538 feat(degenerate): PreToolUse/PostToolUse/Notification hooks + nightly cron + eval-loop + worktree-agent + self-healing skill
 - ce7623d fix(android): dontwarn KeepAwakeManager for R8 minification
 - 2b3f110 fix(mobile/android): okcdn.ru CDN domains + Android iframe guard
-- 9905877 chore: restore web+admin-ui from backup — mobile/backend stay at stable/sync-fix-2026-06-16
 
 ---
 
@@ -68,4 +68,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-25 23:29 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-25 23:32 автоматически через update-last-session.sh*
