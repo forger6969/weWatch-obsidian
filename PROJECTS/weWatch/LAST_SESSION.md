@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-25 13:40
+updated: 2026-06-25 13:55
 developer: Saidazim
 ---
 
@@ -14,9 +14,9 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-25 13:40
+**Дата:** 2026-06-25 13:55
 **Последний коммит:** `76cca47 chore(mobile): remove stale expo-av buildFromSource entry — expo-av uninstalled`
-**Незакоммиченных файлов:** 463
+**Незакоммиченных файлов:** 466
 
 ---
 
@@ -37,6 +37,9 @@ developer: Saidazim
   - .claude/agents/blogy-agent.md
   - .claude/scripts/obsidian-session-stop.sh
   - .claude/scripts/session-stop.sh
+  - apps/mobile/src/components/video/UniversalPlayer.tsx
+  - apps/mobile/src/hooks/useWatchPartyRoom.ts
+  - apps/mobile/src/utils/webViewScripts.ts
   - apps/web/package.json
   - marketing/instagram/src/Root.tsx
   - tests/load-test/stress-test.mjs
@@ -73,4 +76,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-25 13:40 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-25 13:55 автоматически через update-last-session.sh*

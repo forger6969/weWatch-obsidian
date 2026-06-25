@@ -1,25 +1,27 @@
 ---
 type: handoff
-updated: 2026-06-25 13:40
+updated: 2026-06-25 13:55
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-25 13:40
+**Завершена:** 2026-06-25 13:55
 
 ## Последний коммит
 76cca47 chore(mobile): remove stale expo-av buildFromSource entry — expo-av uninstalled
 
 ## Незакоммиченных файлов
-463
+466
 
 ## Изменённые файлы
   - .claude/agents/blogy-agent.md
   - .claude/scripts/obsidian-session-stop.sh
   - .claude/scripts/session-stop.sh
+  - apps/mobile/src/components/video/UniversalPlayer.tsx
+  - apps/mobile/src/hooks/useWatchPartyRoom.ts
+  - apps/mobile/src/utils/webViewScripts.ts
   - apps/web/package.json
   - marketing/instagram/src/Root.tsx
-  - tests/load-test/stress-test.mjs
 
 ## Последние 5 коммитов
 - 76cca47 chore(mobile): remove stale expo-av buildFromSource entry — expo-av uninstalled
