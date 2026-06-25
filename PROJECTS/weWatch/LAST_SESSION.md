@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-25 14:24
+updated: 2026-06-25 14:31
 developer: Saidazim
 ---
 
@@ -14,9 +14,9 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-25 14:24
+**Дата:** 2026-06-25 14:31
 **Последний коммит:** `9905877 chore: restore web+admin-ui from backup — mobile/backend stay at stable/sync-fix-2026-06-16`
-**Незакоммиченных файлов:** 414
+**Незакоммиченных файлов:** 416
 
 ---
 
@@ -34,6 +34,8 @@ developer: Saidazim
 
 ## Изменённые файлы
 
+  - apps/mobile/src/components/video/UniversalPlayer.tsx
+  - apps/mobile/src/utils/webViewScripts.ts
   - package-lock.json
 
 ---
@@ -68,4 +70,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-25 14:24 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-25 14:31 автоматически через update-last-session.sh*

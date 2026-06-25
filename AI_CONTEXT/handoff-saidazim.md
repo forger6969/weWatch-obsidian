@@ -1,19 +1,21 @@
 ---
 type: handoff
-updated: 2026-06-25 14:24
+updated: 2026-06-25 14:31
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-25 14:24
+**Завершена:** 2026-06-25 14:31
 
 ## Последний коммит
 9905877 chore: restore web+admin-ui from backup — mobile/backend stay at stable/sync-fix-2026-06-16
 
 ## Незакоммиченных файлов
-414
+416
 
 ## Изменённые файлы
+  - apps/mobile/src/components/video/UniversalPlayer.tsx
+  - apps/mobile/src/utils/webViewScripts.ts
   - package-lock.json
 
 ## Последние 5 коммитов
