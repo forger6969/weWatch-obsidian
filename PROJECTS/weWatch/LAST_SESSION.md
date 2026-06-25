@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-25 23:50
+updated: 2026-06-26 00:23
 developer: Saidazim
 ---
 
@@ -14,8 +14,8 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-25 23:50
-**Последний коммит:** `a902078 fix(mobile): use executionEnvironment storeClient to detect Expo Go SDK 53`
+**Дата:** 2026-06-26 00:23
+**Последний коммит:** `83d74be fix(mobile): block DevicePushTokenAutoRegistration.fx in Expo Go via Metro`
 **Незакоммиченных файлов:** 414
 
 ---
@@ -40,11 +40,11 @@ developer: Saidazim
 
 ## Последние 5 коммитов
 
+- 83d74be fix(mobile): block DevicePushTokenAutoRegistration.fx in Expo Go via Metro
 - a902078 fix(mobile): use executionEnvironment storeClient to detect Expo Go SDK 53
 - 3048bc7 fix(mobile): useLastNotificationResponseSafe — guard Expo Go SDK 53 crash
 - 3713da9 fix(mobile): guard expo-notifications behind isExpoGo — Expo Go SDK 53 compat
 - 0ae0538 feat(degenerate): PreToolUse/PostToolUse/Notification hooks + nightly cron + eval-loop + worktree-agent + self-healing skill
-- ce7623d fix(android): dontwarn KeepAwakeManager for R8 minification
 
 ---
 
@@ -68,4 +68,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-25 23:50 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-26 00:23 автоматически через update-last-session.sh*
