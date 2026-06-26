@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-26 16:23
+updated: 2026-06-26 16:26
 developer: Saidazim
 ---
 
@@ -14,8 +14,8 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-26 16:23
-**Последний коммит:** `c7b8bf7 fix(mobile/video): set contentType:'hls' for HLS sources (Rutube playback)`
+**Дата:** 2026-06-26 16:26
+**Последний коммит:** `ca0e72c fix(mobile/browser): keep in-app browser links inside the WebView (Android)`
 **Незакоммиченных файлов:** 414
 
 ---
@@ -40,11 +40,11 @@ developer: Saidazim
 
 ## Последние 5 коммитов
 
+- ca0e72c fix(mobile/browser): keep in-app browser links inside the WebView (Android)
 - c7b8bf7 fix(mobile/video): set contentType:'hls' for HLS sources (Rutube playback)
 - fe297f6 fix(content/hls-proxy): flatten HLS master to best variant + absolute URLs
 - 30a17be fix(content/hls-proxy): handle HLS master playlists (Rutube + universal)
 - 56d96b2 fix(content): Rutube extraction — bump yt-dlp + harden HLS proxy
-- 18f30da fix(mobile): progress bar frozen + static-asset false-positive in stream detection
 
 ---
 
@@ -68,4 +68,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-26 16:23 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-26 16:26 автоматически через update-last-session.sh*
