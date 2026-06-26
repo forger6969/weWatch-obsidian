@@ -1,11 +1,11 @@
 ---
 type: handoff
-updated: 2026-06-26 17:29
+updated: 2026-06-26 18:37
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-26 17:29
+**Завершена:** 2026-06-26 18:37
 
 ## Последний коммит
 0796d5a fix(mobile/rutube): client-side HLS master flatten (bypass IP-lock + comma sign)
