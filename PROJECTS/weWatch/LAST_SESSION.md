@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-26 19:31
+updated: 2026-06-26 20:21
 developer: Saidazim
 ---
 
@@ -14,7 +14,7 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-26 19:31
+**Дата:** 2026-06-26 20:21
 **Последний коммит:** `9ff753e diag(mobile): add cookie/manifest probe to early-intercept reportVideoUrl too`
 **Незакоммиченных файлов:** 414
 
@@ -68,4 +68,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-26 19:31 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-26 20:21 автоматически через update-last-session.sh*
