@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-26 14:45
+updated: 2026-06-26 14:57
 developer: Saidazim
 ---
 
@@ -14,8 +14,8 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-26 14:45
-**Последний коммит:** `4ff8490 fix(mobile): stub TopicSubscriptionModule/PushTokenManager/ServerRegistrationModule in Expo Go`
+**Дата:** 2026-06-26 14:57
+**Последний коммит:** `4717224 fix(mobile/vk): scan performance resource timing in CDN sniffer + diagnostics`
 **Незакоммиченных файлов:** 414
 
 ---
@@ -40,11 +40,11 @@ developer: Saidazim
 
 ## Последние 5 коммитов
 
+- 4717224 fix(mobile/vk): scan performance resource timing in CDN sniffer + diagnostics
 - 4ff8490 fix(mobile): stub TopicSubscriptionModule/PushTokenManager/ServerRegistrationModule in Expo Go
 - 83d74be fix(mobile): block DevicePushTokenAutoRegistration.fx in Expo Go via Metro
 - a902078 fix(mobile): use executionEnvironment storeClient to detect Expo Go SDK 53
 - 3048bc7 fix(mobile): useLastNotificationResponseSafe — guard Expo Go SDK 53 crash
-- 3713da9 fix(mobile): guard expo-notifications behind isExpoGo — Expo Go SDK 53 compat
 
 ---
 
@@ -68,4 +68,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-26 14:45 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-26 14:57 автоматически через update-last-session.sh*
