@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-26 19:13
+updated: 2026-06-26 19:18
 developer: Saidazim
 ---
 
@@ -14,8 +14,8 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-26 19:13
-**Последний коммит:** `85f7f67 feat(mobile/extractor): pull master URL from player libraries (JWPlayer/Video.js/HLS.js/Plyr)`
+**Дата:** 2026-06-26 19:18
+**Последний коммит:** `8052b25 diag(mobile): probe manifest reachability + cookie visibility for session-protected streams`
 **Незакоммиченных файлов:** 414
 
 ---
@@ -40,11 +40,11 @@ developer: Saidazim
 
 ## Последние 5 коммитов
 
+- 8052b25 diag(mobile): probe manifest reachability + cookie visibility for session-protected streams
 - 85f7f67 feat(mobile/extractor): pull master URL from player libraries (JWPlayer/Video.js/HLS.js/Plyr)
 - ce688a2 feat(mobile/video): DASH (.mpd) support — contentType:'dash' + direct play
 - 0796d5a fix(mobile/rutube): client-side HLS master flatten (bypass IP-lock + comma sign)
 - bc251d7 fix(mobile/rutube): keep PAGE_URL for IP-locked platforms → client-side sniff
-- ca0e72c fix(mobile/browser): keep in-app browser links inside the WebView (Android)
 
 ---
 
@@ -68,4 +68,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-26 19:13 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-26 19:18 автоматически через update-last-session.sh*
