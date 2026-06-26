@@ -1,11 +1,11 @@
 ---
 type: handoff
-updated: 2026-06-26 22:35
+updated: 2026-06-26 22:36
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-26 22:35
+**Завершена:** 2026-06-26 22:36
 
 ## Последний коммит
 dee6d35 feat(mobile/browser): continuous 2s video scan → import popup appears on lazy-loaded videos
