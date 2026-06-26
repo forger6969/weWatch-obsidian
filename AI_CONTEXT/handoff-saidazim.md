@@ -1,14 +1,14 @@
 ---
 type: handoff
-updated: 2026-06-26 15:47
+updated: 2026-06-26 15:59
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-26 15:47
+**Завершена:** 2026-06-26 15:59
 
 ## Последний коммит
-30a17be fix(content/hls-proxy): handle HLS master playlists (Rutube + universal)
+fe297f6 fix(content/hls-proxy): flatten HLS master to best variant + absolute URLs
 
 ## Незакоммиченных файлов
 414
@@ -17,11 +17,11 @@ updated: 2026-06-26 15:47
   - package-lock.json
 
 ## Последние 5 коммитов
+- fe297f6 fix(content/hls-proxy): flatten HLS master to best variant + absolute URLs
 - 30a17be fix(content/hls-proxy): handle HLS master playlists (Rutube + universal)
 - 56d96b2 fix(content): Rutube extraction — bump yt-dlp + harden HLS proxy
 - 18f30da fix(mobile): progress bar frozen + static-asset false-positive in stream detection
 - 4717224 fix(mobile/vk): scan performance resource timing in CDN sniffer + diagnostics
-- 4ff8490 fix(mobile): stub TopicSubscriptionModule/PushTokenManager/ServerRegistrationModule in Expo Go
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
