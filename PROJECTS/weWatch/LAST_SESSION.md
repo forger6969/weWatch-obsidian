@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-26 19:02
+updated: 2026-06-26 19:09
 developer: Saidazim
 ---
 
@@ -14,7 +14,7 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-26 19:02
+**Дата:** 2026-06-26 19:09
 **Последний коммит:** `85f7f67 feat(mobile/extractor): pull master URL from player libraries (JWPlayer/Video.js/HLS.js/Plyr)`
 **Незакоммиченных файлов:** 414
 
@@ -68,4 +68,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-26 19:02 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-26 19:09 автоматически через update-last-session.sh*
