@@ -1,11 +1,11 @@
 ---
 type: handoff
-updated: 2026-06-26 19:09
+updated: 2026-06-26 19:13
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-26 19:09
+**Завершена:** 2026-06-26 19:13
 
 ## Последний коммит
 85f7f67 feat(mobile/extractor): pull master URL from player libraries (JWPlayer/Video.js/HLS.js/Plyr)
