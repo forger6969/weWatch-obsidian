@@ -1,11 +1,11 @@
 ---
 type: handoff
-updated: 2026-06-26 00:52
+updated: 2026-06-26 14:20
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-26 00:52
+**Завершена:** 2026-06-26 14:20
 
 ## Последний коммит
 4ff8490 fix(mobile): stub TopicSubscriptionModule/PushTokenManager/ServerRegistrationModule in Expo Go
