@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-26 18:47
+updated: 2026-06-26 19:01
 developer: Saidazim
 ---
 
@@ -14,8 +14,8 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-26 18:47
-**Последний коммит:** `0796d5a fix(mobile/rutube): client-side HLS master flatten (bypass IP-lock + comma sign)`
+**Дата:** 2026-06-26 19:01
+**Последний коммит:** `85f7f67 feat(mobile/extractor): pull master URL from player libraries (JWPlayer/Video.js/HLS.js/Plyr)`
 **Незакоммиченных файлов:** 414
 
 ---
@@ -40,11 +40,11 @@ developer: Saidazim
 
 ## Последние 5 коммитов
 
+- 85f7f67 feat(mobile/extractor): pull master URL from player libraries (JWPlayer/Video.js/HLS.js/Plyr)
+- ce688a2 feat(mobile/video): DASH (.mpd) support — contentType:'dash' + direct play
 - 0796d5a fix(mobile/rutube): client-side HLS master flatten (bypass IP-lock + comma sign)
 - bc251d7 fix(mobile/rutube): keep PAGE_URL for IP-locked platforms → client-side sniff
 - ca0e72c fix(mobile/browser): keep in-app browser links inside the WebView (Android)
-- c7b8bf7 fix(mobile/video): set contentType:'hls' for HLS sources (Rutube playback)
-- fe297f6 fix(content/hls-proxy): flatten HLS master to best variant + absolute URLs
 
 ---
 
@@ -68,4 +68,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-26 18:47 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-26 19:01 автоматически через update-last-session.sh*
