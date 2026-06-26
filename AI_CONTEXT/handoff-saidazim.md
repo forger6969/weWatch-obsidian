@@ -1,11 +1,11 @@
 ---
 type: handoff
-updated: 2026-06-26 19:21
+updated: 2026-06-26 19:31
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-26 19:21
+**Завершена:** 2026-06-26 19:31
 
 ## Последний коммит
 9ff753e diag(mobile): add cookie/manifest probe to early-intercept reportVideoUrl too
