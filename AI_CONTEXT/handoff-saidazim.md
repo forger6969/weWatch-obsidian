@@ -1,11 +1,11 @@
 ---
 type: handoff
-updated: 2026-06-27 13:58
+updated: 2026-06-27 14:04
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-27 13:58
+**Завершена:** 2026-06-27 14:04
 
 ## Последний коммит
 873251b feat(mobile/extractor): inject detector into all frames → catch iframe-embedded video
