@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-27 14:45
+updated: 2026-06-27 15:15
 developer: Saidazim
 ---
 
@@ -14,9 +14,9 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-27 14:45
+**Дата:** 2026-06-27 15:15
 **Последний коммит:** `03ce271 feat(mobile/watch-party): голос-соединение постоянно в фоне (Discord-style)`
-**Незакоммиченных файлов:** 414
+**Незакоммиченных файлов:** 415
 
 ---
 
@@ -34,6 +34,7 @@ developer: Saidazim
 
 ## Изменённые файлы
 
+  - apps/mobile/package.json
   - package-lock.json
 
 ---
@@ -68,4 +69,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-27 14:45 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-27 15:15 автоматически через update-last-session.sh*
