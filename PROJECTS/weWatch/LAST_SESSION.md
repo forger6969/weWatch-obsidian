@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-27 14:10
+updated: 2026-06-27 14:15
 developer: Saidazim
 ---
 
@@ -14,8 +14,8 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-27 14:10
-**Последний коммит:** `873251b feat(mobile/extractor): inject detector into all frames → catch iframe-embedded video`
+**Дата:** 2026-06-27 14:15
+**Последний коммит:** `b37d73e feat(mobile/watch-party): авто-вход в голос (мик выключен) + голос-панель по умолчанию`
 **Незакоммиченных файлов:** 414
 
 ---
@@ -40,11 +40,11 @@ developer: Saidazim
 
 ## Последние 5 коммитов
 
+- b37d73e feat(mobile/watch-party): авто-вход в голос (мик выключен) + голос-панель по умолчанию
 - 873251b feat(mobile/extractor): inject detector into all frames → catch iframe-embedded video
 - dee6d35 feat(mobile/browser): continuous 2s video scan → import popup appears on lazy-loaded videos
 - 9ff753e diag(mobile): add cookie/manifest probe to early-intercept reportVideoUrl too
 - 8052b25 diag(mobile): probe manifest reachability + cookie visibility for session-protected streams
-- 85f7f67 feat(mobile/extractor): pull master URL from player libraries (JWPlayer/Video.js/HLS.js/Plyr)
 
 ---
 
@@ -68,4 +68,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-27 14:10 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-27 14:15 автоматически через update-last-session.sh*
