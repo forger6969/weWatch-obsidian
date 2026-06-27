@@ -82,3 +82,5 @@ logger.info('msg', { userId });  // НЕ console.log
 <!-- session ended: 2026-06-26 20:20 -->
 
 <!-- session ended: 2026-06-27 15:28 -->
+
+<!-- session ended: 2026-06-27 23:49 -->
