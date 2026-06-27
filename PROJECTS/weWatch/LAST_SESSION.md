@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-27 12:08
+updated: 2026-06-27 13:58
 developer: Saidazim
 ---
 
@@ -14,7 +14,7 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-27 12:08
+**Дата:** 2026-06-27 13:58
 **Последний коммит:** `873251b feat(mobile/extractor): inject detector into all frames → catch iframe-embedded video`
 **Незакоммиченных файлов:** 414
 
@@ -68,4 +68,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-27 12:08 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-27 13:58 автоматически через update-last-session.sh*
