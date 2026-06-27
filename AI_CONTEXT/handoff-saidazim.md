@@ -1,19 +1,20 @@
 ---
 type: handoff
-updated: 2026-06-27 15:34
+updated: 2026-06-27 16:18
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-27 15:34
+**Завершена:** 2026-06-27 16:18
 
 ## Последний коммит
 03ce271 feat(mobile/watch-party): голос-соединение постоянно в фоне (Discord-style)
 
 ## Незакоммиченных файлов
-415
+416
 
 ## Изменённые файлы
+  - apps/mobile/app.json
   - apps/mobile/package.json
   - package-lock.json
 
