@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-29 19:13
+updated: 2026-06-29 19:16
 developer: Saidazim
 ---
 
@@ -14,7 +14,7 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-29 19:13
+**Дата:** 2026-06-29 19:16
 **Последний коммит:** `808df3c feat(mobile/notifications): prompt for permission on app start + Settings enable row`
 **Незакоммиченных файлов:** 422
 
@@ -72,4 +72,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-29 19:13 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-29 19:16 автоматически через update-last-session.sh*

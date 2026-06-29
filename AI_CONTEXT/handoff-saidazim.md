@@ -1,11 +1,11 @@
 ---
 type: handoff
-updated: 2026-06-29 19:13
+updated: 2026-06-29 19:16
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-29 19:13
+**Завершена:** 2026-06-29 19:16
 
 ## Последний коммит
 808df3c feat(mobile/notifications): prompt for permission on app start + Settings enable row
