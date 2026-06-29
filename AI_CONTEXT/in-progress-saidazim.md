@@ -1,5 +1,5 @@
 ---
-updated: 2026-06-29 18:06
+updated: 2026-06-29 18:14
 developer: Saidazim
 status: active
 ---
@@ -7,14 +7,14 @@ status: active
 # 🚧 В ПРОЦЕССЕ — Saidazim
 
 **Таск:** T-S107 — P1 | [MOBILE] | Mesh Faza 1: SyncBroadcaster'ni useWatchPartyRoom'ga ulash
-**Прогресс:** 85%
-**Обновлено:** 2026-06-29 18:06
+**Прогресс:** 95%
+**Обновлено:** 2026-06-29 18:14
 
 ## Сделано ✅
-Mesh подключён к useWatchParty + гибрид буфера (≤3 пауза / 4+ догон). tsc 0 новых ошибок. Commit 500c125
+watch-part задеплоен (/turn/credentials 401=живой, health ok). APK собран wewatch-mesh-sync.apk (Sentry upload отключён). Осталось: тест на 2 устройствах
 
 ## Следующий шаг ▶️
-deploy watch-part → собрать APK → тест на 2 устройствах
+установить APK на 2 телефона → замерить задержку play/pause → если ок: Done.md + tg-notify
 
 ## Изменённые файлы (git)
   - apps/mobile/app.json

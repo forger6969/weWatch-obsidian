@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-29 18:11
+updated: 2026-06-29 18:14
 developer: Saidazim
 ---
 
@@ -14,9 +14,9 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-29 18:11
+**Дата:** 2026-06-29 18:14
 **Последний коммит:** `500c125 feat(mesh): Faza 1 — wire SyncBroadcaster into useWatchParty + adaptive buffering`
-**Незакоммиченных файлов:** 421
+**Незакоммиченных файлов:** 422
 
 ---
 
@@ -72,4 +72,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-29 18:11 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-29 18:14 автоматически через update-last-session.sh*
