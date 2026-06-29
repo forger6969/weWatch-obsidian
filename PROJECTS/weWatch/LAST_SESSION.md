@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-29 19:05
+updated: 2026-06-29 19:07
 developer: Saidazim
 ---
 
@@ -14,9 +14,9 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-29 19:05
-**Последний коммит:** `500c125 feat(mesh): Faza 1 — wire SyncBroadcaster into useWatchParty + adaptive buffering`
-**Незакоммиченных файлов:** 423
+**Дата:** 2026-06-29 19:07
+**Последний коммит:** `4614f86 feat(mobile/watch-party): remove 'create room without media' button from SourcePicker`
+**Незакоммиченных файлов:** 422
 
 ---
 
@@ -36,18 +36,17 @@ developer: Saidazim
 
   - apps/mobile/app.json
   - apps/mobile/package.json
-  - apps/mobile/src/screens/modal/SourcePickerScreen.tsx
   - package-lock.json
 
 ---
 
 ## Последние 5 коммитов
 
+- 4614f86 feat(mobile/watch-party): remove 'create room without media' button from SourcePicker
 - 500c125 feat(mesh): Faza 1 — wire SyncBroadcaster into useWatchParty + adaptive buffering
 - 900df1b feat(mesh): Faza 0 — TURN credentials endpoint + NTP clock-sync handshake
 - 230dc41 task: claim Sprint 12 mesh sync migration T-S106/T-S107/T-C016 [Saidazim]
 - 03ce271 feat(mobile/watch-party): голос-соединение постоянно в фоне (Discord-style)
-- b37d73e feat(mobile/watch-party): авто-вход в голос (мик выключен) + голос-панель по умолчанию
 
 ---
 
@@ -73,4 +72,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-29 19:05 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-29 19:07 автоматически через update-last-session.sh*
