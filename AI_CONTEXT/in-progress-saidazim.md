@@ -1,20 +1,20 @@
 ---
-updated: 2026-06-29 16:59
+updated: 2026-06-29 18:06
 developer: Saidazim
 status: active
 ---
 
 # 🚧 В ПРОЦЕССЕ — Saidazim
 
-**Таск:** T-S106 — P1 | [MOBILE] | Mesh Faza 0: clock-sync handshake + TURN
-**Прогресс:** 90%
-**Обновлено:** 2026-06-29 16:59
+**Таск:** T-S107 — P1 | [MOBILE] | Mesh Faza 1: SyncBroadcaster'ni useWatchPartyRoom'ga ulash
+**Прогресс:** 85%
+**Обновлено:** 2026-06-29 18:06
 
 ## Сделано ✅
-Metered apiKey исправлен (per-credential key, не Developers secret), endpoint 200 OK — 5 ICE серверов. Код закоммичен 900df1b
+Mesh подключён к useWatchParty + гибрид буфера (≤3 пауза / 4+ догон). tsc 0 новых ошибок. Commit 500c125
 
 ## Следующий шаг ▶️
-deploy watch-part → live endpoint test → Фаза 1 (T-S107)
+deploy watch-part → собрать APK → тест на 2 устройствах
 
 ## Изменённые файлы (git)
   - apps/mobile/app.json

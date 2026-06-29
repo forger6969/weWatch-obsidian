@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-29 17:59
+updated: 2026-06-29 18:07
 developer: Saidazim
 ---
 
@@ -14,8 +14,8 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-29 17:59
-**Последний коммит:** `900df1b feat(mesh): Faza 0 — TURN credentials endpoint + NTP clock-sync handshake`
+**Дата:** 2026-06-29 18:07
+**Последний коммит:** `500c125 feat(mesh): Faza 1 — wire SyncBroadcaster into useWatchParty + adaptive buffering`
 **Незакоммиченных файлов:** 421
 
 ---
@@ -42,11 +42,11 @@ developer: Saidazim
 
 ## Последние 5 коммитов
 
+- 500c125 feat(mesh): Faza 1 — wire SyncBroadcaster into useWatchParty + adaptive buffering
 - 900df1b feat(mesh): Faza 0 — TURN credentials endpoint + NTP clock-sync handshake
 - 230dc41 task: claim Sprint 12 mesh sync migration T-S106/T-S107/T-C016 [Saidazim]
 - 03ce271 feat(mobile/watch-party): голос-соединение постоянно в фоне (Discord-style)
 - b37d73e feat(mobile/watch-party): авто-вход в голос (мик выключен) + голос-панель по умолчанию
-- 873251b feat(mobile/extractor): inject detector into all frames → catch iframe-embedded video
 
 ---
 
@@ -72,4 +72,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-29 17:59 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-29 18:07 автоматически через update-last-session.sh*
