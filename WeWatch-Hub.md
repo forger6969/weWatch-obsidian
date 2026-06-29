@@ -63,6 +63,7 @@ Monorepo, mikroservislar. MVP bosqichi. Railway'da deploy qilingan.
 
 | Skill | Fayl | Qachon ishlatiladi |
 |-------|------|--------------------|
+| RAG (vault recall) | [[ZONES/Skills/rag-obsidian]] · `.claude/scripts/rag.sh q` | har nontrivial vazifadan oldin — semantik qidiruv (RU/UZ/EN) |
 | research | .claude/skills/research.md | har yangi vazifadan oldin |
 | dev-workflow | .claude/skills/dev-workflow.md | ≥3 fayl yoki >20 min |
 | spec-driven | .claude/skills/spec-driven-implement.md | kod yozishdan oldin |

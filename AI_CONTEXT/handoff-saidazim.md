@@ -1,17 +1,17 @@
 ---
 type: handoff
-updated: 2026-06-29 21:56
+updated: 2026-06-29 22:00
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-29 21:56
+**Завершена:** 2026-06-29 22:00
 
 ## Последний коммит
-808df3c feat(mobile/notifications): prompt for permission on app start + Settings enable row
+450434b feat(tooling): wire RAG vault recall into workflow + commit scripts
 
 ## Незакоммиченных файлов
-422
+418
 
 ## Изменённые файлы
   - apps/mobile/app.json
@@ -19,11 +19,11 @@ updated: 2026-06-29 21:56
   - package-lock.json
 
 ## Последние 5 коммитов
+- 450434b feat(tooling): wire RAG vault recall into workflow + commit scripts
 - 808df3c feat(mobile/notifications): prompt for permission on app start + Settings enable row
 - 4614f86 feat(mobile/watch-party): remove 'create room without media' button from SourcePicker
 - 500c125 feat(mesh): Faza 1 — wire SyncBroadcaster into useWatchParty + adaptive buffering
 - 900df1b feat(mesh): Faza 0 — TURN credentials endpoint + NTP clock-sync handshake
-- 230dc41 task: claim Sprint 12 mesh sync migration T-S106/T-S107/T-C016 [Saidazim]
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
