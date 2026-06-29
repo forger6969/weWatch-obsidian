@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-29 16:56
+updated: 2026-06-29 17:33
 developer: Saidazim
 ---
 
@@ -14,9 +14,9 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-29 16:56
-**Последний коммит:** `230dc41 task: claim Sprint 12 mesh sync migration T-S106/T-S107/T-C016 [Saidazim]`
-**Незакоммиченных файлов:** 431
+**Дата:** 2026-06-29 17:33
+**Последний коммит:** `900df1b feat(mesh): Faza 0 — TURN credentials endpoint + NTP clock-sync handshake`
+**Незакоммиченных файлов:** 421
 
 ---
 
@@ -36,24 +36,17 @@ developer: Saidazim
 
   - apps/mobile/app.json
   - apps/mobile/package.json
-  - apps/mobile/src/api/watchParty.api.ts
-  - apps/mobile/src/hooks/useVoiceChat.ts
-  - apps/mobile/src/services/mesh/MeshClient.ts
-  - apps/mobile/src/services/mesh/SyncBroadcaster.ts
-  - apps/mobile/src/services/mesh/SyncProtocol.ts
-  - apps/mobile/src/services/mesh/types.ts
   - package-lock.json
-  - services/watch-party/src/config/index.ts
 
 ---
 
 ## Последние 5 коммитов
 
+- 900df1b feat(mesh): Faza 0 — TURN credentials endpoint + NTP clock-sync handshake
 - 230dc41 task: claim Sprint 12 mesh sync migration T-S106/T-S107/T-C016 [Saidazim]
 - 03ce271 feat(mobile/watch-party): голос-соединение постоянно в фоне (Discord-style)
 - b37d73e feat(mobile/watch-party): авто-вход в голос (мик выключен) + голос-панель по умолчанию
 - 873251b feat(mobile/extractor): inject detector into all frames → catch iframe-embedded video
-- dee6d35 feat(mobile/browser): continuous 2s video scan → import popup appears on lazy-loaded videos
 
 ---
 
@@ -79,4 +72,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-29 16:56 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-29 17:33 автоматически через update-last-session.sh*
