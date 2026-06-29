@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-29 23:43
+updated: 2026-06-29 23:47
 developer: Saidazim
 ---
 
@@ -14,9 +14,9 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-29 23:43
+**Дата:** 2026-06-29 23:47
 **Последний коммит:** `450434b feat(tooling): wire RAG vault recall into workflow + commit scripts`
-**Незакоммиченных файлов:** 418
+**Незакоммиченных файлов:** 419
 
 ---
 
@@ -36,6 +36,7 @@ developer: Saidazim
 
   - apps/mobile/app.json
   - apps/mobile/package.json
+  - apps/mobile/src/hooks/usePushNotifications.ts
   - package-lock.json
 
 ---
@@ -72,4 +73,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-29 23:43 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-29 23:47 автоматически через update-last-session.sh*
