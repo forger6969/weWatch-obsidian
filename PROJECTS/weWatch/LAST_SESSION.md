@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-29 18:20
+updated: 2026-06-29 19:05
 developer: Saidazim
 ---
 
@@ -14,9 +14,9 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-29 18:20
+**Дата:** 2026-06-29 19:05
 **Последний коммит:** `500c125 feat(mesh): Faza 1 — wire SyncBroadcaster into useWatchParty + adaptive buffering`
-**Незакоммиченных файлов:** 422
+**Незакоммиченных файлов:** 423
 
 ---
 
@@ -36,6 +36,7 @@ developer: Saidazim
 
   - apps/mobile/app.json
   - apps/mobile/package.json
+  - apps/mobile/src/screens/modal/SourcePickerScreen.tsx
   - package-lock.json
 
 ---
@@ -72,4 +73,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-29 18:20 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-29 19:05 автоматически через update-last-session.sh*

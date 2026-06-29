@@ -1,21 +1,22 @@
 ---
 type: handoff
-updated: 2026-06-29 18:20
+updated: 2026-06-29 19:05
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-29 18:20
+**Завершена:** 2026-06-29 19:05
 
 ## Последний коммит
 500c125 feat(mesh): Faza 1 — wire SyncBroadcaster into useWatchParty + adaptive buffering
 
 ## Незакоммиченных файлов
-422
+423
 
 ## Изменённые файлы
   - apps/mobile/app.json
   - apps/mobile/package.json
+  - apps/mobile/src/screens/modal/SourcePickerScreen.tsx
   - package-lock.json
 
 ## Последние 5 коммитов
