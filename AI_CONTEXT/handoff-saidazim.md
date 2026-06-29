@@ -1,17 +1,17 @@
 ---
 type: handoff
-updated: 2026-06-29 23:55
+updated: 2026-06-29 23:56
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-29 23:55
+**Завершена:** 2026-06-29 23:56
 
 ## Последний коммит
 450434b feat(tooling): wire RAG vault recall into workflow + commit scripts
 
 ## Незакоммиченных файлов
-419
+420
 
 ## Изменённые файлы
   - apps/mobile/app.json
