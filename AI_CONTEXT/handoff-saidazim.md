@@ -1,11 +1,11 @@
 ---
 type: handoff
-updated: 2026-06-29 17:44
+updated: 2026-06-29 17:47
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-29 17:44
+**Завершена:** 2026-06-29 17:47
 
 ## Последний коммит
 900df1b feat(mesh): Faza 0 — TURN credentials endpoint + NTP clock-sync handshake
