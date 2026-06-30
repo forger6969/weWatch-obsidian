@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-30 15:19
+updated: 2026-06-30 15:22
 developer: Saidazim
 ---
 
@@ -14,9 +14,9 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-30 15:19
-**Последний коммит:** `450434b feat(tooling): wire RAG vault recall into workflow + commit scripts`
-**Незакоммиченных файлов:** 423
+**Дата:** 2026-06-30 15:22
+**Последний коммит:** `2853e79 chore: auto-save zone context [session-stop]`
+**Незакоммиченных файлов:** 422
 
 ---
 
@@ -34,7 +34,6 @@ developer: Saidazim
 
 ## Изменённые файлы
 
-  - CLAUDE.md
   - apps/mobile/android/app/proguard-rules.pro
   - apps/mobile/app.json
   - apps/mobile/package.json
@@ -45,11 +44,11 @@ developer: Saidazim
 
 ## Последние 5 коммитов
 
+- 2853e79 chore: auto-save zone context [session-stop]
 - 450434b feat(tooling): wire RAG vault recall into workflow + commit scripts
 - 808df3c feat(mobile/notifications): prompt for permission on app start + Settings enable row
 - 4614f86 feat(mobile/watch-party): remove 'create room without media' button from SourcePicker
 - 500c125 feat(mesh): Faza 1 — wire SyncBroadcaster into useWatchParty + adaptive buffering
-- 900df1b feat(mesh): Faza 0 — TURN credentials endpoint + NTP clock-sync handshake
 
 ---
 
@@ -75,4 +74,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-30 15:19 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-30 15:22 автоматически через update-last-session.sh*
