@@ -1,11 +1,11 @@
 ---
 type: handoff
-updated: 2026-06-30 15:07
+updated: 2026-06-30 15:13
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-30 15:07
+**Завершена:** 2026-06-30 15:13
 
 ## Последний коммит
 450434b feat(tooling): wire RAG vault recall into workflow + commit scripts
