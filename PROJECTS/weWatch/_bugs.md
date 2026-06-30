@@ -22,3 +22,22 @@ Fix (2 файла):
 
 Подтверждено через agy (внешний критик): keep-правил кода НЕдостаточно при shrinkResources — нужен именно keep.xml для ресурсов. Это и объясняет отсутствие исключения.
 > Found: 2026-06-30 15:19 | By: Saidazim
+
+### 🐛 [weWatch] Google native login DEVELOPER_ERROR — нет Android OAuth client + debug SHA-1 не зарегистрирован
+> Симптом: 'не удалось войти через google' в release APK, нативный @react-native-google-signin путь.
+
+Root cause (НЕ код, конфиг Google Cloud):
+- Mobile webClientId (useSocialAuth.ts:13) = 756077214118-top29... (проект A)
+- Backend GOOGLE_CLIENT_ID = тот же 756077214118 → mobile и backend СОГЛАСОВАНЫ
+- НО в проекте A нет OAuth Android client (package com.wewatch.app + SHA-1), поэтому Play Services не выдаёт idToken → DEVELOPER_ERROR (code 10)
+- Backend GOOGLE_ANDROID_CLIENT_ID='dev_android_client_id' — заглушка
+- google-services.json в APK из проекта B (151878141751 ravetokenauth, только FCM) — менять НЕ нужно (webClientId явно переопределяет)
+
+APK подписан debug-ключом: SHA-1 5E:8F:16:06:2E:A3:CD:2C:4A:0D:54:78:76:BA:A6:F3:8C:AB:F6:25
+
+Fix (Google Cloud Console, проект 756077214118):
+1. Credentials → Create OAuth client ID → Android
+2. Package: com.wewatch.app, SHA-1: 5E:8F:16:06:... (debug ключа)
+3. (опц.) полученный android client id → backend GOOGLE_ANDROID_CLIENT_ID
+Подтверждено через agy: одного Android-клиента в проекте A достаточно, google-services.json трогать не надо (idToken→свой backend).
+> Found: 2026-06-30 15:41 | By: Saidazim
