@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-30 15:41
+updated: 2026-06-30 15:46
 developer: Saidazim
 ---
 
@@ -14,9 +14,9 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-30 15:41
+**Дата:** 2026-06-30 15:46
 **Последний коммит:** `2853e79 chore: auto-save zone context [session-stop]`
-**Незакоммиченных файлов:** 422
+**Незакоммиченных файлов:** 423
 
 ---
 
@@ -38,6 +38,7 @@ developer: Saidazim
   - apps/mobile/app.json
   - apps/mobile/package.json
   - apps/mobile/src/hooks/usePushNotifications.ts
+  - apps/mobile/src/hooks/useSocialAuth.ts
   - package-lock.json
 
 ---
@@ -74,4 +75,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-30 15:41 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-30 15:46 автоматически через update-last-session.sh*
