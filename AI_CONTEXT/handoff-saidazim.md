@@ -1,20 +1,21 @@
 ---
 type: handoff
-updated: 2026-06-30 15:15
+updated: 2026-06-30 15:19
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-30 15:15
+**Завершена:** 2026-06-30 15:19
 
 ## Последний коммит
 450434b feat(tooling): wire RAG vault recall into workflow + commit scripts
 
 ## Незакоммиченных файлов
-422
+423
 
 ## Изменённые файлы
   - CLAUDE.md
+  - apps/mobile/android/app/proguard-rules.pro
   - apps/mobile/app.json
   - apps/mobile/package.json
   - apps/mobile/src/hooks/usePushNotifications.ts
