@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-06-30 15:13
+updated: 2026-06-30 15:15
 developer: Saidazim
 ---
 
@@ -14,9 +14,9 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-06-30 15:13
+**Дата:** 2026-06-30 15:15
 **Последний коммит:** `450434b feat(tooling): wire RAG vault recall into workflow + commit scripts`
-**Незакоммиченных файлов:** 420
+**Незакоммиченных файлов:** 422
 
 ---
 
@@ -34,6 +34,7 @@ developer: Saidazim
 
 ## Изменённые файлы
 
+  - CLAUDE.md
   - apps/mobile/app.json
   - apps/mobile/package.json
   - apps/mobile/src/hooks/usePushNotifications.ts
@@ -73,4 +74,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-06-30 15:13 автоматически через update-last-session.sh*
+*Обновлено: 2026-06-30 15:15 автоматически через update-last-session.sh*

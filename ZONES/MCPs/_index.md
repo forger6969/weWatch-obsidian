@@ -16,6 +16,7 @@ updated: 2026-06-03
 | **Gmail** | mcp__claude_ai_Gmail | Email | — |
 | **Google Calendar** | mcp__claude_ai_Google_Calendar | Kalendar | — |
 | **Google Drive** | mcp__claude_ai_Google_Drive | Drive fayllari | — |
+| **antigravity (`agy`)** | CLI (Google) | Ikkinchi fikr + self-critic, [[antigravity-cli]] | Barcha |
 
 ## Telegram MCP
 

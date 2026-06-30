@@ -1,19 +1,20 @@
 ---
 type: handoff
-updated: 2026-06-30 15:13
+updated: 2026-06-30 15:15
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-06-30 15:13
+**Завершена:** 2026-06-30 15:15
 
 ## Последний коммит
 450434b feat(tooling): wire RAG vault recall into workflow + commit scripts
 
 ## Незакоммиченных файлов
-420
+422
 
 ## Изменённые файлы
+  - CLAUDE.md
   - apps/mobile/app.json
   - apps/mobile/package.json
   - apps/mobile/src/hooks/usePushNotifications.ts
