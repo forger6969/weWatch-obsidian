@@ -32,3 +32,13 @@ PUBG (UC), Telegram (Stars, Premium, Gifts), Clash of Clans (Gold+GoldPass), Fre
 ## Admin Panel
 - Секции: dashboard, payments, orders, catalog, analytics, promos
 - Агент поддержки входит через `?admin=1` или отдельный роут
+
+## Deploy (Render) — ВАЖНО (2026-07-01)
+- `render.yaml` в репо УСТАРЕЛ (описывает старый Python `uvicorn backend.main`). НЕ используется.
+- Реальные сервисы заведены в дашборде Render, autoDeploy on commit → main:
+  - **doonya-shop-api** (web_service, `rootDir: ./backend-node`) → https://doonya-shop-api.onrender.com | health: `/health` → 200
+  - **doonya-shop-frontend** (static, `cd frontend && build`) → doonya-shop-frontend.onrender.com
+  - **doonya-landing** (static, `cd landing && build`)
+- Деплой = `git push origin main`. Проверка: `render deploys list srv-d8re6rn7f7vs73dv8660 -o json --confirm`
+- Backend Node: Express + Mongoose + Telegraf. `strict:true` схемы → поля вне схемы молча теряются при updateOne (был баг с email/avatar).
+- Ник при регистрации: FE модал `needsUsernameSetup` (App.tsx) + `POST /username` (лочится). `getOrCreateUser` теперь НЕ сеет TG-@username → окошко у всех.
