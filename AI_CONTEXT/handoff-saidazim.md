@@ -11,7 +11,7 @@ updated: 2026-07-01 21:52
 2853e79 chore: auto-save zone context [session-stop]
 
 ## Незакоммиченных файлов
-426
+427
 
 ## Изменённые файлы
   - apps/mobile/android/app/proguard-rules.pro
