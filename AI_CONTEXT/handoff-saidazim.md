@@ -1,34 +1,32 @@
 ---
 type: handoff
-updated: 2026-07-01 22:46
+updated: 2026-07-01 22:54
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-07-01 22:46
+**Завершена:** 2026-07-01 22:54
 
 ## Последний коммит
-2853e79 chore: auto-save zone context [session-stop]
+2fad066 fix(mobile): lazy-load webrtc to stop Expo Go crash + native Google Sign-In on iOS
 
 ## Незакоммиченных файлов
-431
+427
 
 ## Изменённые файлы
   - apps/mobile/android/app/proguard-rules.pro
-  - apps/mobile/app.json
   - apps/mobile/package.json
   - apps/mobile/src/hooks/usePushNotifications.ts
-  - apps/mobile/src/hooks/useSocialAuth.ts
   - apps/mobile/src/navigation/AppNavigator.tsx
-  - apps/mobile/src/services/mesh/MeshClient.ts
-  - apps/mobile/src/services/mesh/SyncBroadcaster.ts
+  - package-lock.json
+  - services/admin/src/app.ts
 
 ## Последние 5 коммитов
+- 2fad066 fix(mobile): lazy-load webrtc to stop Expo Go crash + native Google Sign-In on iOS
 - 2853e79 chore: auto-save zone context [session-stop]
 - 450434b feat(tooling): wire RAG vault recall into workflow + commit scripts
 - 808df3c feat(mobile/notifications): prompt for permission on app start + Settings enable row
 - 4614f86 feat(mobile/watch-party): remove 'create room without media' button from SourcePicker
-- 500c125 feat(mesh): Faza 1 — wire SyncBroadcaster into useWatchParty + adaptive buffering
 
 ## Pending задачи — Saidazim
 - T-S094 | P2 | [DEVOPS] | Play Store: Privacy Policy + DMCA sahifasi | pending[Saidazim]
