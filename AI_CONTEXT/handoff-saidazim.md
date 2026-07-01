@@ -1,27 +1,27 @@
 ---
 type: handoff
-updated: 2026-07-01 21:52
+updated: 2026-07-01 21:57
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-07-01 21:52
+**Завершена:** 2026-07-01 21:57
 
 ## Последний коммит
 2853e79 chore: auto-save zone context [session-stop]
 
 ## Незакоммиченных файлов
-427
+429
 
 ## Изменённые файлы
   - apps/mobile/android/app/proguard-rules.pro
   - apps/mobile/app.json
+  - apps/mobile/google-services.json
   - apps/mobile/package.json
   - apps/mobile/src/hooks/usePushNotifications.ts
   - apps/mobile/src/hooks/useSocialAuth.ts
   - apps/mobile/src/navigation/AppNavigator.tsx
   - package-lock.json
-  - services/admin/src/app.ts
 
 ## Последние 5 коммитов
 - 2853e79 chore: auto-save zone context [session-stop]

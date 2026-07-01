@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-07-01 21:52
+updated: 2026-07-01 21:57
 developer: Saidazim
 ---
 
@@ -14,9 +14,9 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-07-01 21:52
+**Дата:** 2026-07-01 21:57
 **Последний коммит:** `2853e79 chore: auto-save zone context [session-stop]`
-**Незакоммиченных файлов:** 427
+**Незакоммиченных файлов:** 429
 
 ---
 
@@ -36,6 +36,7 @@ developer: Saidazim
 
   - apps/mobile/android/app/proguard-rules.pro
   - apps/mobile/app.json
+  - apps/mobile/google-services.json
   - apps/mobile/package.json
   - apps/mobile/src/hooks/usePushNotifications.ts
   - apps/mobile/src/hooks/useSocialAuth.ts
@@ -77,4 +78,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-07-01 21:52 автоматически через update-last-session.sh*
+*Обновлено: 2026-07-01 21:57 автоматически через update-last-session.sh*
