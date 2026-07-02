@@ -1,22 +1,24 @@
 ---
 type: handoff
-updated: 2026-07-02 16:41
+updated: 2026-07-02 16:47
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-07-02 16:41
+**Завершена:** 2026-07-02 16:47
 
 ## Последний коммит
 2fad066 fix(mobile): lazy-load webrtc to stop Expo Go crash + native Google Sign-In on iOS
 
 ## Незакоммиченных файлов
-428
+433
 
 ## Изменённые файлы
   - apps/mobile/android/app/proguard-rules.pro
+  - apps/mobile/metro.config.js
   - apps/mobile/package.json
   - apps/mobile/src/hooks/usePushNotifications.ts
+  - apps/mobile/src/mocks/expo-notifications-native-noop.js
   - apps/mobile/src/navigation/AppNavigator.tsx
   - package-lock.json
   - services/admin/src/app.ts

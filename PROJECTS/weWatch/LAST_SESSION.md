@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-07-02 16:41
+updated: 2026-07-02 16:47
 developer: Saidazim
 ---
 
@@ -14,9 +14,9 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-07-02 16:41
+**Дата:** 2026-07-02 16:47
 **Последний коммит:** `2fad066 fix(mobile): lazy-load webrtc to stop Expo Go crash + native Google Sign-In on iOS`
-**Незакоммиченных файлов:** 428
+**Незакоммиченных файлов:** 433
 
 ---
 
@@ -35,8 +35,10 @@ developer: Saidazim
 ## Изменённые файлы
 
   - apps/mobile/android/app/proguard-rules.pro
+  - apps/mobile/metro.config.js
   - apps/mobile/package.json
   - apps/mobile/src/hooks/usePushNotifications.ts
+  - apps/mobile/src/mocks/expo-notifications-native-noop.js
   - apps/mobile/src/navigation/AppNavigator.tsx
   - package-lock.json
   - services/admin/src/app.ts
@@ -75,4 +77,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-07-02 16:41 автоматически через update-last-session.sh*
+*Обновлено: 2026-07-02 16:47 автоматически через update-last-session.sh*
