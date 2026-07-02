@@ -1,17 +1,17 @@
 ---
 type: handoff
-updated: 2026-07-02 16:47
+updated: 2026-07-02 16:51
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-07-02 16:47
+**Завершена:** 2026-07-02 16:51
 
 ## Последний коммит
 2fad066 fix(mobile): lazy-load webrtc to stop Expo Go crash + native Google Sign-In on iOS
 
 ## Незакоммиченных файлов
-433
+434
 
 ## Изменённые файлы
   - apps/mobile/android/app/proguard-rules.pro
