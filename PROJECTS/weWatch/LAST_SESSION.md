@@ -1,7 +1,7 @@
 ---
 type: last-session
 project: weWatch
-updated: 2026-07-02 14:44
+updated: 2026-07-02 14:46
 developer: Saidazim
 ---
 
@@ -14,7 +14,7 @@ developer: Saidazim
 
 ## Последняя сессия
 
-**Дата:** 2026-07-02 14:44
+**Дата:** 2026-07-02 14:46
 **Последний коммит:** `2fad066 fix(mobile): lazy-load webrtc to stop Expo Go crash + native Google Sign-In on iOS`
 **Незакоммиченных файлов:** 427
 
@@ -75,4 +75,4 @@ developer: Saidazim
 
 ---
 
-*Обновлено: 2026-07-02 14:44 автоматически через update-last-session.sh*
+*Обновлено: 2026-07-02 14:46 автоматически через update-last-session.sh*
