@@ -1,11 +1,11 @@
 ---
 type: handoff
-updated: 2026-07-02 16:13
+updated: 2026-07-02 16:36
 ---
 
 # 🔄 Handoff — Прошлая сессия
 
-**Завершена:** 2026-07-02 16:13
+**Завершена:** 2026-07-02 16:36
 
 ## Последний коммит
 2fad066 fix(mobile): lazy-load webrtc to stop Expo Go crash + native Google Sign-In on iOS
